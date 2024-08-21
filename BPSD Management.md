@@ -1,0 +1,65 @@
+# BPSD Management
+
+# Case - Geoff Morhi
+
+- Overview
+  - Admitted on 19/7/2024
+  - Arabic divorced 70M from NH (3 weeks ago) with aggressive behaviour, sexually inappropriate towards female staff
+  - B/G: severe vascular dementia with BPSD, traumatic brain injury (frontal lobe injury), HTN, previous delusions of infidelity
+  - Psychotropics: olanzapine 2.5mg BD, melatonin 2mg, PRN lorazepam 1mg TDS, PRN olanzapine 2.5mg BD, PRN oxycodone 2.5mg TDS
+  - Reg meds: coloxyl, perindopril 10mg
+  - Wandering, unsettled, refusing to engage
+  - Disorientated
+  - ACD: full resuscitation, confirmed with children
+  - Recently discharged to nursing home from Longbay JHFMHN (breach of AVO) in Aged Care ward
+    - ACAT did placement
+    - Geriatrician diagnosed with dementia in Longbay
+- Progress
+  - Iatrogenic sedation in ED: droperidol 10mg, midazolam 5mg IM, midazolam 2.5mg IV due to wandering, and subsequent aggression when attempted to be redirected
+  - Haloperidol IM PRN started 0.5mg, lorazepam and endone withheld
+  - Delirium prevention (reorientation, presence of family, regular toileting, analgesia, minimising re-orientation, limiting time in bed, sensory aids)
+  - Admitted to geris: says he bought a house yesterday, minimised incarceration (issue with wife), says a staff member wants to marry him
+  - Code Blacks: punched and slammed into wall this morning without trigger
+  - Ix: septic screen negative
+  - OPMH CL:
+    - Olanzapine increased to 2.5mg TDS, valproate 250/500mg, escitalopram 5mg, melatonin 
+    - Aggression in context of needs not being met and chronic difficulties with affect dysregulation, security guard following him, wanting to go home
+    - Refused Braeside due to lack of evidence of mental illness, consideration from Hammondcare (specialist dementia unit)
+  - Dementia CNC
+    - NCAT with coercive powers
+    - TOP5
+  - Discussion with son: nil current Guardianship. Consented for covert administration.
+  - Ongoing code blacks requiring IM haloperidol
+    - Attacking visitors and nurses
+    - Sexually inappropriate with staff
+    - Unstructured environment (ie. not jail)
+  - Plan: NCAT, dementia specialist unit
+  - Settled with covert administration of medications
+
+# Management
+- Approach
+  - Exclude superimposed delirium ie. physical examination and 
+- Biological: symptomatic
+  - Analgesics
+    - Agitation may be secondary to pain
+    - Simple analgesia can be trialled relatively safely
+  - Antipsychotics
+    - Choices
+      - Short courses of risperidone or olanzapine for severe distress and/or serious risk of harm to staff
+        - Risperidone: 0.5mg BD
+      - Attempt tapering if possible at 6 weeks, 3 months and every 6 months
+    - Should be discussed with carers and patients if possible 
+    - Limitations
+      - Small effect size
+      - Poor tolerability
+      - Increased mortality (strokes). Haloperidol has highest association with mortality.
+  - As per Maudsley
+    - Cognitive enhancers can improve BPSD albeit take up to several weeks to work
+    - Avoid benzos
+    - SSRIs can be used if depressed
+    - Limited evidence for mood-stabilisers
+    - Nil harm with melatonin
+    - ECT has some evidence suggesting good effect albeit concern of further cognitive impairment
+- Psychological
+  - TOP5
+- Social
