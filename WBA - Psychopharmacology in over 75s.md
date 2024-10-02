@@ -120,10 +120,10 @@
 
 
 Benzodiazepines in the elderly
-Overly prescribed in 65+ with up to 13% of all BZD prescriptions
-Has been on many lists to not be utilised for geriatric patients
-Mostly used in old people for sleep and anxiety
-Older people have increased sensitivity and decreased metabolism with the below adverse effects
+- Overly prescribed in 65+ with up to 13% of all BZD prescriptions
+- Has been on many lists to not be utilised for geriatric patients
+- Mostly used in old people for sleep and anxiety
+- Older people have increased sensitivity and decreased metabolism with the below adverse effects
 
 ## Indications
 - Effects: hypnotic, anxiolytic, anticonvulsant, muscular relaxant, amnesic
