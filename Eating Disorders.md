@@ -42,6 +42,49 @@
   - Do you think you're FAT when others say you're too thin?
   - Does FOOD dominate your life?
 
+# Adult Eating Disorder Inpatient Criteria
+
+- Medical vs psychiatric care is essentially determined by risk of refeeding syndrome
+- Criteria is as follows for NSW Health:
+  - Weight
+    - BMI < 16 (hospital) or BMI < 14 (medical)
+    - Rapid weight loss of more than 1kg/week
+    - Grossly inadequate nutritional intake
+  - Vitals
+    - SBP < 90 (hospital) or SBP < 80 (medical)
+    - Postural BP > 10mmHg (hospital), > 20mmhg (medical)
+    - Tachycardia > 110 or bradycardia < 40bpm (medical)
+    - Postural tachycardia > 10bpm
+    - Temp < 35.5 (hospital) or < 35 (medical)
+  - Bloods: FBC, EUC, LFT, CMP, glucose
+    - Glucose < 3.5 (hospital) or < 2.5 (medical)
+    - Sodium < 130 (hospital) or < 125 (medical)
+    - Potassium < 3.5 (hospital) or < 3 (medical)
+    - Magnesium < 1.0 (hospital) or < 0.7 (medical)
+    - Phosphate 0.8 (hospital) or < 0.8 (medical)
+    - Albumin < 35 (hospital) or < 30 (medical)
+    - LFT derangement (hospital) or AST or ALT > 500 (medical)
+    - Neutrophils < 2 (hospital) or < 1 (medical)
+  - ECG: QTc prolongation, any arrhythmia, non-specific ST or T wave changes (medical)
+  - Eating disorder symptoms
+    - Vomiting > 4x day or lack of control (hospital)
+  - Psychiatric risk: suicidal ideation, active self-harm, high agitation
+  - Least restrictive care
+    - Failure of community management
+    - Aversive family relationships
+- In summary
+  - Weight, vitals and bloods
+  - Failure of community management either due to inefficacy or ongoing family issues
+
+# Approach
+- Multidisciplinary input
+  - Refer to eating disorder specialist if available, otherwise CL Psychiatry
+  - Physician to manage medical safety
+  - Dietitian to manage ongoing nutrition
+- Involve family early
+
+
+
 # Refeeding Syndrome
 
 - Definition: nil formal one exists. Understood as shifts in fluid and electrolytes in malnutritioned patients being refed due to hormonal and metabolic changes
@@ -67,8 +110,12 @@
   - 
 
 
+
+
 # Eating Disorders Toolkit
 - Inpatient admission is part of the recovery process and definitely not curative
+
+
 
 # References
 * RANZCP Eating Disorder CPG
