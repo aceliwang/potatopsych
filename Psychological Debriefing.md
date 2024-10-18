@@ -112,15 +112,20 @@ Risk vs benefit analysis
 
 ---
 
-# dubious evidence for
+# poor evidence for
 
-- how can we know if it works if we barely know what it is?
+- No consensus on definition
+- Difficult to study
+- **Critical Incident Stress Management (CISM)**
 
-<!--
-So, firstly let's consider the question of how do we study this and find useful evidence for it if we cannot 
+<!-- footer: Bledsoe, B. E. (2003). CRITICAL INCIDENT STRESS MANAGEMENT (CISM): BENEFIT OR RISK FOR EMERGENCY SERVICES?. Prehospital Emergency Care, 7(2), 272-279. -->
 
--->
 
+<!-- 
+Now does psychological debriefing work? It's a bit difficult to study, considering we don't actually have an agreed upon definition as mentioned. However, the studies upon it which have attempted to confirm and describe its effects tend to use a broad definition of psychological debriefing. Can we say it works if we don't really know what it is? Furthermore, designing a study in regards to interventions following a trauma or crisis or disaster may have its logistical and ethical challenges. 
+
+Narrowing down psychological debriefing to certain protocols such as Critical Incident Stress Management may be able to isolate a positive effect in regards to acute stress relief and prevention of PTSD, however so far its only evidence unfortunately has come from the inventors themselves and their success has not been replicated by anyone else, suggesting an element of bias. On the other hand, the International Critical Incident Stress Foundation also alleges that the CISM is not aimed to prevent PTSD which I guess would invalidate its inclusion as psychological debriefing. But moving on:
+ -->
 
 ---
 
@@ -134,6 +139,9 @@ So, firstly let's consider the question of how do we study this and find useful 
   - moral and legal obligation to prevent development of work-related injury through vicarious trauma
   - employers offer it to attempt to avoid future work-compensation claims
 
+<!--
+footer: ""
+-->
 
 <!--
 So why is psychological debriefing done?
@@ -156,7 +164,10 @@ Trauma survivors:
 - **15%**: short-term distress + resolution with informal supports
 - **10%**: chronic distress
 
-TODO: reference
+<!--
+footer: Bonanno, G. A., Brewin, C. R., Kaniasty, K., & Greca, A. M. L. (2010). Weighing the costs of disaster: Consequences, risks, and resilience in individuals, families, and communities. Psychological science in the public interest, 11(1), 1-49.
+
+-->
 
 <!-- 
 
@@ -170,6 +181,9 @@ Obviously a bit hard to study, but the numbers suggest that approximately three 
 > # If 90% of trauma survivors end up fine, how much benefit is there really with universal psychological debriefing?
 
 <!-- I guess this then raises the question, if 90% of trauma survivors end up fine, is there really any benefit to performing psychological debriefing? -->
+<!--
+footer: ""
+-->
 
 ---
 
@@ -188,33 +202,39 @@ Aims:
 -->
 
 ---
-# mixed evidence for
-
-- TODO
-
----
 # clear evidence against
 
-- increased rate of PTSD compared to no treatment
-- increased rate of depression
-- increased length of recovery
+- Increased rate of PTSD compared to no treatment [OR 2.9, 95% CI 1.1-7.5]
+- Increased rate of depression
+- Increased length of recovery
+- Guidelines
+  - WHO Mental Health Gap Action Programme (2012)
+  - Phoenix Australian PTSD Guidelines (2022)
 
-<!-- Well, contrary to the well-meaning intentions of providing people with cheap and quick therapy, it turns out this may actually produce iatrogenic harm in patients. People who were followed following engagement in psychological debriefing were actually seen to have increased rates of PTSD and depression and the ones who did recover actually took longer to do so. Thus we actually have low benefit and an element of risk. -->
+<!-- footer: Wessely, S., Rose, S., & Bisson, J. (2000). Brief psychological interventions (" debriefing") for trauma-related symptoms and the prevention of post traumatic stress disorder. The Cochrane database of systematic reviews, (2), CD000560-CD000560. -->
 
+<!-- Well, contrary to the well-meaning intentions of providing people with cheap and quick therapy, it turns out this may actually produce iatrogenic harm in patients. People who were followed following engagement in psychological debriefing were actually seen to have increased rates of PTSD and depression and the ones who did recover actually took longer to do so. Thus we actually have low benefit AND potential harms being introduced to the patient. 
+
+This has been reflected within multipile guidelines particularly from the World Health Organisation and the Australian Phoenix guidelines to prevent slash treat PTSD.
+-->
 
 ---
 # what happens if psychological debriefing occurs?
 
 - Natural recovery following trauma is complex
   - Dependent on personality style, previous trauma
+- "Secondary" traumatisation
 - Interference with natural recovery
 - "Medicalises" normal distress thus generating expectations of pathology
 - Removes people's defences, but doesn't replace them
   - No guarantee of long-term therapy
 
-<!-- So how does this happen? We're not entirely too sure. The mind is complex as we know. Recovery and adjustment is also difficult and of course is dependent on personality, established coping mechanisms and previous exposure to trauma. Psychological debriefing is obviously not part of that natural recovery process and thus interferes with it. Furthermore, by adding medical and psychological intervention so early on, victims are placed into the "sick role" with expectations of potential pathological symptoms. By forcing people to debrief and to discuss their emotions, we remove their defences during that one session, with no time nor resources to replace them with other defences, essentially causing more harm than good.
+<!-- So how does this happen? We're not entirely too sure. The mind is complex as we know. Recovery and adjustment is also difficult and of course is dependent on personality, established coping mechanisms and previous exposure to trauma. Psychological debriefing is obviously not part of that natural recovery process and thus interferes with it. By utilising intense imaginal exposure of the trauma, this could actually just repeat their trauma without any useful emotional processing. Furthermore, by adding medical and psychological intervention so early on, victims are placed into the "sick role" with expectations of potential pathological symptoms. By forcing people to debrief and to discuss their emotions, we remove their defences during that one session, with no time nor resources to replace them with other defences, essentially causing more harm than good.
 -->
 
+<!--
+footer: ""
+-->
 
 ---
 # what should we do instead?
@@ -226,10 +246,6 @@ Aims:
 <!--
 Instead of treating universally with everyone who is exposed to trauma, this should only be reserved for those who are actually experiencing distress that is not responding to time and informal supports. We have strong evidence-based treatments which don't leave patients hanging and adequately address and treat for pathological symptoms which are actually present.
 -->
-
-
----
-# analogies to cancer screening
 
 
 ---
@@ -247,6 +263,3 @@ Less is more
 When we consider this from multiple lenses, from the ethics, from the risk vs benefit analysis and from the perspective of resources, it's harmful, there's no benefit and it's a waste of people's time and resources. Ultimately, psychological debriefing should be avoided.
 -->
 
----
-# references
-- https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1248924/full
