@@ -374,18 +374,75 @@ You are called to carry out a home visit at Mrs Smith's house who is 72 years of
 ### MEQ7.1 Outline the possible causes for her presentation.
 
 > Structure:
-> 
+> Organic incl. neurocognitive
+> Substance-induced
+> Psychotic
+> Affective
+> Neurotic
+> Personality factors
+
+- Organic
+  - Delirium
+    - Secondary to infection, polypharmacy
+  - Dementia: cognitive impairment
+    - Subcortical dementias: particularly with frontal lobe dysfunction
+    - Parkinson's dementia: secondary to L-DOPA
+  - Lithium toxicity
+- Affective
+  - Manic: irritability, difficulty with attention due to distractability
+  - Depression: pseudodementia secondary to relapse of depression
 
 ### MEQ7.2 Mrs Smith is admitted to the Older Patients Mental Health Service Inpatient Unit. What would be your advice to the registrar in prescribing of medications?
 
+> Prescribing in the geriatric
+> Atenolol
+> Lithium
+> Fluoxetine
+> L-DOPA
+
+- Clinical examination
+  - Fluid status examination
+- Investigations
+  - Lithium level
+- History
+  - Comorbidities
+  - Other drugs, consider interactions
+- Prescribing
+  - Withhold lithium
+  - Continue fluoxetine
+- Consider PRNs
+  - Lower dosages of PRNs depending on age
+  - Avoid agents associated with EPSEs if possible eg. preferring olanzapine and quetiapine
+
 ### MEQ7.3 Her son is visiting from overseas and he wants her to make a will. Outline your process of assessing testamentary capacity. 
+
+> Structure:
+> - General history
+> - Capacity specific
+
+- Testamentary capacity
+  - Define: ability to make a will
+  - Determined by a lawyer
+  - Medics can determine whether there are cognitive or psychiatric concerns impacting capacity
+    - Typically performed by geriatrician, psychogeriatrician or neuropsychologist
+  - Requires patient to:
+    - Understanding how a will works
+    - Understanding of the extent of the estate
+    - Understanding of all potential parties who may stake a claim
+    - Assess and weigh the respective strength of their claims
+    - Patient must be not be affected by "disease or disorder of the mind"
+- Assessment process
+  - Referral information
+    - Relevant background, history and personal circumstances
+    - Financial circumstances and relevant legal proceedings
+  - Cognitive exam
+  - 
 
 ### MEQ7.4 She wishes to make an EPA for property affairs. Assessment of capacity for Enduring Power of Attorney (EPA).
 
 ## MEQ 8
 
-You have been referred a 6 yr old boy Sam, by the paediatrician for encopresis. Sam lives with his mother who is a single mother and is unemployed. The paediatrician has ruled out 
-any organic issues and started him on laxatives and a star chart which has not worked.
+You have been referred a 6 yr old boy Sam, by the paediatrician for encopresis. Sam lives with his mother who is a single mother and is unemployed. The paediatrician has ruled out any organic issues and started him on laxatives and a star chart which has not worked.
 
 ### MEQ8.1 Outline your assessment / outline your approach to assessment. 
 
