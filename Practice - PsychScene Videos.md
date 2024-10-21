@@ -15,9 +15,9 @@
 - 4.2: 
 - 4.3: completed
 - 4.4: 
-- 5.1: 
+- 5.1: completed
 - 5.2: 
-- 5.3: 
+- 5.3: completed
 - 6.1: 
 - 7.1: 
 - 7.2: 
@@ -30,7 +30,7 @@
 - 9.3: 
 - 10.1: 
 - 10.2: 
-- 10.3: 
+- 10.3: completed
 
 ## MEQ 1
 
@@ -423,7 +423,7 @@ You are a consultation liaison psychiatrist. You are referred Bill by the endocr
 - Personality factors
   - Underlying personality vulnerabilities with poor maladaptive coping mechanisms leading to emotional dysregulation
 
-### MEQ5.2 You meet with Bill and his wife. Bill's wife has taken over cleaning, shopping and management of bills since Bill's surgery. Bill feels angry and fiustrated about this. According to the occupational therapist, Bill is capable of doing these things himself. Outline the management of the situation. 
+### MEQ5.2 You meet with Bill and his wife. Bill's wife has taken over cleaning, shopping and management of bills since Bill's surgery. Bill feels angry and frustrated about this. According to the occupational therapist, Bill is capable of doing these things himself. Outline the management of the situation. 
 
 - Structure
   - Short-term
@@ -534,6 +534,9 @@ You are called to carry out a home visit at Mrs Smith's house who is 72 years of
   - 
 
 ### MEQ7.4 She wishes to make an EPA for property affairs. Assessment of capacity for Enduring Power of Attorney (EPA).
+
+> Structure
+> 
 
 ## MEQ 8
 
@@ -660,11 +663,20 @@ You are a junior psychiatrist and Virginia is a 14 yr old girl who has been refe
 > Structure:
 > - CAMHS: multimodal assessment
 > - Full history
+> Missed: avoiding social settings -> assessment for anxiety
 
 - I would perform a **multimodal** assessment for this patient with review of Virginia, her referral from her family doctor and her parents.
-- History
-  - Presenting complaint regarding fatigue: duration, onset, last period of feeling well
-  - 
+  - This would involve assessing Virginia by herself, her parents by themselves and also together
+- History of presenting complaint
+  - Presenting complaint regarding fatigue: duration, onset, last period of feeling well, functional impairment
+  - Non-specific physical symptoms: when they started, what they are, do they come with the fatigue or are not temporally related
+  - Assessment of insomnia: initial, middle vs terminal insomnia. Current level of sleep hygiene and habits
+  - Medical history: previous diagnoses
+  - Family Hx: psychiatric diagnoses, family history of chronic fatigue syndrome
+  - Developmental history: complications at birth, milestones
+  - Forensic Hx: any issues with the police
+  - Substance use: alcohol, cannabis, vaping, LSD
+  - Psychosocial: situation at home, siblings, pets, relationship with peers
 
 ### MEQ10.2 Outline differential diagnosis you would consider.
 
@@ -684,4 +696,22 @@ You are a junior psychiatrist and Virginia is a 14 yr old girl who has been refe
 - Sleep disturbances
   - Sleep-wake phase disturbance
 
-### MEQ10.3 Mother asked for a sleeping tablet. Outline your advice. 
+### MEQ10.3 Mother asked for a sleeping tablet. Outline your advice.
+
+> Structure:
+> - CANMEDS: educator and management
+> Missed: sleep study, organise follow-up
+
+- Psychoeducation about insomnia, sleep hygiene and management
+- Discuss sleep hygiene
+  - Developing routine: sleep diary
+  - Minimising stimuli: avoiding computers, avoiding caffeine, exercise prior to sleep
+  - Promoting good sleep: optimising environment, sleeping only when required, optimising diet and exercise
+- Discuss next-line therapy
+  - Cognitive behavioural therapy for insomnia as psychotherapy to promote sleep hygiene and challenge cognitive models preventing sleep
+- Explore expectations around medication and discuss role of medications
+  - Adjuvant only to psychotherapy and sleep hygiene
+  - Melatonin as a supplement can be useful for short-term use
+  - Benzodiazepines or Z-drugs do not fix the underlying issue, can cause dependency and is associated with rebound insomnia
+- If unresponsive, consider sleep study
+- Organise follow-up with GP or myself to assess the effect of intervention with referral to sleep specialist if ongoing issues
