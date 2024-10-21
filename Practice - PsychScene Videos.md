@@ -6,8 +6,8 @@
 - 1.3: 
 - 2.1: completed
 - 2.2: 
-- 2.3: 
-- 2.4: 
+- 2.3: completed
+- 2.4: completed
 - 3.1: completed
 - 3.2: yuck, half-completed
 - 3.3: completed
@@ -184,12 +184,18 @@ Emile, a refugee from Serbia came to Australia 20 years ago. His parents and you
 
 ### MEQ2.3 What collateral information would you require? (4 marks)
 
-- Cover history with cultural sensitivity
-- Risk assessment
+> Structure:
+> - Who
+> - What
+> Missing: evidence for psychiatric disorders (hyperarousal, social withdrawal, depression)
+
+- Collateral from wife and GP regarding information
+  - Emphasis on cultural sensitivity
+- Risk assessment re risk of harm to self and others
 - Review of sleep parameters
-- Drug and alcohol usage
-- Psychosocial functioning
-- HPC
+- Drug and alcohol usage: culturally appropriate, substance from traditional doctors
+- Psychosocial functioning: stressors leading to adjustment issues
+- Evidence for morbidity: hyperarousal, social withdrawal, depression
 
 ### MEQ2.4 During your assessment, you found no psychiatric diagnosis. He states that his wife has been busy with her work and his two teenage sons that are not interested in cultural activity which he finds very frustrating. Outline your management plan.
 
@@ -207,13 +213,14 @@ Emile, a refugee from Serbia came to Australia 20 years ago. His parents and you
   - Excluded, nil requirement required
   - Consideration of hypnotics
 - Psychological
-  - Sleep hygiene practices
+  - [1] Sleep hygiene practices. Promoting good sleep, exercise 
   - CBT for insomnia
-  - Supportive counselling for cultural changes
+  - [1] Supportive counselling for cultural changes
   - Referral to transcultural mental health issues
-  - Psychoeducation with the family
+  - [1] Psychoeducation of patient regarding cultural difference and importance of children developing independence.
+  - [1] Psychoeducation of the family regarding the difficulties and frustrations in a cultural context
 - Social
-  - Cultural resources
+  - [1] Cultural resources: link up with community support groups, Men's Shed. Link up with social worker.
 
 ## MEQ3
 
@@ -367,6 +374,11 @@ Omar is a 23-year-old gentleman living at home with both his parents who are med
     - Discuss potential of private psychiatrist care if family is requesting for specific doctors
     - Leader
   
+- Approach
+  - Discussion with the son as to what he wants
+  - Discussion with family regarding their concerns
+  - 
+
 ### MEQ4.3 Father wants Omar to have more intervention and feels that not enough is being done for him. He has read about IPSRT and wants to find out how this would be helpful for Omar. Describe what it is and how it might benefit the patient. 
 
 > - Structure
