@@ -289,9 +289,14 @@ Omar is a 23-year-old gentleman living at home with both his parents who are med
   
 ### MEQ4.3 Father wants Omar to have more intervention and feels that not enough is being done for him. He has read about IPSRT and wants to find out how this would be helpful for Omar. Describe what it is and how it might benefit the patient. 
 
-- Structure
-  - Define IPSRT
-  - Discuss indications and potential benefits
+> - Structure
+>  - Define IPSRT
+>  - Discuss indications and potential benefits
+
+- Interpersonal social rhythm therapy
+  - Explores social and daily rhythm's impact on mood
+  - Targets bipolar affective disorder
+  - 
 
 ### MEQ4.4 Father has now prescribed and administered a depot. How would you handle the situation? 
 
