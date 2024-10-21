@@ -45,4 +45,4 @@
 ## Sedative Medications
 
 - Last resort for when non-pharmacological methods have failed
-- 
+- Symptomatic treatment, should never be used as monotherapy
