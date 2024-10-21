@@ -1,28 +1,28 @@
 # Practice - PsychScene Videos
 
 ## Progress
-- 1.1: 
+- 1.1: completed
 - 1.2: 
 - 1.3: 
-- 2.1: 
+- 2.1: completed
 - 2.2: 
 - 2.3: 
 - 2.4: 
-- 3.1: 
-- 3.2: 
-- 3.3: 
+- 3.1: completed
+- 3.2: yuck, half-completed
+- 3.3: completed
 - 4.1: 
 - 4.2: 
-- 4.3: 
+- 4.3: completed
 - 4.4: 
-- 5.1: 
+- 5.1: completed
 - 5.2: 
-- 5.3: 
+- 5.3: completed
 - 6.1: 
 - 7.1: 
 - 7.2: 
-- 7.3: 
-- 7.4: 
+- 7.3: need to check
+- 7.4: need to check
 - 8.1: completed
 - 8.2: nope
 - 9.1: 
@@ -30,7 +30,7 @@
 - 9.3: 
 - 10.1: 
 - 10.2: 
-- 10.3: 
+- 10.3: completed
 
 ## MEQ 1
 
@@ -221,9 +221,89 @@ You have recently assessed Mr. Newbury, aged 84 years, who lives in residential 
 
 ### MEQ3.1 Describe the information you would ask residential care staff to collect regarding Mr Newbury's difficult behaviour. 
 
+> Structure
+> - HPC: ABC analysis (antecedent, behaviour, consequences), previous baseline, orientation, cognition 
+> - Resolution of behaviour: whether time-limited or requires particular actions
+> - PMHx: including psychiatric
+> - FHx
+> - Drug and alcohol usage including smoking
+> - Forensic Hx
+> - PSHx: family supports, Guardianship, Person Responsible
+> - Medications: previous, current PRNs
+> - Risks: physical aggression, previous aggression, self-harm
+> - Collateral information including GP, geriatrician, nursing staff, family
+> Missing:
+> - General behaviour
+> - Co-resident amount and staff-to-patient ratio
+> - Mood chart, pre-morbid personality
+
+- ABC analysis
+  - Antecedent: triggers for behaviour including timing (eg. sundowning), conflict with staff or other residents, boundaries being set
+  - Behaviours: verbal aggression, content of aggression, duration, frequency and limiters of behaviour
+  - Consequences:
+    - How staff are responding to behaviours
+    - Punitive actions
+    - Negative vs positive reinforcement
+    - Whether medications or non-pharmacological methods have been used
+    - Risks with consequences
+- Patient-specific
+  - Physical status: concern for delirium
+  - Informal supports, current capacity and Person Responsible
+  - Premorbid personality and baseline behaviour
+  - Medical and psychiatric diagnoses
+  - Past drug and alcohol usage
+  - Forensic history involving aggression
+- Environment-specific
+  - Resident-to-staffing ratios
+  - Number of staff and co-residents
+
 ### MEQ3.2 When you return to the centre one week later, you find that staff have not collected any information for you. Discuss the factors that make it difficult for care staff to collect such information.
 
+> Structure:
+> - Staff factors
+> - Patient factors
+> - System factors
+
+- Staff factors
+  - Lack of amount of staff with poor ratios
+  - Lack of regular staff for any consistency in reports
+  - Lack of training in staff to determine triggers
+  - Lack of management / leadership in staff
+  - Countertransference towards patient in regards to behaviour with concern of progressive illness
+  - Tasks being perceived as extra work without extra-pay
+  - Cultural barriers
+  - Mistrust of clinicians
+- Patient factors
+  - Difficulty communicating due to severity of dementia
+  - Risks towards staff due to verbal +/- physical aggression
+- System factors
+  - Poor handover, lack of electronic records, poor documentation
+  - Poor care plans
+
 ### MEQ3.3 The management of the centre asks for a teaching session for the regular staff on management of difficult behaviour and dementia patients. Discuss how you would educate the staff? 
+
+> Structure
+> - CANMEDS: educator, clinician and scholar
+> - Approach
+> - Content
+>   - Non-pharmacological
+>   - Pharmacological
+> Missing: pre-educational survey
+
+- Approach
+  - Pre-educational survey
+- Content
+  - Psychoeducation regarding dementia, discuss natural prognosis and likely impairment
+  - Discuss specific symptoms of dementia subtypes including memory loss, hallucinations
+  - Discuss behavioural and psychological symptoms of dementia
+  - Discuss behavioural disturbances in context of above
+  - Discuss underlying reasons triggering
+  - Discussion of delirium causing further agitation and escalation of behaviour
+  - Discuss treatment
+    - Non-pharmacological methods: reorientation, clear communication strategies, usage of familiar staff and/or family, maintaining regular sleep cycles, appetite, exercise, utilising positive reinforcement
+    - Pharmacological strategies: last-resort if distressed
+      - Discuss risks and contraindications
+      - Discuss monitoring required
 
 ## MEQ 4
 
@@ -289,9 +369,24 @@ Omar is a 23-year-old gentleman living at home with both his parents who are med
   
 ### MEQ4.3 Father wants Omar to have more intervention and feels that not enough is being done for him. He has read about IPSRT and wants to find out how this would be helpful for Omar. Describe what it is and how it might benefit the patient. 
 
-- Structure
-  - Define IPSRT
-  - Discuss indications and potential benefits
+> - Structure
+>  - Define IPSRT
+>  - Discuss indications and potential benefits
+> - Relate it to the case
+
+- Interpersonal and social rhythm therapy
+  - Psychotherapy targeted towards bipolar affective disorder
+  - Based on circadian rhythms with emphasis on stable daily routines to maintain euthymic state
+  - Focuses on rhythms including sleep-wake, energy, alertness, appetite, medications, social interactions which are typically synchronised when well
+  - Periods of relapse whether depressive or manic can lead to destabilisation of regular rhythms
+  - Also vice-versa, destabilising events interrupting social rhythms can precipitate affective relapse
+  - Can be used in either acute intervention or as prophylaxis in bipolar illness
+  - Interpersonal therapy
+    - Focus on griefs, role transitions, role disputes and interpersonal deficits
+- Relation to Omar:
+  - Grief and adjustment to having an illness
+  - Recent role transitions from moving back into his parent's house
+  - Addressing sleep disturbances from bipolar affective disorder and from comorbid substance use
 
 ### MEQ4.4 Father has now prescribed and administered a depot. How would you handle the situation? 
 
@@ -328,7 +423,7 @@ You are a consultation liaison psychiatrist. You are referred Bill by the endocr
 - Personality factors
   - Underlying personality vulnerabilities with poor maladaptive coping mechanisms leading to emotional dysregulation
 
-### MEQ5.2 You meet with Bill and his wife. Bill's wife has taken over cleaning, shopping and management of bills since Bill's surgery. Bill feels angry and fiustrated about this. According to the occupational therapist, Bill is capable of doing these things himself. Outline the management of the situation. 
+### MEQ5.2 You meet with Bill and his wife. Bill's wife has taken over cleaning, shopping and management of bills since Bill's surgery. Bill feels angry and frustrated about this. According to the occupational therapist, Bill is capable of doing these things himself. Outline the management of the situation. 
 
 - Structure
   - Short-term
@@ -374,18 +469,102 @@ You are called to carry out a home visit at Mrs Smith's house who is 72 years of
 ### MEQ7.1 Outline the possible causes for her presentation.
 
 > Structure:
-> 
+> Organic incl. neurocognitive
+> Substance-induced
+> Psychotic
+> Affective
+> Neurotic
+> Personality factors
+
+- Organic
+  - Delirium
+    - Secondary to infection, polypharmacy
+  - Dementia: cognitive impairment
+    - Subcortical dementias: particularly with frontal lobe dysfunction
+    - Parkinson's dementia: secondary to L-DOPA
+  - Lithium toxicity
+- Affective
+  - Manic: irritability, difficulty with attention due to distractability
+  - Depression: pseudodementia secondary to relapse of depression
 
 ### MEQ7.2 Mrs Smith is admitted to the Older Patients Mental Health Service Inpatient Unit. What would be your advice to the registrar in prescribing of medications?
 
+> Prescribing in the geriatric
+> Atenolol
+> Lithium
+> Fluoxetine
+> L-DOPA
+
+- History
+  - Medication reconciliation
+  - Review Webster pack
+  - Review medication summaries
+  - Review previous records regarding medication lists
+  - Comorbidities
+  - Consider interactions with other drugs
+- Clinical examination
+  - Fluid status examination
+  - Neurological examination, concern of tremors, ataxia, myoclonic jerks
+- Investigations
+  - Lithium level
+- Prescribing
+  - Withhold lithium whilst levels are being drawn
+  - Continue fluoxetine
+- Consider PRNs
+  - Lower dosages of PRNs depending on age
+  - Avoid agents associated with EPSEs if possible eg. preferring olanzapine and quetiapine
+
 ### MEQ7.3 Her son is visiting from overseas and he wants her to make a will. Outline your process of assessing testamentary capacity. 
+
+> Structure:
+> - General history
+> - Capacity specific
+
+- Testamentary capacity
+  - Define: ability to make a will
+  - Determined by a lawyer
+  - Medics can determine whether there are cognitive or psychiatric concerns impacting capacity
+    - Typically performed by geriatrician, psychogeriatrician or neuropsychologist
+  - Requires patient to:
+    - Understanding how a will works
+    - Understanding of the extent of the estate
+    - Understanding of all potential parties who may stake a claim
+    - Assess and weigh the respective strength of their claims
+    - Patient must be not be affected by "disease or disorder of the mind"
+- Assessment process
+  - Referral information
+    - Relevant background, history and personal circumstances
+    - Financial circumstances and relevant legal proceedings
+  - Assess their cognition
+  - Understanding regarding their will
+  - Understanding their natural beneficiarys
+  - Understanding their obligations to care for their dependents
+  - Discriminating between claims
+  - Understanding the consequences of their decisions
+  - 
 
 ### MEQ7.4 She wishes to make an EPA for property affairs. Assessment of capacity for Enduring Power of Attorney (EPA).
 
+> Structure:
+> ?
+
+- Enduring power of attorney
+  - Must understand the nature and effect
+  - Must be able to appreciate, retain and explain their understanding
+  - Understanding when enduring power of attorney comes into effect
+  - Understanding the decisions a power of attorney can perform
+
+- Review any existing medical reports or psychological reports
+- Review any occupational therapy functional capacity reports
+- Medical practitioners typically involved
+  - Geriatrician: for old people and dementia
+  - Medical specialist for intellectual disability, mental illness or acquired brain injury
+  - Neuropsychologist
+- https://www.lawsociety.com.au/sites/default/files/2018-04/Enduring%20POA.pdf
+
 ## MEQ 8
 
-You have been referred a 6 yr old boy Sam, by the paediatrician for encopresis. Sam lives with his mother who is a single mother and is unemployed. The paediatrician has ruled out 
-any organic issues and started him on laxatives and a star chart which has not worked.
+You have been referred a 6 yr old boy Sam, by the paediatrician for encopresis. Sam lives with his mother who is a single mother and is unemployed. The paediatrician has ruled out any organic issues and started him on laxatives and a star chart which has not worked.
 
 ### MEQ8.1 Outline your assessment / outline your approach to assessment. 
 
@@ -503,7 +682,25 @@ A 4-year-old girl who lives with her parents and has two older siblings, aged 8 
 
 You are a junior psychiatrist and Virginia is a 14 yr old girl who has been referred to your community mental health service by her family doctor who has diagnosed her as having chronic fatigue syndrome. Virginia has a two-year history of excessive tiredness and nonspecific physical symptoms. Virginia has had home schooling for the past year, avoids social settings and has a little contact with peers. She says she could do all things "if they were open at night when I am awake". She stays up watching television and talking to online internet chat rooms until 3 am and then sleeps until midday. Virginia's mother, Mrs Bennett, has stopped work so she can care for her daughter. The family doctor says she has excluded all significant organic issues of Virginia's fatigue but wonders if there are psychiatric problems. She requests that you assess and treat her. You take her history and carry out her mental state examination. 
 
-### MEQ10.1 Outline the areas of history' that you would focus on in assessing her presentation. (15 marks) 
+### MEQ10.1 Outline the areas of history' that you would focus on in assessing her presentation. (15 marks)
+
+> Structure:
+> - CAMHS: multimodal assessment
+> - Full history
+> Missed: avoiding social settings -> assessment for anxiety
+
+- I would perform a **multimodal** assessment for this patient with review of Virginia, her referral from her family doctor and her parents.
+  - This would involve assessing Virginia by herself, her parents by themselves and also together
+- History of presenting complaint
+  - Presenting complaint regarding fatigue: duration, onset, last period of feeling well, functional impairment
+  - Non-specific physical symptoms: when they started, what they are, do they come with the fatigue or are not temporally related
+  - Assessment of insomnia: initial, middle vs terminal insomnia. Current level of sleep hygiene and habits
+  - Medical history: previous diagnoses
+  - Family Hx: psychiatric diagnoses, family history of chronic fatigue syndrome
+  - Developmental history: complications at birth, milestones
+  - Forensic Hx: any issues with the police
+  - Substance use: alcohol, cannabis, vaping, LSD
+  - Psychosocial: situation at home, siblings, pets, relationship with peers
 
 ### MEQ10.2 Outline differential diagnosis you would consider.
 
@@ -523,4 +720,22 @@ You are a junior psychiatrist and Virginia is a 14 yr old girl who has been refe
 - Sleep disturbances
   - Sleep-wake phase disturbance
 
-### MEQ10.3 Mother asked for a sleeping tablet. Outline your advice. 
+### MEQ10.3 Mother asked for a sleeping tablet. Outline your advice.
+
+> Structure:
+> - CANMEDS: educator and management
+> Missed: sleep study, organise follow-up
+
+- Psychoeducation about insomnia, sleep hygiene and management
+- Discuss sleep hygiene
+  - Developing routine: sleep diary
+  - Minimising stimuli: avoiding computers, avoiding caffeine, exercise prior to sleep
+  - Promoting good sleep: optimising environment, sleeping only when required, optimising diet and exercise
+- Discuss next-line therapy
+  - Cognitive behavioural therapy for insomnia as psychotherapy to promote sleep hygiene and challenge cognitive models preventing sleep
+- Explore expectations around medication and discuss role of medications
+  - Adjuvant only to psychotherapy and sleep hygiene
+  - Melatonin as a supplement can be useful for short-term use
+  - Benzodiazepines or Z-drugs do not fix the underlying issue, can cause dependency and is associated with rebound insomnia
+- If unresponsive, consider sleep study
+- Organise follow-up with GP or myself to assess the effect of intervention with referral to sleep specialist if ongoing issues

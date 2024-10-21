@@ -42,7 +42,15 @@
     - Avoid clock-watching
     - Sleep diary: realistic assessments vs assumptions
 
+## Psychotherapy
+- Cognitive behavioural therapy for insomnia
+
 ## Sedative Medications
 
 - Last resort for when non-pharmacological methods have failed
-- Symptomatic treatment, should never be used as monotherapy
+- Should never be used as monotherapy
+- Essentially symptomatic treatments, thus not curing any underlying issues
+- Risk of rebound insomnia following cessation
+- Options
+  - Attempt to utilise current psychotropics with sedative effects eg. olanzapine, quetiapine, mirtazapine
+- 

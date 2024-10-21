@@ -6,3 +6,5 @@
   - Categorise via CANMEDS domains
 - For approach to deal with difficult patients
   - Include CANMEDS domains in how you approach the situation
+- For psychotherapy questions
+  - Relate it to the case
