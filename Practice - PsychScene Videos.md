@@ -8,12 +8,12 @@
 - 2.2: 
 - 2.3: 
 - 2.4: 
-- 3.1: 
-- 3.2: 
-- 3.3: 
+- 3.1: completed
+- 3.2: yuck, half-completed
+- 3.3: completed
 - 4.1: 
 - 4.2: 
-- 4.3: 
+- 4.3: completed
 - 4.4: 
 - 5.1: 
 - 5.2: 
@@ -221,9 +221,89 @@ You have recently assessed Mr. Newbury, aged 84 years, who lives in residential 
 
 ### MEQ3.1 Describe the information you would ask residential care staff to collect regarding Mr Newbury's difficult behaviour. 
 
+> Structure
+> - HPC: ABC analysis (antecedent, behaviour, consequences), previous baseline, orientation, cognition 
+> - Resolution of behaviour: whether time-limited or requires particular actions
+> - PMHx: including psychiatric
+> - FHx
+> - Drug and alcohol usage including smoking
+> - Forensic Hx
+> - PSHx: family supports, Guardianship, Person Responsible
+> - Medications: previous, current PRNs
+> - Risks: physical aggression, previous aggression, self-harm
+> - Collateral information including GP, geriatrician, nursing staff, family
+> Missing:
+> - General behaviour
+> - Co-resident amount and staff-to-patient ratio
+> - Mood chart, pre-morbid personality
+
+- ABC analysis
+  - Antecedent: triggers for behaviour including timing (eg. sundowning), conflict with staff or other residents, boundaries being set
+  - Behaviours: verbal aggression, content of aggression, duration, frequency and limiters of behaviour
+  - Consequences:
+    - How staff are responding to behaviours
+    - Punitive actions
+    - Negative vs positive reinforcement
+    - Whether medications or non-pharmacological methods have been used
+    - Risks with consequences
+- Patient-specific
+  - Physical status: concern for delirium
+  - Informal supports, current capacity and Person Responsible
+  - Premorbid personality and baseline behaviour
+  - Medical and psychiatric diagnoses
+  - Past drug and alcohol usage
+  - Forensic history involving aggression
+- Environment-specific
+  - Resident-to-staffing ratios
+  - Number of staff and co-residents
+
 ### MEQ3.2 When you return to the centre one week later, you find that staff have not collected any information for you. Discuss the factors that make it difficult for care staff to collect such information.
 
+> Structure:
+> - Staff factors
+> - Patient factors
+> - System factors
+
+- Staff factors
+  - Lack of amount of staff with poor ratios
+  - Lack of regular staff for any consistency in reports
+  - Lack of training in staff to determine triggers
+  - Lack of management / leadership in staff
+  - Countertransference towards patient in regards to behaviour with concern of progressive illness
+  - Tasks being perceived as extra work without extra-pay
+  - Cultural barriers
+  - Mistrust of clinicians
+- Patient factors
+  - Difficulty communicating due to severity of dementia
+  - Risks towards staff due to verbal +/- physical aggression
+- System factors
+  - Poor handover, lack of electronic records, poor documentation
+  - Poor care plans
+
 ### MEQ3.3 The management of the centre asks for a teaching session for the regular staff on management of difficult behaviour and dementia patients. Discuss how you would educate the staff? 
+
+> Structure
+> - CANMEDS: educator, clinician and scholar
+> - Approach
+> - Content
+>   - Non-pharmacological
+>   - Pharmacological
+> Missing: pre-educational survey
+
+- Approach
+  - Pre-educational survey
+- Content
+  - Psychoeducation regarding dementia, discuss natural prognosis and likely impairment
+  - Discuss specific symptoms of dementia subtypes including memory loss, hallucinations
+  - Discuss behavioural and psychological symptoms of dementia
+  - Discuss behavioural disturbances in context of above
+  - Discuss underlying reasons triggering
+  - Discussion of delirium causing further agitation and escalation of behaviour
+  - Discuss treatment
+    - Non-pharmacological methods: reorientation, clear communication strategies, usage of familiar staff and/or family, maintaining regular sleep cycles, appetite, exercise, utilising positive reinforcement
+    - Pharmacological strategies: last-resort if distressed
+      - Discuss risks and contraindications
+      - Discuss monitoring required
 
 ## MEQ 4
 
@@ -289,9 +369,24 @@ Omar is a 23-year-old gentleman living at home with both his parents who are med
   
 ### MEQ4.3 Father wants Omar to have more intervention and feels that not enough is being done for him. He has read about IPSRT and wants to find out how this would be helpful for Omar. Describe what it is and how it might benefit the patient. 
 
-- Structure
-  - Define IPSRT
-  - Discuss indications and potential benefits
+> - Structure
+>  - Define IPSRT
+>  - Discuss indications and potential benefits
+> - Relate it to the case
+
+- Interpersonal and social rhythm therapy
+  - Psychotherapy targeted towards bipolar affective disorder
+  - Based on circadian rhythms with emphasis on stable daily routines to maintain euthymic state
+  - Focuses on rhythms including sleep-wake, energy, alertness, appetite, medications, social interactions which are typically synchronised when well
+  - Periods of relapse whether depressive or manic can lead to destabilisation of regular rhythms
+  - Also vice-versa, destabilising events interrupting social rhythms can precipitate affective relapse
+  - Can be used in either acute intervention or as prophylaxis in bipolar illness
+  - Interpersonal therapy
+    - Focus on griefs, role transitions, role disputes and interpersonal deficits
+- Relation to Omar:
+  - Grief and adjustment to having an illness
+  - Recent role transitions from moving back into his parent's house
+  - Addressing sleep disturbances from bipolar affective disorder and from comorbid substance use
 
 ### MEQ4.4 Father has now prescribed and administered a depot. How would you handle the situation? 
 
@@ -503,7 +598,16 @@ A 4-year-old girl who lives with her parents and has two older siblings, aged 8 
 
 You are a junior psychiatrist and Virginia is a 14 yr old girl who has been referred to your community mental health service by her family doctor who has diagnosed her as having chronic fatigue syndrome. Virginia has a two-year history of excessive tiredness and nonspecific physical symptoms. Virginia has had home schooling for the past year, avoids social settings and has a little contact with peers. She says she could do all things "if they were open at night when I am awake". She stays up watching television and talking to online internet chat rooms until 3 am and then sleeps until midday. Virginia's mother, Mrs Bennett, has stopped work so she can care for her daughter. The family doctor says she has excluded all significant organic issues of Virginia's fatigue but wonders if there are psychiatric problems. She requests that you assess and treat her. You take her history and carry out her mental state examination. 
 
-### MEQ10.1 Outline the areas of history' that you would focus on in assessing her presentation. (15 marks) 
+### MEQ10.1 Outline the areas of history' that you would focus on in assessing her presentation. (15 marks)
+
+> Structure:
+> - CAMHS: multimodal assessment
+> - Full history
+
+- I would perform a **multimodal** assessment for this patient with review of Virginia, her referral from her family doctor and her parents.
+- History
+  - Presenting complaint regarding fatigue: duration, onset, last period of feeling well
+  - 
 
 ### MEQ10.2 Outline differential diagnosis you would consider.
 
