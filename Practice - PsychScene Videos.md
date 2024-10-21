@@ -11,20 +11,20 @@
 - 3.1: completed
 - 3.2: yuck, half-completed
 - 3.3: completed
-- 4.1: 
+- 4.1: completed
 - 4.2: 
 - 4.3: completed
 - 4.4: 
 - 5.1: completed
 - 5.2: 
 - 5.3: completed
-- 6.1: 
-- 7.1: 
-- 7.2: 
-- 7.3: need to check
+- 6.1: completed
+- 7.1: completed
+- 7.2: eh good enough, do notes
+- 7.3: eh good enough, export to notes
 - 7.4: need to check
 - 8.1: completed
-- 8.2: nope
+- 8.2: 
 - 9.1: 
 - 9.2: half-completed
 - 9.3: 
@@ -455,12 +455,18 @@ A 35-year-old female, Janine who works as a Career Medical Officer (CMO) at the 
     - Non-maleficence
     - Autonomy
     - Justice
+- Missed
+  - Location of admission
+- Justice
+  - Depending on their mental stability, patient should be informed of the complaint against them as noted with natural justice
 - Autonomy
-  - Patient confidentiality
-- Safety of patients
+  - Patient confidentiality: information regarding the patient's admission should not be shared without the patient's consent
+- Safety of patients regarding duty of care
   - Inappropriate behaviour may be driven by underlying psychiatric disturbance, placing patients at risk of harm
   - Issues with concentration may lead to unprofessional practice
-  - Consider notification
+  - Consider mandatory reporting and notification of registration depending on situation
+- Beneficence and non-maleficence
+  - Patient should be admitted to a separate mental health facility possibily in a different district to avoid conflict of interests and to afford sensitivity to her privacy
 
 ## MEQ 7
 
@@ -478,14 +484,17 @@ You are called to carry out a home visit at Mrs Smith's house who is 72 years of
 
 - Organic
   - Delirium
-    - Secondary to infection, polypharmacy
+    - Secondary to infection, polypharmacy, constipation, urinary retention, infection, electrolyte disturbance (SIADH with SSRIs)
   - Dementia: cognitive impairment
     - Subcortical dementias: particularly with frontal lobe dysfunction
     - Parkinson's dementia: secondary to L-DOPA
   - Lithium toxicity
+  - Atenolol suggests underlying cardiac issues which could lead to pulmonary embolism or cerebrovascular accident
+  - L-DOPA could also increase mood fluctuation with confusion, euphoria and irritability
 - Affective
   - Manic: irritability, difficulty with attention due to distractability
   - Depression: pseudodementia secondary to relapse of depression
+- **Substance withdrawal** ie. alcohol
 
 ### MEQ7.2 Mrs Smith is admitted to the Older Patients Mental Health Service Inpatient Unit. What would be your advice to the registrar in prescribing of medications?
 
@@ -494,9 +503,11 @@ You are called to carry out a home visit at Mrs Smith's house who is 72 years of
 > Lithium
 > Fluoxetine
 > L-DOPA
+> Missed: **compliance**, cease unnecessary medications, MDT liaison
 
 - History
   - Medication reconciliation
+  - Assess compliance
   - Review Webster pack
   - Review medication summaries
   - Review previous records regarding medication lists
@@ -507,8 +518,12 @@ You are called to carry out a home visit at Mrs Smith's house who is 72 years of
   - Neurological examination, concern of tremors, ataxia, myoclonic jerks
 - Investigations
   - Lithium level
+  - Electrolytes to rule out hyponatraemia
+  - Blood tests to exclude infections leading to delirium
 - Prescribing
-  - Withhold lithium whilst levels are being drawn
+  - Start low, go slow due to risk of adverse effects not being tolerated
+  - Avoid benzos if possible due to increased risk of falls
+  - Extreme caution with antispychotics due to risk of stroke, exacerbation of Parkinsonism as well as NMS
   - Continue fluoxetine
 - Consider PRNs
   - Lower dosages of PRNs depending on age
@@ -518,7 +533,12 @@ You are called to carry out a home visit at Mrs Smith's house who is 72 years of
 
 > Structure:
 > - General history
+> - Family = CANMEDS + focusing on the patient
 > - Capacity specific
+> Missed: delay if patient is unwell, **dual agency dilemma**
+
+- Enquire with the patient whether she consents to making a will
+  - Delay if the patient is unwell and is expected to recover
 
 - Testamentary capacity
   - Define: ability to make a will
@@ -541,7 +561,7 @@ You are called to carry out a home visit at Mrs Smith's house who is 72 years of
   - Understanding their obligations to care for their dependents
   - Discriminating between claims
   - Understanding the consequences of their decisions
-  - 
+- Potential referral to independent psychogeriatrician to avoid dual agency dilemma as a treating doctors vs a medicolegal psychiatrist
 
 ### MEQ7.4 She wishes to make an EPA for property affairs. Assessment of capacity for Enduring Power of Attorney (EPA).
 
@@ -659,7 +679,7 @@ A 4-year-old girl who lives with her parents and has two older siblings, aged 8 
 
 > Structure:
 > Ethical issues
-> - Primary carer
+> - Primary carer: legal guardian and capacity
 > - Disturbance of attachment
 > - Child's guardian
 > - Public health: safety of staff and others
