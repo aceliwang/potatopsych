@@ -1,10 +1,10 @@
 # Practice - PsychScene Videos
 
 ## Progress
-- 1.1: 
+- 1.1: completed
 - 1.2: 
 - 1.3: 
-- 2.1: 
+- 2.1: completed
 - 2.2: 
 - 2.3: 
 - 2.4: 
@@ -21,8 +21,8 @@
 - 6.1: 
 - 7.1: 
 - 7.2: 
-- 7.3: 
-- 7.4: 
+- 7.3: need to check
+- 7.4: need to check
 - 8.1: completed
 - 8.2: nope
 - 9.1: 
@@ -495,15 +495,20 @@ You are called to carry out a home visit at Mrs Smith's house who is 72 years of
 > Fluoxetine
 > L-DOPA
 
+- History
+  - Medication reconciliation
+  - Review Webster pack
+  - Review medication summaries
+  - Review previous records regarding medication lists
+  - Comorbidities
+  - Consider interactions with other drugs
 - Clinical examination
   - Fluid status examination
+  - Neurological examination, concern of tremors, ataxia, myoclonic jerks
 - Investigations
   - Lithium level
-- History
-  - Comorbidities
-  - Other drugs, consider interactions
 - Prescribing
-  - Withhold lithium
+  - Withhold lithium whilst levels are being drawn
   - Continue fluoxetine
 - Consider PRNs
   - Lower dosages of PRNs depending on age
@@ -530,13 +535,32 @@ You are called to carry out a home visit at Mrs Smith's house who is 72 years of
   - Referral information
     - Relevant background, history and personal circumstances
     - Financial circumstances and relevant legal proceedings
-  - Cognitive exam
+  - Assess their cognition
+  - Understanding regarding their will
+  - Understanding their natural beneficiarys
+  - Understanding their obligations to care for their dependents
+  - Discriminating between claims
+  - Understanding the consequences of their decisions
   - 
 
 ### MEQ7.4 She wishes to make an EPA for property affairs. Assessment of capacity for Enduring Power of Attorney (EPA).
 
-> Structure
-> 
+> Structure:
+> ?
+
+- Enduring power of attorney
+  - Must understand the nature and effect
+  - Must be able to appreciate, retain and explain their understanding
+  - Understanding when enduring power of attorney comes into effect
+  - Understanding the decisions a power of attorney can perform
+
+- Review any existing medical reports or psychological reports
+- Review any occupational therapy functional capacity reports
+- Medical practitioners typically involved
+  - Geriatrician: for old people and dementia
+  - Medical specialist for intellectual disability, mental illness or acquired brain injury
+  - Neuropsychologist
+- https://www.lawsociety.com.au/sites/default/files/2018-04/Enduring%20POA.pdf
 
 ## MEQ 8
 
