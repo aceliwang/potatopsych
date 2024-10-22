@@ -31,6 +31,9 @@
 - 10.1: 
 - 10.2: 
 - 10.3: completed
+- 17.1:
+- 17.2:
+- 17.3:
 - 18.1: not completed
 - 19.2: to check
 - 19.3: to check
@@ -775,6 +778,44 @@ You are a junior psychiatrist and Virginia is a 14 yr old girl who has been refe
 - If unresponsive, consider sleep study
 - Organise follow-up with GP or myself to assess the effect of intervention with referral to sleep specialist if ongoing issues
 
+## MEQ 16
+
+You are a consultant psychiatrist working in the mental health service. Sarah, who is a stage 2 trainee, has been assigned to work with you. She contacts you with regards to arranging supervision and you set-up a time to meet with her.
+
+### MEQ 16.1 What principles of supervision, as per RANZCP guidelines, would you use in this instance?
+
+### MEQ 16.2 What are the principles of effective feedback?
+
+### MEQ 16.3 Sarah informs you that you have an upcoming assessment of Fatima, a 39F Iranian refugee, who is the mother of two children, where she wants to use a workplace-based assessment for the stage 2 EPA (entrusted professional activity) on CALD - Working with Culturally and Linguistically Diverse Population. She tells you the meeting is scheduled with an interpreter. What are the principles of using an interpreter?
+
+### MEQ 16.4 Sarah approaches you with an ECG of Fatima with concerns about the QTc reported as 450 msec. Fatima is prescribed an antipsychotic medication. What advice would you provide to Sarah?
+
+## MEQ 17
+
+You are a junior consultant psychiatrist in the community mental health clinic. You are referred by a GP for assessment, James, a 39-year-old unemployed electrician living with his parents. James has had a diagnosis of obsessive-compulsive disorder over the last 20 years. He hardly ever leaves the house these days and relies on his parents for shopping, cooking, etc. He has been treated with medications in the past but he has self-ceased all medications for fear of side-effects. He has been linked in with a clinic in the past but disengaged after a few months.
+
+### MEQ 17.1 What do you think are some of the possible reasons for James not engaging with the clinic in the past? List and elaborate (10 marks).
+
+> Structure:
+> - Template: barriers to treatment (biopsychosocial 4Ps)
+> - Patient issues
+> - Clinic issues
+> - Systemic issues
+
+- Previous poor experience with treatment
+- Stigma
+- Countertransference, transference
+- Secondary to his illness
+- Comorbid mental illness
+- Lack of continuity of care: changing staff
+- Lack of access and transport to the clinic
+
+### MEQ 17.2 He agrees to engage in treatment with you as long as he is not admitted to hospital. You decide to provide psychological therapy (CBT). How would you go about planning and implementing CBT in James?
+
+### MEQ 17.3.What are the pharmacological recommendations for treatment of OCD in James?
+
+
+
 ## MEQ 18
 
 You are a junior consultant psychiatrist working in a regional area. There has been an electroconvulsive therapy (ECT) adverse event (critical incident) involving ECT for a patient. 
@@ -924,5 +965,12 @@ Joe, a 45-year-old gentleman with schizophrenia working as a gardener has recent
 - Antipsychotics on the other hand do not exhibit the same tendency to upregulate however tapering or cessation of antipsychotics can result in psychotic relapse, depression and/or anxiety. 
 - Finally, I would ask if they understood the above and whether they had any further questions
 
-## MEQ 20
+## MEQ 21
+
+Young male believes he has ADHD.
+
+### MEQ 21.1 Approach to assessment.
+### MEQ 21.2 What are the issues in prescribing medication in adult ADHD?
+### MEQ 21.3 Your prescribing in adult ADHD is higher than your peers in the region. How would you respond and manage? Your clinical director hands you an evaluation showing that your practice was prescribing psychostimulants vastly different to those of your peers. How would you go about addressing this?
+### MEQ 21.4 Non-pharmacological strategies in management of adult ADHD
 
