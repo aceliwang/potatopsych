@@ -31,6 +31,9 @@
 - 10.1: 
 - 10.2: 
 - 10.3: completed
+- 18.1: not completed
+- 19.2: to check
+- 19.3: to check
 
 ## MEQ 1
 
@@ -776,7 +779,36 @@ You are a junior psychiatrist and Virginia is a 14 yr old girl who has been refe
 
 You are a junior consultant psychiatrist working in a regional area. There has been an electroconvulsive therapy (ECT) adverse event (critical incident) involving ECT for a patient. 
 
-### MEQ 18.1 A First-year student asks you to explain what a root cause analysis is. List/explain/describe (8 marks).
+### MEQ 18.1 A first-year student asks you to explain what a root cause analysis is. List/explain/describe (8 marks).
+
+> Structure:
+> - 8 marks = 4x 2 marks
+> - What it is
+> - Why it's used
+> - How it's performed
+> - Outcomes: how to prevent it
+
+- What
+  - Root cause analysis is an investigation into adverse outcomes used in the healthcare system as well as other industries
+  - It is typically triggered by **sentinel events** such as patient deaths or in psychiatry, adverse events related to ECT or patient suicides or harm to others
+- How
+  - Team is appointed that was not involved in the patient's care
+    - One external to service
+    - One familiar with the processes
+    - One with SAER expertise
+  - Focuses on systems and processes
+  - Information gathered via interviews, documentation review
+  - Construct a timeline
+  - Identify factors that caused an incident to occur
+  - Link factors to the outcome
+  - Make recommendations
+- Why
+  - To identify systemic issues that led to an adverse outcome
+  - To prevent this from occurring again by identifying deficits in the system that can be addressed including new policies or education and support
+- https://www.cec.health.nsw.gov.au/__data/assets/pdf_file/0009/606735/Root-cause-analysis-toolkit.pdf
+
+
+
 ### MEQ 18.2 You are asked to prepare a teaching session for stage 2 trainees on the background, prescription and administration of ECT. Outline what you would cover? (14 marks) 
 
 > Structure:
@@ -818,8 +850,79 @@ You are a junior consultant psychiatrist working in a regional area. There has b
   - **EEG monitoring**
 
 ## MEQ 19
-Joe, a 45-year-old gentleman with schizophrenia working as a gardener has recently relocated from another service. You have access to his previous information. He is able to make decisions for himself. He is stable on Clozapine 400mg daily for the last 15 years. The new case manager tells you the handover from previous community mental health team has been adequate and all relevant documents have been sent across. Joe wants to change his anti-psychotic medication because he is struggling with side effects of tiredness, sleeping 12 hours a day, his head feels foggy and he can only work two days a week (as a gardener) due to these symptoms. He is compliant with medications but on the odd occasion that he forgets his clozapine, he feels brighter. 
+Joe, a 45-year-old gentleman with schizophrenia working as a gardener has recently relocated from another service. You have access to his previous information. He is able to make decisions for himself. He is stable on clozapine 400mg daily for the last 15 years. The new case manager tells you the handover from previous community mental health team has been adequate and all relevant documents have been sent across. Joe wants to change his anti-psychotic medication because he is struggling with side effects of tiredness, sleeping 12 hours a day, his head feels foggy and he can only work two days a week (as a gardener) due to these symptoms. He is compliant with medications but on the odd occasion that he forgets his clozapine, he feels brighter. 
+
 ### MEQ 19.1 What information would you like to find out before you consider Joe's request for medication change? 
-### MEQ 19.2 You decide to go ahead and change Joe's antipsychotic, what strategies can you use to safely transition him from clozapine to another antipsychotic? 
+
+- Previous medication trials
+  - What medications have been trialled
+  - What has been tolerated
+  - Whether any have had partial efficacy
+  - Reasons for discontinuation
+  - Previous treatment including ECT
+- Tolerating side effects and medications
+  - Metabolic profile
+  - Cardiac health including QTc
+  - Presence of parkinsonian symptoms
+  - Hepatic and renal function
+- Previous admissions and risk assessment
+  - Risk of suicide when unwell
+  - Risk towards others when unwell
+  - Risk to reputation when unwell
+- Current dosing
+  - Whether medication is being taken at night
+  - Previous attempts at lowered clozapine dosing and whether efficacious
+  - Other interactions
+- Substance use
+  - Comorbid substance use increasing risk of relapse
+- Psychosocial function
+  - Whether in stable accommodation and income
+  - Whether has supports either formal or informal
+  - Presence of informal supports to catch early warning signs
+
+### MEQ 19.2 You decide to go ahead and change Joe's antipsychotic, what strategies can you use to safely transition him from clozapine to another antipsychotic?
+
+- > Structure:
+- > Optimisation of clozapine
+- > Choice of antipsychotic
+- > Switch of antipsychotic
+
+- Review of prior documentation
+  - Previous antipsychotic trials, which ones have been partially efficacious, which ones have not been efficacious, which ones could not be tolerated
+  - Previous relapses and course of relapse, whether precipitated by substance use, medication non-compliance, psychosocial stressors or others
+  - Either utilising a new antipsychotic that can be tolerated well and has not been proven not to work or utilising a partial efficacy
+- Psychoeducation regarding indication of clozapine
+  - Only utilised for treatment-resistant schizophrenia
+  - Gold-standard in treatment-resistant schizophrenia
+  - Discussion in regards to optimising dosing, lowering dosing of clozapine
+- Psychoeducation of risk of relapse
+- Discussion of early warning signs to monitor for signs of relapse
+  - Strange ideas, hallucinatory experiences, sleep disturbances
+- Reducing risk of relapse otherwise
+  - Reducing psychosocial stressors
+  - Addressing comorbid substance misuse
+  - Engaging in healthy sleep and appetite
+- Discussion with family and other support services
+  - Discuss increased risk of relapse
+- Frequent monitoring during switch
+  - Case manager with increased frequency of contact
+- Slow cross-titration to catch early-warning signs
+- Ensuring PRNs are available in the community if there are early warning signs of relapse
+- Safety netting to be completed via case manager, Mental Health Access Line if 24/7 as well as 000 if ongoing concerns
+
 ### MEQ 19.3 A medical student asks you to explain what the withdrawal and discontinuation syndromes one might experience from stopping an antipsychotic. How would you answer this question? (4 marks) 
+
+> Structure:
+> - Education: pre-education survey, teaching tools, post-education feedback
+> - Typical withdrawal and discontinuation syndromes ie. antidepressants, drugs of addiction
+> - Side effects of ceasing antipsychotic
+> Missed:
+
+- When addressing the student, I would first determine their level of understanding as to defining withdrawal, discontinuation syndrome and the mechanism of antipsychotics. I would also relate the answer to other medical specialties which the student may have a better understanding of
+- Withdrawal is a syndrome secondary to cessation in context of dependence whether physical or psychological and typically is used in context of drugs of addiction such as alcohol, benzodiazepines or opiates. Due to prolonged use, patient's receptors are altered and thus with abrupt cessation, patients may have hyperactive receptor activity leading to uncomfortable states.
+- Discontinuation syndrome is typically used in the context of antidepressant. It is distinct from withdrawal due to the lack of dependence, however it is noted that there is similarity in regards to an overdrive of receptor activity once the agent is ceased.
+- Antipsychotics on the other hand do not exhibit the same tendency to upregulate however tapering or cessation of antipsychotics can result in psychotic relapse, depression and/or anxiety. 
+- Finally, I would ask if they understood the above and whether they had any further questions
+
+## MEQ 20
 
