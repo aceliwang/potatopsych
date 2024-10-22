@@ -771,3 +771,55 @@ You are a junior psychiatrist and Virginia is a 14 yr old girl who has been refe
   - Benzodiazepines or Z-drugs do not fix the underlying issue, can cause dependency and is associated with rebound insomnia
 - If unresponsive, consider sleep study
 - Organise follow-up with GP or myself to assess the effect of intervention with referral to sleep specialist if ongoing issues
+
+## MEQ 18
+
+You are a junior consultant psychiatrist working in a regional area. There has been an electroconvulsive therapy (ECT) adverse event (critical incident) involving ECT for a patient. 
+
+### MEQ 18.1 A First-year student asks you to explain what a root cause analysis is. List/explain/describe (8 marks).
+### MEQ 18.2 You are asked to prepare a teaching session for stage 2 trainees on the background, prescription and administration of ECT. Outline what you would cover? (14 marks) 
+
+> Structure:
+> - Content
+>   - Background
+>   - Prescription
+>   - Administration
+> - Approach to communication
+
+> - Background
+> - Indications
+> - Common side effects
+> - Stigma and barriers to treatment
+> - Electrode placements
+> - ECT parameters ie. pulse width
+> - Consent
+> - Role of medications during and after ECT course
+> - Frequency and logistics of administration
+> - Usage of anaesthetic
+
+> Missed: communication, pre-ECT assessment, dosing threshold, EEG, monitoring post, continuation / maintenance
+
+- Communication
+  - Pre-educational survey: obtain current knowledge level of trainees, identify specific questions
+  - Utilise practical tools in addition to the tutorial to deliver information: obtaining access to the ECT machine, demonstrating on models
+  - Post-session feedback: answer questions and obtain feedback
+  - **SMART** principles that are specific, measurable, achievable, relevant, time-bound
+- Content regarding ECT
+  - **Indication**: ECT is used primarily in affective, psychotic, catatonic illness and suicidality. Typically reserved for treatment-resistance despite pharmacology or where pharmacological management cannot be tolerated. Also utilised when quick response is required eg. nil eating or drinking.
+  - **Background**: the efficacy of seizures was first discovered in patients with epilepsy and comorbid mental illness. Patients were observed to improve in their mental state following seizures. Through history, there have been attempts to first chemically induce seizures via camphor and then electrically via ECT. It is the gold-standard in treatment for affective illness.
+  - **Before ECT**: there are no absolute contra-indications to ECT however caution must be utilised in patients with greater physical comorbidity. An anaesthetic assessment is essential to ensure that patients can tolerate both the anaesthesia and the resultant modified seizure. Assessment should include neurological and cardiorespiratory exam.
+    - Baseline level of symptoms and cognition are also obtained via rating scales and cognitive screens
+  - **First ECT**: patients will undergo titration to identify seizure threshold. Therapeutic dosages of ECT require levels above the seizure threshold depending on the electrode placement
+  - **During ECT**: patients will undergo up to 3x/week of ECT with frequent monitoring of symptoms and side effects. At a minimum, after 6 sessions, cognition and symptom rating scales will be repeated and also at the end. ECT frequency and dosing can be adjusted during the session although it is expected that symptoms will only improve after 6 sessions. 
+  - **After ECT**: ECT although highly efficacious acutely, is associated with high rates of relapse. Patients typically require pharmacotherapy to maintain remission of symptoms. Due to the time required for these medications to take effect, this should typically be started during the course of ECT. If medications are insufficient to maintain remission, patients may need continunation or maintenance ECT to maintain their mental state.
+  - **Medications**: medications should be optimised depending on the indication of ECT. Previously non-efficacious medications should be ceased. Medications should be titrated to therapeutic dosages by the end of ECT. Concomitant medications involving anticonvulsants, benzodiazepines and lithium should be withheld on the morning of and the night prior to ECT administration due to effects on seizure quality and post-ictal delirium.
+  - **Prescription**: date, session number, pulse width, electrode placement and dosing level should be recorded on prescription. EEG seizure quality and the previous comments by previous ECT sessions should be noted.
+  - **Electrode placement**: conventional placements include right-unilateral, bifrontal or bitemporal with differing levels of efficacy and tendency to cause cognitive side effects
+  - **EEG monitoring**
+
+## MEQ 19
+Joe, a 45-year-old gentleman with schizophrenia working as a gardener has recently relocated from another service. You have access to his previous information. He is able to make decisions for himself. He is stable on Clozapine 400mg daily for the last 15 years. The new case manager tells you the handover from previous community mental health team has been adequate and all relevant documents have been sent across. Joe wants to change his anti-psychotic medication because he is struggling with side effects of tiredness, sleeping 12 hours a day, his head feels foggy and he can only work two days a week (as a gardener) due to these symptoms. He is compliant with medications but on the odd occasion that he forgets his clozapine, he feels brighter. 
+### MEQ 19.1 What information would you like to find out before you consider Joe's request for medication change? 
+### MEQ 19.2 You decide to go ahead and change Joe's antipsychotic, what strategies can you use to safely transition him from clozapine to another antipsychotic? 
+### MEQ 19.3 A medical student asks you to explain what the withdrawal and discontinuation syndromes one might experience from stopping an antipsychotic. How would you answer this question? (4 marks) 
+
