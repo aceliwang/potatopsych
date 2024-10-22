@@ -810,9 +810,26 @@ You are a junior consultant psychiatrist in the community mental health clinic. 
 - Lack of continuity of care: changing staff
 - Lack of access and transport to the clinic
 
-### MEQ 17.2 He agrees to engage in treatment with you as long as he is not admitted to hospital. You decide to provide psychological therapy (CBT). How would you go about planning and implementing CBT in James?
+### MEQ 17.2 He agrees to engage in treatment with you as long as he is not admitted to hospital. You decide to provide psychological therapy (CBT). How would you go about planning and implementing CBT in James? 
 
-### MEQ 17.3.What are the pharmacological recommendations for treatment of OCD in James?
+> Structure:
+> - Describe CBT
+> - Principles of CBT
+> - Planning and implementing CBT
+
+### MEQ 17.3 What are the pharmacological recommendations for treatment of OCD in James?
+
+> Structure:
+> - SSRIs
+> - Augmentation with antipsychotics
+> - TCAs
+
+- SSRIs
+  - High-dose SSRIs are typically required to address OCD symptoms
+  - Treatment may also require up to 12 weeks to see effect
+  - Nil particular SSRI is preferred, would be depending on adverse affect profile and tolerability
+  - Paroxetine should be avoided due to risk of increased suicidal thoughts
+  - Consider drug-durg interactions
 
 
 
@@ -972,5 +989,5 @@ Young male believes he has ADHD.
 ### MEQ 21.1 Approach to assessment.
 ### MEQ 21.2 What are the issues in prescribing medication in adult ADHD?
 ### MEQ 21.3 Your prescribing in adult ADHD is higher than your peers in the region. How would you respond and manage? Your clinical director hands you an evaluation showing that your practice was prescribing psychostimulants vastly different to those of your peers. How would you go about addressing this?
-### MEQ 21.4 Non-pharmacological strategies in management of adult ADHD
+### MEQ 21.4 Non-pharmacological strategies in management of adult ADHD.
 
