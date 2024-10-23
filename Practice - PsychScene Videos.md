@@ -771,3 +771,60 @@ You are a junior psychiatrist and Virginia is a 14 yr old girl who has been refe
   - Benzodiazepines or Z-drugs do not fix the underlying issue, can cause dependency and is associated with rebound insomnia
 - If unresponsive, consider sleep study
 - Organise follow-up with GP or myself to assess the effect of intervention with referral to sleep specialist if ongoing issues
+
+## MEQ 11
+Copy from other
+
+## MEQ 12
+
+26M with a history of schizoaffective disorder and methamphetamine dependence. The patient is released from prison 2 weeks ago on zuclopenthixol depot and olanzapine. Currently on enforced treatment MHA (not forensic license). He tells you that he is drug free as he is required to do random UDS for the next 6 months as part of his bail condition. He came to see you with his sister who is adamant that should not be on a treatment order, and that he has rights to choose his own treatment.
+
+### MEQ 12.1 List and explain the possible ethical issues that arises from this situation.
+
+
+
+### MEQ 12.2 Sister confirms that they will be relocating to rural area soon. He will be referred to the CMH in the region for follow up. What are the possible risks involved in terms of historical, social and clinical aspects in this man with regards to relapse?
+
+### MEQ 12.3 List and explain principles of informed consent.
+
+> Structure:
+> - Indication
+> - Procedure
+> - Risks
+> - Alternatives
+> - Questions
+> - Others: capacity
+> - Application to this case: overrule of autonomy
+
+- Informed consent involves autonomy
+  - Patients should be able to make choices in regards to their own body
+  - Discussion of indication
+- Judgement of capacity
+
+
+## MEQ 13
+
+You are a junior consultant psychiatrist on call for the Emergency Department at a general hospital. Early on a Friday evening you are called for advice by a first-year psychiatry registrar on duty. The registrar has reviewed Toby, a 28-year-old man who is new to the area. He had presented asking for a prescription of diazepam 5mg tablet, up to four tablets a day with five repeats. He says he has been taking these for a while for his "nerves" and he has run out. There is no information available on Toby in the hospital records system.
+
+### MEQ 13.1 Outline (list and justify) the key information on history you would expect the registrar to have obtained. Please note: a list with no justification will not receive any marks. (12 marks) 
+
+### MEQ 13.2 The registrar telephones you two weeks later to inform you that Toby did not attend a follow-up appointment at the outpatient department. The registrar also informs you that on the same day he had received an email from the hospital asking him to respond to a complaint lodged by Toby about "the poor care" Toby had received during the ED consultation. Describe (list and explain) what you would discuss with the registrar about managing this situation further. Please note: a list with no explanation will not receive any marks. (9 marks)
+
+## MEQ 14
+
+12-year-old Aboriginal boy brought to the emergency department by the police after damaging property and threatening to hurt himself. On arrival to the ED he was settled and was playing cards with his carer. He recently moved to his 10th group home. His care was transferred to the State when he was 5 after witnessing family violence and his father killed his mother and was incarcerated. 
+
+### MEQ 14.1 List and explain possible explanation of his behaviour. 
+
+### MEQ 14.2 He is treated with olanzapine, sertraline, long-acting methylphenidate and sodium valproate. Carer informs he is treated for childhood bipolar disorder. Discuss and debate possible differential diagnosis. 
+
+### MEQ 14.3 Patient is under a therapist and has a behavioural management plan in place- he is rewarded when 'good'. When behaving badly privilege is taken away. However, this is not working. Carer asks why is the behaviour management not working and how else can they manage? 
+
+## MEQ 15
+
+You are a junior consultant psychiatrist working in the community adult mental health clinic, you are approached by a case manager, about Jarvis, a 28-year-old male, who is case managed on a community treatment order following a first episode psychosis when he was 22. He works at the local radio station as a jockey and lives with his parents. He is prescribed paliperidone monthly depot over the past four years. His case manager tells you he is due for a review as his CTO expires in four weeks and needs to be extended. 
+
+### MEQ 15.1 What information would you need from the case manager to assist you before your first appointment with Jarvis? List and justify (11 marks). 
+### MEQ 15.2 What information from the review would impact on your decision re the CTO? List and justify (10 marks). (Decision for CTO) 
+### MEQ 15.3 A medical student on placement asks you what the evidence is for the use of Community Treatment Orders. Explain your response. List and elaborate (6 marks). 
+### MEQ 15.4 Jarvis, on meeting with you, asks what the long-term serious risks are with regards to being on paliperidone depot long-term. Explain your response to Jarvis. List and elaborate (4 marks). 
