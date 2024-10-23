@@ -48,5 +48,3 @@
 ## MEQ 11
 35F, school teacher, mother to three children (5, 12, 14) presented to you regarding her opioid use. Her husband has chronic pain issues, and initially she used his morphine, but later started "doctor shopping". Her husband is also depressed and unemployed.
 
-## MEQ 13
-67F with recurrent treatment resistant depressive disorder presents with severe depressive episode of 2 month duration. She has developed nihilistic delusions and is very agitated over the last 2 weeks. She has been on escitalopram 20mg/day for the last 2 years. Her husband and daughter are aware she is fearful of & has previously been adamant in her refusal of ECT. Her brother died of suicide aged 20 after having ECT for depression. The husband and daughter feel ECT is not appropriate and object strongly to this treatment. On the inpatient 
