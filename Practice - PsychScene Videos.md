@@ -1,42 +1,78 @@
 # Practice - PsychScene Videos
 
 ## Progress
-- 1.1: completed
-- 1.2: 
-- 1.3: 
-- 2.1: completed
-- 2.2: 
-- 2.3: completed
-- 2.4: completed
-- 3.1: completed
-- 3.2: yuck, half-completed
-- 3.3: completed
-- 4.1: completed
-- 4.2: 
-- 4.3: completed
-- 4.4: 
-- 5.1: completed
-- 5.2: 
-- 5.3: completed
-- 6.1: completed
-- 7.1: completed
-- 7.2: eh good enough, do notes
-- 7.3: eh good enough, export to notes
-- 7.4: need to check
-- 8.1: completed
-- 8.2: 
-- 9.1: 
-- 9.2: half-completed
-- 9.3: 
-- 10.1: 
-- 10.2: 
-- 10.3: completed
+- MEQ 1.1: completed
+- MEQ 1.2: 
+- MEQ 1.3: 
+- MEQ 2.1: completed
+- MEQ 2.2: 
+- MEQ 2.3: completed
+- MEQ 2.4: completed
+- MEQ 3.1: completed
+- MEQ 3.2: yuck, half-completed
+- MEQ 3.3: completed
+- MEQ 4.1: completed
+- MEQ 4.2: 
+- MEQ 4.3: completed
+- MEQ 4.4: 
+- MEQ 5.1: completed
+- MEQ 5.2: 
+- MEQ 5.3: completed
+- MEQ 6.1: completed
+- MEQ 7.1: completed
+- MEQ 7.2: eh good enough, do notes
+- MEQ 7.3: eh good enough, export to notes
+- MEQ 7.4: need to check, added on extra question
+- MEQ 8.1: completed
+- MEQ 8.2: 
+- MEQ 9.1: 
+- MEQ 9.2: half-completed
+- MEQ 9.3: 
+- MEQ 10.1: 
+- MEQ 10.2: 
+- MEQ 10.3: completed
+- MEQ 11.1:
+- MEQ 11.2:
+- MEQ 11.3:
+- MEQ 11.4:
+- MEQ 12.1: 
+- MEQ 12.2:
+- MEQ 12.3: 
+- MEQ 13.1: 
+- MEQ 13.2: 
+- MEQ 14.1: 
+- MEQ 14.2:
+- MEQ 14.3: 
+- MEQ 15.1: 
+- MEQ 15.2:
+- MEQ 15.3:
+- MEQ 15.4: 
+- MEQ 16.1: 
+- MEQ 16.2:
+- MEQ 16.3:
+- MEQ 16.4: 
+- MEQ 17.1:
+- MEQ 17.2:
+- MEQ 17.3:
+- MEQ 18.1: not completed
+- MEQ 18.2: 
+- MEQ 19.1:
+- MEQ 19.2: to check
+- MEQ 19.3: to check
+- MEQ 20.1: causes of stigma
+- MEQ 20.2:
+- MEQ 20.3:
+- MEQ 20.4: 
+- MEQ 21.1: 
+- MEQ 21.2:
+- MEQ 21.3:
+- MEQ 21.4: 
 
 ## MEQ 1
 
 Olivia is a 29F, married mother of three children aged twelve months to eight years. She experienced significant sexual abuse in her childhood. Olivia has just been discharged to the local community mental health team at which you work, following a three-month admission to a nearby acute psychiatric inpatient unit. Prior to admission Olivia became depressed after hearing that her brother had been found guilty of sexually assaulting his stepdaughter. She developed flashbacks and nightmares of her own experiences of abuse and had frequent panic attacks. She was found by her oldest child with a cord around her neck and admitted to hospital. Her hospital admission was characterised by recurrent episodes of self-harm including lacerating her arms and tying cords around her neck. She was treated with sodium valproate, paroxetine and diazepam. Olivia was eventually discharged on these medications and is still symptomatic.
 
-### MEQ1.1 Discuss the immediate and longer-term psychiatric interventions you would suggest for Olivia's previous sexual abuse. Please give reasons for your choices.
+### MEQ 1.1 Discuss the immediate and longer-term psychiatric interventions you would suggest for Olivia's previous sexual abuse. Please give reasons for your choices. (7 marks)
 
 ```
 - Structure
@@ -78,7 +114,7 @@ Olivia is a 29F, married mother of three children aged twelve months to eight ye
     - Finances
     - Relationships: screen for domestic violence
 
-### MEQ1.2 Discuss the interventions you would use to support Olivia's family. Please give reasons for your choices.
+### MEQ 1.2 Discuss the interventions you would use to support Olivia's family. Please give reasons for your choices. (8 marks)
 
 ```
 - Structure
@@ -103,7 +139,7 @@ Olivia is a 29F, married mother of three children aged twelve months to eight ye
 - Consider notifying Child Protection Services
   - Risk of harm to children via direct homicide, neglect
 
-### MEQ1.3 Olivia has found out that she is pregnant as a result of having sex with her husband when on weekend leave from the hospital. She and her husband are concerned about the effects of psychotropic medication on the baby. Outline the information and options you would discuss with Olivia and her husband. Please provide adequate detail.
+### MEQ 1.3 Olivia has found out that she is pregnant as a result of having sex with her husband when on weekend leave from the hospital. She and her husband are concerned about the effects of psychotropic medication on the baby. Outline the information and options you would discuss with Olivia and her husband. Please provide adequate detail. (10 marks)
 
 - Structure
   - Aim of pregnancy: wanted/not wanted, abortion
@@ -123,7 +159,7 @@ Olivia is a 29F, married mother of three children aged twelve months to eight ye
 
 Emile, a refugee from Serbia came to Australia 20 years ago. His parents and younger brother were killed eight years ago while seeking asylum before coming to Australia. He witnessed multiple atrocities and trauma. He lives with his wife and two teenage children at home. His general practitioner referred him to you as he has been feeling teary with chronic headaches and sleep disturbances. His general practitioner has investigated his headaches.
 
-### MEQ2.1 Outline your differentials.
+### MEQ 2.1 Outline your differentials. (5-6 marks)
 
 ```
 - Structure
@@ -157,7 +193,7 @@ Emile, a refugee from Serbia came to Australia 20 years ago. His parents and you
   - Cluster B personality disorders: likely poor attachment, unstable childhood in context of ongoing wartimes and adverse childhood experiences. Maladaptive coping mechanisms.
 
 
-### MEQ2.2 Outline your assessment process.
+### MEQ 2.2 Outline your assessment process. (10 marks)
 
 ```
 - Structure
@@ -182,7 +218,7 @@ Emile, a refugee from Serbia came to Australia 20 years ago. His parents and you
   - Avoid diagnostic overshadowing
 - Obtain collateral information
 
-### MEQ2.3 What collateral information would you require? (4 marks)
+### MEQ 2.3 What collateral information would you require? (4-6 marks)
 
 > Structure:
 > - Who
@@ -197,7 +233,7 @@ Emile, a refugee from Serbia came to Australia 20 years ago. His parents and you
 - Psychosocial functioning: stressors leading to adjustment issues
 - Evidence for morbidity: hyperarousal, social withdrawal, depression
 
-### MEQ2.4 During your assessment, you found no psychiatric diagnosis. He states that his wife has been busy with her work and his two teenage sons that are not interested in cultural activity which he finds very frustrating. Outline your management plan.
+### MEQ 2.4 During your assessment, you found no psychiatric diagnosis. He states that his wife has been busy with her work and his two teenage sons that are not interested in cultural activity which he finds very frustrating. Outline your management plan. (4-6 marks)
 
 ```
 - Structure for management
@@ -222,11 +258,11 @@ Emile, a refugee from Serbia came to Australia 20 years ago. His parents and you
 - Social
   - [1] Cultural resources: link up with community support groups, Men's Shed. Link up with social worker.
 
-## MEQ3
+## MEQ 3
 
 You have recently assessed Mr. Newbury, aged 84 years, who lives in residential care centre for people with dementia. Mr. Newbury suffers from moderately severe Alzheimer's disease. The staff are concerned that he is verbally aggressive towards staff and other residents and occasionally lashes out and hits staff. Some of the untrained staff in the centre feel that Mr Newbury is deliberately playing up and are annoyed with him. When you examine Mr. Newbury, he is calm but severely cognitively impaired. He has no apparent physical problems. Recent routine lab investigations including midstream urine culture are unremarkable. Mr. Newbury is on no medication. 
 
-### MEQ3.1 Describe the information you would ask residential care staff to collect regarding Mr Newbury's difficult behaviour. 
+### MEQ 3.1 Describe the information you would ask residential care staff to collect regarding Mr Newbury's difficult behaviour. (8 marks)
 
 > Structure
 > - HPC: ABC analysis (antecedent, behaviour, consequences), previous baseline, orientation, cognition 
@@ -264,7 +300,7 @@ You have recently assessed Mr. Newbury, aged 84 years, who lives in residential 
   - Resident-to-staffing ratios
   - Number of staff and co-residents
 
-### MEQ3.2 When you return to the centre one week later, you find that staff have not collected any information for you. Discuss the factors that make it difficult for care staff to collect such information.
+### MEQ 3.2 When you return to the centre one week later, you find that staff have not collected any information for you. Discuss the factors that make it difficult for care staff to collect such information. (4-6 marks)
 
 > Structure:
 > - Staff factors
@@ -287,7 +323,7 @@ You have recently assessed Mr. Newbury, aged 84 years, who lives in residential 
   - Poor handover, lack of electronic records, poor documentation
   - Poor care plans
 
-### MEQ3.3 The management of the centre asks for a teaching session for the regular staff on management of difficult behaviour and dementia patients. Discuss how you would educate the staff? 
+### MEQ 3.3 The management of the centre asks for a teaching session for the regular staff on management of difficult behaviour and dementia patients. Discuss how you would educate the staff? [From Unknown Mock MEQ 8: Discuss the main points you would like to make to the staff. (7 marks)] (7-9 marks)
 
 > Structure
 > - CANMEDS: educator, clinician and scholar
@@ -316,7 +352,7 @@ You have recently assessed Mr. Newbury, aged 84 years, who lives in residential 
 
 Omar is a 23-year-old gentleman living at home with both his parents who are medical practitioners. He has been diagnosed with bipolar affective disorder and has a history of cannabis and methamphetamine dependence. He has been treated under CTOs twice previously where he lived in another city and is on risperidone and lithium. He has now moved back with his parents under the condition that he takes his medications. Parents are prescribing and checking his levels. 
 
-### MEQ4.1 What information do you need before assessing Omar?
+### MEQ 4.1 What information do you need before assessing Omar? (8-10 marks)
 
 - Structure
   - Risk management
@@ -359,7 +395,7 @@ Omar is a 23-year-old gentleman living at home with both his parents who are med
   - Legal status: currently voluntary or under involuntary order
   - Current supports: private psychiatry or case management services
   
-### MEQ4.2 His father calls the clinic and states that he does not wish Omar to be seen by the registrar even though Omar finds the registrar useful. He wants the son to be reviewed by the consultant. How would you outline your approach to the request?
+### MEQ 4.2 His father calls the clinic and states that he does not wish Omar to be seen by the registrar even though Omar finds the registrar useful. He wants the son to be reviewed by the consultant. How would you outline your approach to the request? (5-6 marks)
 
 - Structure
   - When there are difficulties, approach with CANMeds
@@ -379,7 +415,7 @@ Omar is a 23-year-old gentleman living at home with both his parents who are med
   - Discussion with family regarding their concerns
   - 
 
-### MEQ4.3 Father wants Omar to have more intervention and feels that not enough is being done for him. He has read about IPSRT and wants to find out how this would be helpful for Omar. Describe what it is and how it might benefit the patient. 
+### MEQ 4.3 Father wants Omar to have more intervention and feels that not enough is being done for him. He has read about IPSRT and wants to find out how this would be helpful for Omar. Describe what it is and how it might benefit the patient. (4-6 marks)
 
 > - Structure
 >  - Define IPSRT
@@ -400,7 +436,7 @@ Omar is a 23-year-old gentleman living at home with both his parents who are med
   - Recent role transitions from moving back into his parent's house
   - Addressing sleep disturbances from bipolar affective disorder and from comorbid substance use
 
-### MEQ4.4 Father has now prescribed and administered a depot. How would you handle the situation? 
+### MEQ 4.4 Father has now prescribed and administered a depot. How would you handle the situation? (4-6 marks)
 
 - Structure
   - CANMEDS approach
@@ -410,7 +446,7 @@ Omar is a 23-year-old gentleman living at home with both his parents who are med
 
 You are a consultation liaison psychiatrist. You are referred Bill by the endocrinology team. Bill is a 45-year-old married electrician who has a history of a pituitary carcinoma. His tumour was successfully removed by the endocrinology team. However, since that time, Bill has developed mood lability, social withdrawal and low self-esteem. He initially returned to work as an electrician, however, left his work after 6 months as he lost his confidence. He also suffers from chronic headaches and insomnia. Bill has sleep apnoea and uses a CPAP machine. He is managed with thyroxine and corticosteroids.
 
-### MEQ5.1 Outline the reasons for Bill's mood lability (6 marks)
+### MEQ 5.1 Outline the reasons for Bill's mood lability. (6 marks)
 
 - Structure
   - Diagnostic hierarchy. Make sure to explain WHY and not just the diagnoses.
@@ -435,14 +471,14 @@ You are a consultation liaison psychiatrist. You are referred Bill by the endocr
 - Personality factors
   - Underlying personality vulnerabilities with poor maladaptive coping mechanisms leading to emotional dysregulation
 
-### MEQ5.2 You meet with Bill and his wife. Bill's wife has taken over cleaning, shopping and management of bills since Bill's surgery. Bill feels angry and frustrated about this. According to the occupational therapist, Bill is capable of doing these things himself. Outline the management of the situation. 
+### MEQ 5.2 You meet with Bill and his wife. Bill's wife has taken over cleaning, shopping and management of bills since Bill's surgery. Bill feels angry and frustrated about this. According to the occupational therapist, Bill is capable of doing these things himself. Outline the management of the situation. (8 marks)
 
 - Structure
   - Short-term
   - Long-term
   - Psychoeducation
 
-### MEQ5.3 The endocrinology team tell you that Bill's tumour has returned although it is treatable. Bill has become increasingly irritable and labile in his mood. Outline the possible causes for Bill's mental state deterioration (4 marks).
+### MEQ 5.3 The endocrinology team tell you that Bill's tumour has returned although it is treatable. Bill has become increasingly irritable and labile in his mood. Outline the possible causes for Bill's mental state deterioration. (4 marks)
 
 - Structure
   - Focus on new stressors to filter down differential diagnosis
@@ -459,7 +495,7 @@ You are a consultation liaison psychiatrist. You are referred Bill by the endocr
 
 A 35-year-old female, Janine who works as a Career Medical Officer (CMO) at the Emergency Department was referred to you by the general practitioner for an admission with five weeks' complaints of low mood, sleep problems and issues with concentration. The general practitioner stated two past episodes of depression which were treated with antidepressants (eight-nine months each time). He also noted that she recently had a complaint from a patient in the emergency department and had to take a week off. The director of ED called you to discuss her admission. He also tells you of the complaint made by a patient against the CMO of acting inappropriately. 
 
-### MEQ6.1 List and explain ethical work issues. 
+### MEQ 6.1 List and explain ethical work issues. (8 marks)
 
 - Structure
   - Principalist ethics
@@ -484,7 +520,7 @@ A 35-year-old female, Janine who works as a Career Medical Officer (CMO) at the 
 
 You are called to carry out a home visit at Mrs Smith's house who is 72 years of age. She presents mildly confused, irritable and unsteady on her feet. Her previous mini-mental state examination scored 21/30. She showed impaired attention, concentration, short-term memory, impaired clock-drawing, impaired visuospatial function and frontal lobe dysfunction. She is currently on atenolol, lithium, fluoxetine, and L-DOPA. *In one exam they added Tricyclic Antidepressant (TCA) instead of fluoxetine.*
 
-### MEQ7.1 Outline the possible causes for her presentation.
+### MEQ 7.1 Outline the possible causes for her presentation. (10 marks)
 
 > Structure:
 > Organic incl. neurocognitive
@@ -508,7 +544,7 @@ You are called to carry out a home visit at Mrs Smith's house who is 72 years of
   - Depression: pseudodementia secondary to relapse of depression
 - **Substance withdrawal** ie. alcohol
 
-### MEQ7.2 Mrs Smith is admitted to the Older Patients Mental Health Service Inpatient Unit. What would be your advice to the registrar in prescribing of medications?
+### MEQ 7.2 Mrs Smith is admitted to the Older Patients Mental Health Service Inpatient Unit. What would be your advice to the registrar in prescribing of medications? (6-8 marks)
 
 > Prescribing in the geriatric
 > Atenolol
@@ -541,7 +577,7 @@ You are called to carry out a home visit at Mrs Smith's house who is 72 years of
   - Lower dosages of PRNs depending on age
   - Avoid agents associated with EPSEs if possible eg. preferring olanzapine and quetiapine
 
-### MEQ7.3 Her son is visiting from overseas and he wants her to make a will. Outline your process of assessing testamentary capacity. 
+### MEQ 7.3 Her son is visiting from overseas and he wants her to make a will. Outline your process of assessing testamentary capacity. (6 marks)
 
 > Structure:
 > - General history
@@ -575,7 +611,7 @@ You are called to carry out a home visit at Mrs Smith's house who is 72 years of
   - Understanding the consequences of their decisions
 - Potential referral to independent psychogeriatrician to avoid dual agency dilemma as a treating doctors vs a medicolegal psychiatrist
 
-### MEQ7.4 She wishes to make an EPA for property affairs. Assessment of capacity for Enduring Power of Attorney (EPA).
+### MEQ 7.4 She wishes to make an EPA for property affairs. Assessment of capacity for Enduring Power of Attorney (EPA). OR What information she needs to have to get this arranged? (4 marks)
 
 > Structure:
 > ?
@@ -598,7 +634,7 @@ You are called to carry out a home visit at Mrs Smith's house who is 72 years of
 
 You have been referred a 6 yr old boy Sam, by the paediatrician for encopresis. Sam lives with his mother who is a single mother and is unemployed. The paediatrician has ruled out any organic issues and started him on laxatives and a star chart which has not worked.
 
-### MEQ8.1 Outline your assessment / outline your approach to assessment. 
+### MEQ 8.1 Outline your assessment / outline your approach to assessment. (6 marks)
 
 > Structure:
 > - Multi-modal assessment
@@ -639,7 +675,7 @@ You have been referred a 6 yr old boy Sam, by the paediatrician for encopresis. 
     - Accommodation instability
     - Interpersonal conflict
 
-### MEQ8.2 Sam has not seen his father for some time. His mother has depression and is on antidepressants. His mother said that she is tired of bribing him to behave. When you see Sam, you notice that he has a bruise on his arm. Outline your management plan. 
+### MEQ 8.2 Sam has not seen his father for some time. His mother has depression and is on antidepressants. His mother said that she is tired of bribing him to behave. When you see Sam, you notice that he has a bruise on his arm. Outline your management plan. 
 
 > Assess the bruise
 > Mandatory reporting
@@ -655,15 +691,15 @@ You have been referred a 6 yr old boy Sam, by the paediatrician for encopresis. 
 
 
 ## MEQ 9
-A 4-year-old girl who lives with her parents and has two older siblings, aged 8 and 10, was admitted to the medical ward for investigation of her abdominal mass which turned out to be malignant on histology. Her father became irritable after being told the news, stopped sleeping and started responding to hallucinations and behaving bizarrely as per nursing staff. Currently, he is by his daughter's bedside, agitated, verbally aggressive to the staff, not letting blood samples be collected. Nursing staff call you from the ward. 
+A 4-year-old girl who lives with her parents and has two older siblings, aged 8 and 10, was admitted to the medical ward for investigation of her abdominal mass which turned out to be malignant on histology. Her father became irritable after being told the news, stopped sleeping and started responding to hallucinations and behaving bizarrely as per nursing staff. Currently, he is by his daughter's bedside, agitated, verbally aggressive to the staff, not letting blood samples be collected. Nursing staff call you from the ward. [from Unknown Mock MEQ 4: You are CL psychiatrist and get a call to come.]
 
-### MEQ9.1 What information would you get from the treating team before seeing the patient?
+### MEQ 9.1 What information would you get from the treating team before seeing the patient? (8-10 marks)
 
 - Family Hx of mental health
 - Role and responsiblities of mother
 - Known substance usage
 
-### MEQ9.2 Outline the possible causes for father's behaviour. 
+### MEQ 9.2 Outline the possible causes for father's behaviour. (8 marks)
 
 > Structure:
 > Diagnostic hiearchy: organic, substance-induced, psychotic, affective, neurotic, personality-based, psychodynamic (denial)
@@ -687,7 +723,7 @@ A 4-year-old girl who lives with her parents and has two older siblings, aged 8 
   - Transference and countertransference between team and patient
 
 
-### MEQ9.3 Outline the ethical and medical issues.
+### MEQ 9.3 Outline the ethical and medical issues [around management]. (8 marks)
 
 > Structure:
 > Ethical issues
@@ -714,7 +750,7 @@ A 4-year-old girl who lives with her parents and has two older siblings, aged 8 
 
 You are a junior psychiatrist and Virginia is a 14 yr old girl who has been referred to your community mental health service by her family doctor who has diagnosed her as having chronic fatigue syndrome. Virginia has a two-year history of excessive tiredness and nonspecific physical symptoms. Virginia has had home schooling for the past year, avoids social settings and has a little contact with peers. She says she could do all things "if they were open at night when I am awake". She stays up watching television and talking to online internet chat rooms until 3 am and then sleeps until midday. Virginia's mother, Mrs Bennett, has stopped work so she can care for her daughter. The family doctor says she has excluded all significant organic issues of Virginia's fatigue but wonders if there are psychiatric problems. She requests that you assess and treat her. You take her history and carry out her mental state examination. 
 
-### MEQ10.1 Outline the areas of history' that you would focus on in assessing her presentation. (15 marks)
+### MEQ 10.1 Outline the areas of history' that you would focus on in assessing her presentation. (15 marks)
 
 > Structure:
 > - CAMHS: multimodal assessment
@@ -734,7 +770,7 @@ You are a junior psychiatrist and Virginia is a 14 yr old girl who has been refe
   - Substance use: alcohol, cannabis, vaping, LSD
   - Psychosocial: situation at home, siblings, pets, relationship with peers
 
-### MEQ10.2 Outline differential diagnosis you would consider.
+### MEQ 10.2 Outline differential diagnosis you would consider. (7 marks)
 
 > Structure:
 > Diagnostic hierarchy (organic, substance-induced, psychotic, affective, neurotic/other, personality)
@@ -752,7 +788,7 @@ You are a junior psychiatrist and Virginia is a 14 yr old girl who has been refe
 - Sleep disturbances
   - Sleep-wake phase disturbance
 
-### MEQ10.3 Mother asked for a sleeping tablet. Outline your advice.
+### MEQ 10.3 Mother asked for a sleeping tablet. Outline your advice. (12 marks)
 
 > Structure:
 > - CANMEDS: educator and management
@@ -772,11 +808,265 @@ You are a junior psychiatrist and Virginia is a 14 yr old girl who has been refe
 - If unresponsive, consider sleep study
 - Organise follow-up with GP or myself to assess the effect of intervention with referral to sleep specialist if ongoing issues
 
+## MEQ 11
+67F with recurrent treatment resistant depressive disorder presents with severe depressive episode of 2 month duration. She has developed nihilistic delusions and is very agitated over the last 2 weeks. She has been on escitalopram 20mg/day for the last 2 years. Her husband and daughter are aware she is fearful of & has previously been adamant in her refusal of ECT. Her brother died of suicide aged 20 after having ECT for depression. The husband and daughter feel ECT is not appropriate and object strongly to this treatment. On the inpatient unit, she is initially commenced on venlafaxine, which was titrated to 225 mg mane over a period of three weeks with no effect. Subsequently, she was crossed titrated with nortriptyline with a dose of 100 mg being maintained over a two-week period along with a mood stabiliser. 
+
+### MEQ 11.1 Outline the professional and ethical issues raised by this scenario. 
+### MEQ 11.2 Outline the factors that could be contributing to her depression failing to improve. (8 marks)
+### MEQ 11.3 Outline the factors that may be contributing to family's opposition to ECT. (8 marks)
+### MEQ 11.4 After a lengthy discussion with the patient and her family, the plan is made to begin a course of right unilateral ECT while optimising the dose of nortriptyline to 150mg daily. By the sixth treatment, however, some signs of hypomania are evident. Describe the management you will recommend. Outline the possible treatment options at this point. (4 marks)
+
+
+## MEQ 12
+
+26-year male with Hx of Schizoaffective disorder and methamphetamine dependence. The patient is released from prison 2 weeks ago on depot clopixol and olanzapine. Currently on enforced treatment MHA (not forensic licence). He tells you that he is drug free as he is required to do random UDS for the next 6 months part of his bail condition. He came to see you with his sister who is adamant that he should not be on a treatment order, and that he has rights to choose his own treatment.
+
+### MEQ 12.1 List and explain the possible ethical issues that arises from this situation.
+
+- Autonomy
+  - Individuals have their own right to autonomy including the treatment that they receive
+  - Underlying primary psychotic disorder is likely to impair capacity at some point
+- Utilitarinism
+  - Consideration of greatest good to the greatest number of people
+  - People other than the patient may be at risk of harm if patient becomes unwell
+  - Breaching the rights of autonomy of one may be considered equal to reducing the risk of others
+- Beneficence
+  - Patient would benefit from management of underlying psychosis which proves damaging to the brain
+- Non-maleficience
+  - Enforced treatment with potential side effects 
+- Justice
+  - All patients should be treated equally
+
+### MEQ 12.2 He tells you that he will not accept any treatment unless he is on a treatment order. Sister confirms that they will be relocating to rural area soon. He will be referred to the CMH in the region for follow up. What are the possible risks involved in terms of historical, social and clinical aspects in this man with regards to relapse? 
+
+[TODO]
+
+### MEQ 12.3 List and explain principles of informed consent.
+
+- Assessment of capacity
+  - All patients are presumed to have capacity unless there are indicators otherwise
+  - Irregardless of presence of capacity, there should be an attempt to obtain informed consent
+- Discussion of indication: proposed benefits of the management and why it is required
+- Discussion of procedure or treatment: what the procedure or treatment entails, what it is
+- Discussion of risks: potential clinically significant adverse effects
+- Discussion of risks of not proceeding with procedure or treatment: why this treatment is required
+- Discussion of alternatives
+- Answering any questions the patient may have
+
+## MEQ 13
+
+You are a junior consultant psychiatrist on call for the Emergency Department at a general hospital. Early on a Friday evening you are called for advice by a first-year psychiatry registrar on duty. The registrar has reviewed Toby, a 28-year-old man who is new to the area. He had presented asking for a prescription of diazepam 5mg tablet, up to four tablets a day with five repeats. He says he has been taking these for a while for his "nerves" and he has run out. There is no information available on Toby in the hospital records system. 
+
+### MEQ 13.1 Outline (list and justify) the key information on history you would expect the registrar to have obtained. Please note: a list with no justification will not receive any marks. (10-12 marks)
+
+- Presenting complaint
+  - History regarding diazepam
+    - When this was first started
+  - History regarding anxiety
+    - Symptoms of anxiety other than "nerves", including breathlessness, chest pain, paraesthesia
+    - Functional impairment secondary to anxiety
+- Past medical history
+- Regular medications
+- Past psychiatric Hx
+  - Previous medication trials: have they attempted prior first-line medications for anxiety eg. SSRIs
+- Family history 
+- Forensic history: may suggest risk towards staff if needs are not met
+- Drug and alcohol history
+  - Although isolated benzodiazepine misuse can be safe, when mixed with other depressants can cause lethality
+  - Other benzodiazepine usage including clonazepam or alprazolam
+  - Whether medications have been sourced on the street
+  - Previous withdrawal including presence of seizures
+- Developmental history
+- Collateral information: sourced from previous GP, dispensing
+
+- SafeScript dispensing history
+
+### MEQ 13.2 The registrar telephones you two weeks later to inform you that Toby did not attend a follow-up appointment at the outpatient department. The registrar also informs you that on the same day he had received an email from the hospital asking him to respond to a complaint lodged by Toby about "the poor care" Toby had receieved during the ED consultation. Describe (list and explain) what you would discuss with the registrar about managing this situation further. Please note: a list with no explanation will not receive any marks (7-9 marks).
+
+## MEQ 14
+
+12-year-old Aboriginal boy brought to the emergency department by the police after damaging property and threatening to hurt himself. On arrival to the ED he was settled and was playing cards with his carer. He recently moved to his 10th group home. His care was transferred to the State when he was 5 after witnessing family violence and his father killed his mother and was incarcerated. 
+
+### MEQ 14.1 List and explain possible explanation of his behaviour. He is treated with olanzapine, sertraline, long-acting methylphenidate and sodium valproate. Carer informs he is treated for childhood bipolar disorder. 
+
+### MEQ 14.2 Discuss and debate possible differential diagnosis. 
+
+
+### MEQ 14.3 Patient is under a therapist and has a behavioural management plan in place - he is rewarded when 'good'. When behaving badly privilege is taken away. However, this is not working. Carer asks why is the behaviour management not working and how else can they manage?
+
+## MEQ 15
+
+You are a junior consultant psychiatrist working in the community adult mental health clinic, you are approached by a case manager, about Jarvis, a 28-year-old male, who's case managed on a community treatment order following a first episode psychosis when he was 22. He works in the local radio station as a jockey and lives with his parents. He is prescribed paliperidone monthly depot over the past four years. His case manager tells you he is due for a review as his CTO expires in four weeks and needs to be extended.
+
+### MEQ 15.1 What information would you need from the case manager to assist you before your first appointment with Jarvis? List and justify. (8-11 marks)
+
+- HPC
+  - Previous psychotic symptoms
+  - Previous events leading to admission
+
+- D&A
+  - Current substance use particularly cannabis, alcohol and methamphetamines: drug usage elevates risk and can precipitate relapse
+  - Previous substance usage in context of previous admissions: drug usage elevates risk and can precipitate psychotic symptoms
+  - Current engagement with D&A services: actively abstaining or nil further relapse
+- Forensic Hx
+  - Previous risk
+- Previous legal
+  - Details of CTO
+  - Length of recurrent CTO
+  - Potential lapses in CTO and potential unsuccessful voluntary treatment
+- Family Hx: biological vulnerabilities to recurrent psychoses
+- Past psychiatric Hx
+  - Diagnosis of FEP. Duration of symptoms at the time.
+  - Circumstances involving first presentation: was there a prodrome, how long did the psychotic symptoms last?
+    - Diagnostic clarification regarding whether there is schizophrenia
+- Risk assessment
+  - Previous suicide attempts: was it secondary due to his psychosis
+- Current state
+  - Employment
+  - Supports
+  - Family's attitudes towards his mental illness
+  - Thoughts on why CTO needs to be renewed?
+    - Difficulty maintaining engagement
+    - Lack of insight
+    - Recurrent relapses requiring admission
+    - High risk including forensic, towards self and others
+
+
+### MEQ 15.2 What information from the review would impact on your decision? List and justify. (6-10 marks) (Decision for CTO)
+
+- Assessment of insight
+  - Engagement with services
+  - Understanding of illness
+  - Attitudes towards treatment
+- Risk associated with relapse
+  - Current psychotic symptoms
+  - Mitigation of psychotic symptoms since treatment
+- Ongoing dynamic risk factors
+  - Substance use
+  - 
+- Collateral information
+  - Third party corroboration of his mental state and current function
+
+### MEQ 15.3 A medical student on placement asks you what the evidence is for the use of Community Treatment Orders. Explain your response. List and elaborate. (6 marks)
+
+- Evidence for
+  - Reduction of hospital readmission rates
+  - 
+- Evidence against
+  - Poor quality of life in context of restriction of individual rights
+
+### MEQ 15.4 Jarvis, on meeting with you, asks what the long-term serious risks are with regards to being on paliperidone depot long-term. Explain your response to Jarvis. List and elaborate. (4 marks)
+
+- Side effects of paliperidone
+  - Increased prolactin
+    - Dopamine antagonism can result in increase in prolactin
+    - Long-term elevated prolactin can lead to complications such as osteoporosis due to hormonal disturbances. Short-term and long-term disturbances also include gynaecomastia, galactorrhoea.
+  - Increased risk of tardive dyskinesia
+    - Increased risk of other EPSEs
+    - Longer exposure to antipsychotics increase the risk of development of tardive dyskinesia, involuntary movements typically orobuccal however can also manifest anywhere in the body
+  - Increased risk of weight gain and metabolic syndrome
+    - Paliperidone is associated with weight gain and increased appetite
+    - Increased appetite leading to increased insulin resistance
+    - Increased cardiovascular morbidity and mortality with risk of macrovascular events (stroke, coronary events, peripheral vascular disease) and microvascular complications (diabetic nephropathy, retinopathy and neuropathy)
+- Response to Jarvis
+  - Psychoeducation will be provided regarding the above
+  - Discussed methods of measuring, assessing and managing the above
+  - Prolactin: aripiprazole could be trialled
+  - Tardive dyskinesia: change to different antipsychotics
+  - Weight gain and metabolic syndrome: ongoing metabolic monitoring. Discussion regarding exercise, dietary factors and pharmacological agents to target hypertension, hypercholesterolaemia and diabetes as required.
+  - Patient should maintain regular contact with health professional including GP.
+  
+
+
+## MEQ 16
+
+You are a consultant psychiatrist working in the mental health service. Sarah, who is a stage 2 trainee, has been assigned to work with you. She contacts you with regards to arranging supervision and you set-up a time to meet with her.
+
+### MEQ 16.1 What principles of supervision, as per RANZCP guidelines, would you use in this instance?
+
+### MEQ 16.2 What are the principles of effective feedback?
+
+### MEQ 16.3 Sarah informs you that you have an upcoming assessment of Fatima, a 39F Iranian refugee, who is the mother of two children, where she wants to use a workplace-based assessment for the stage 2 EPA (entrusted professional activity) on CALD - Working with Culturally and Linguistically Diverse Population. She tells you the meeting is scheduled with an interpreter. What are the principles of using an interpreter?
+
+### MEQ 16.4 Sarah approaches you with an ECG of Fatima with concerns about the QTc reported as 450 msec. Fatima is prescribed an antipsychotic medication. What advice would you provide to Sarah?
+
+## MEQ 17
+
+You are a junior consultant psychiatrist in the community mental health clinic. You are referred by a GP for assessment, James, a 39-year-old unemployed electrician living with his parents. James has had a diagnosis of obsessive-compulsive disorder over the last 20 years. He hardly ever leaves the house these days and relies on his parents for shopping, cooking, etc. He has been treated with medications in the past but he has self-ceased all medications for fear of side-effects. He has been linked in with a clinic in the past but disengaged after a few months.
+
+### MEQ 17.1 What do you think are some of the possible reasons for James not engaging with the clinic in the past? List and elaborate (6-10 marks).
+
+> Structure:
+> - Template: barriers to treatment (biopsychosocial 4Ps)
+> - Patient issues
+> - Clinic issues
+> - Systemic issues
+
+- Previous poor experience with treatment
+- Stigma
+- Countertransference, transference
+- Secondary to his illness
+- Comorbid mental illness
+- Lack of continuity of care: changing staff
+- Lack of access and transport to the clinic
+
+### MEQ 17.2 [Extra information from Unknown MEQ 2020: Following assessment you diagnose him with OCD without any other psychiatric/(?medical) co-morbidities or substance use disorders. James tells you that he is struggling with his OCD, with compulsions/rituals having to check and lock everything in the house, says that he is frightened to leave the house, for fear that he might have left the stove or some appliances on and is fearful that his parents could be hurt.] He agrees to engage in treatment with you as long as he is not admitted to hospital. You decide to provide psychological therapy (CBT). How would you go about planning and implementing CBT in James? (10 marks)
+
+> Structure:
+> - Describe CBT
+> - Principles of CBT
+> - Planning and implementing CBT
+
+### MEQ 17.3 What are the pharmacological recommendations for treatment of OCD in James? (4 marks)
+
+> Structure:
+> - SSRIs
+> - Augmentation with antipsychotics
+> - TCAs
+
+- SSRIs
+  - High-dose SSRIs are typically required to address OCD symptoms
+  - Treatment may also require up to 12 weeks to see effect
+  - Nil particular SSRI is preferred, would be depending on adverse affect profile and tolerability
+  - Paroxetine should be avoided due to risk of increased suicidal thoughts
+  - Consider drug-durg interactions
+
+
+
 ## MEQ 18
 
 You are a junior consultant psychiatrist working in a regional area. There has been an electroconvulsive therapy (ECT) adverse event (critical incident) involving ECT for a patient. 
 
-### MEQ 18.1 A First-year student asks you to explain what a root cause analysis is. List/explain/describe (8 marks).
+### MEQ 18.1 A first-year student asks you to explain what a root cause analysis is. List/explain/describe (8 marks).
+
+> Structure:
+> - 8 marks = 4x 2 marks
+> - What it is
+> - Why it's used
+> - How it's performed
+> - Outcomes: how to prevent it
+
+- What
+  - Root cause analysis is an investigation into adverse outcomes used in the healthcare system as well as other industries
+  - It is typically triggered by **sentinel events** such as patient deaths or in psychiatry, adverse events related to ECT or patient suicides or harm to others
+- How
+  - Team is appointed that was not involved in the patient's care
+    - One external to service
+    - One familiar with the processes
+    - One with SAER expertise
+  - Focuses on systems and processes
+  - Information gathered via interviews, documentation review
+  - Construct a timeline
+  - Identify factors that caused an incident to occur
+  - Link factors to the outcome
+  - Make recommendations
+- Why
+  - To identify systemic issues that led to an adverse outcome
+  - To prevent this from occurring again by identifying deficits in the system that can be addressed including new policies or education and support
+- https://www.cec.health.nsw.gov.au/__data/assets/pdf_file/0009/606735/Root-cause-analysis-toolkit.pdf
+
+
+
 ### MEQ 18.2 You are asked to prepare a teaching session for stage 2 trainees on the background, prescription and administration of ECT. Outline what you would cover? (14 marks) 
 
 > Structure:
@@ -818,8 +1108,123 @@ You are a junior consultant psychiatrist working in a regional area. There has b
   - **EEG monitoring**
 
 ## MEQ 19
-Joe, a 45-year-old gentleman with schizophrenia working as a gardener has recently relocated from another service. You have access to his previous information. He is able to make decisions for himself. He is stable on Clozapine 400mg daily for the last 15 years. The new case manager tells you the handover from previous community mental health team has been adequate and all relevant documents have been sent across. Joe wants to change his anti-psychotic medication because he is struggling with side effects of tiredness, sleeping 12 hours a day, his head feels foggy and he can only work two days a week (as a gardener) due to these symptoms. He is compliant with medications but on the odd occasion that he forgets his clozapine, he feels brighter. 
+Joe, a 45-year-old gentleman with schizophrenia working as a gardener has recently relocated from another service. You have access to his previous information. He is able to make decisions for himself. He is stable on clozapine 400mg daily for the last 15 years. The new case manager tells you the handover from previous community mental health team has been adequate and all relevant documents have been sent across. Joe wants to change his anti-psychotic medication because he is struggling with side effects of tiredness, sleeping 12 hours a day, his head feels foggy and he can only work two days a week (as a gardener) due to these symptoms. He is compliant with medications but on the odd occasion that he forgets his clozapine, he feels brighter. 
+
 ### MEQ 19.1 What information would you like to find out before you consider Joe's request for medication change? 
-### MEQ 19.2 You decide to go ahead and change Joe's antipsychotic, what strategies can you use to safely transition him from clozapine to another antipsychotic? 
+
+- Previous medication trials
+  - What medications have been trialled
+  - What has been tolerated
+  - Whether any have had partial efficacy
+  - Reasons for discontinuation
+  - Previous treatment including ECT
+- Tolerating side effects and medications
+  - Metabolic profile
+  - Cardiac health including QTc
+  - Presence of parkinsonian symptoms
+  - Hepatic and renal function
+- Previous admissions and risk assessment
+  - Risk of suicide when unwell
+  - Risk towards others when unwell
+  - Risk to reputation when unwell
+- Current dosing
+  - Whether medication is being taken at night
+  - Previous attempts at lowered clozapine dosing and whether efficacious
+  - Other interactions
+- Substance use
+  - Comorbid substance use increasing risk of relapse
+- Psychosocial function
+  - Whether in stable accommodation and income
+  - Whether has supports either formal or informal
+  - Presence of informal supports to catch early warning signs
+
+### MEQ 19.2 You decide to go ahead and change Joe's antipsychotic, what strategies can you use to safely transition him from clozapine to another antipsychotic?
+
+- > Structure:
+- > Optimisation of clozapine
+- > Choice of antipsychotic
+- > Switch of antipsychotic
+
+- Review of prior documentation
+  - Previous antipsychotic trials, which ones have been partially efficacious, which ones have not been efficacious, which ones could not be tolerated
+  - Previous relapses and course of relapse, whether precipitated by substance use, medication non-compliance, psychosocial stressors or others
+  - Either utilising a new antipsychotic that can be tolerated well and has not been proven not to work or utilising a partial efficacy
+- Psychoeducation regarding indication of clozapine
+  - Only utilised for treatment-resistant schizophrenia
+  - Gold-standard in treatment-resistant schizophrenia
+  - Discussion in regards to optimising dosing, lowering dosing of clozapine
+- Psychoeducation of risk of relapse
+- Discussion of early warning signs to monitor for signs of relapse
+  - Strange ideas, hallucinatory experiences, sleep disturbances
+- Reducing risk of relapse otherwise
+  - Reducing psychosocial stressors
+  - Addressing comorbid substance misuse
+  - Engaging in healthy sleep and appetite
+- Discussion with family and other support services
+  - Discuss increased risk of relapse
+- Frequent monitoring during switch
+  - Case manager with increased frequency of contact
+- Slow cross-titration to catch early-warning signs
+- Ensuring PRNs are available in the community if there are early warning signs of relapse
+- Safety netting to be completed via case manager, Mental Health Access Line if 24/7 as well as 000 if ongoing concerns
+
 ### MEQ 19.3 A medical student asks you to explain what the withdrawal and discontinuation syndromes one might experience from stopping an antipsychotic. How would you answer this question? (4 marks) 
+
+> Structure:
+> - Education: pre-education survey, teaching tools, post-education feedback
+> - Typical withdrawal and discontinuation syndromes ie. antidepressants, drugs of addiction
+> - Side effects of ceasing antipsychotic
+> Missed:
+
+- When addressing the student, I would first determine their level of understanding as to defining withdrawal, discontinuation syndrome and the mechanism of antipsychotics. I would also relate the answer to other medical specialties which the student may have a better understanding of
+- Withdrawal is a syndrome secondary to cessation in context of dependence whether physical or psychological and typically is used in context of drugs of addiction such as alcohol, benzodiazepines or opiates. Due to prolonged use, patient's receptors are altered and thus with abrupt cessation, patients may have hyperactive receptor activity leading to uncomfortable states.
+- Discontinuation syndrome is typically used in the context of antidepressant. It is distinct from withdrawal due to the lack of dependence, however it is noted that there is similarity in regards to an overdrive of receptor activity once the agent is ceased.
+- Antipsychotics on the other hand do not exhibit the same tendency to upregulate however tapering or cessation of antipsychotics can result in psychotic relapse, depression and/or anxiety. 
+- Finally, I would ask if they understood the above and whether they had any further questions
+
+## MEQ 20
+
+42-year-old married Indonesian woman, lives with husband and their 3-year-old child. She presented following an overdose of 10 tablets of 10 mg amitriptyline. She felt hopeless that her physical health will not return to normal functioning. When you saw her, she was adamant that she was no longer suicidal. She feels depressed, tired, lethargic, predominantly somatically focused and not able to work as a tutor at university. Her husband is not happy that she is not doing any work or looking after her son and this has caused conflict in their relationship. You see her in post overdose clinic. Husband tells you that he is not happy for her to be followed up by a psychiatrist. 
+
+### MEQ 20.1 List and explain the possible causes of stigma in this situation. (6 marks)
+
+> Structure:
+> - Husband-related, patient-related, system-related, illness-related
+> - Cultural differences in understanding
+> - Lack of knowledge
+
+- Husband-related
+  - Lack of understanding of mental illness
+  - Preference for herbal and traditional remedies. Does not subscribe to Western models of care
+  - Potential patriarchial structures with 
+- Patient-related
+- System-related
+  - Stigma being associated with mental health services. The husband may not want to be associated with psychotic or patients dealing with addiction
+- Illness-related
+  - Mental illness considered sign of weakness in coping
+  - Denial of mental illness: belief that patient is utilising 
+  - Cultural understandings of supernatural causes underlying mental illness
+
+### MEQ 20.2 The GP has thoroughly examined and completed investigations, and there is no identifiable cause to explain her somatic symptoms; GP thinks she is depressed. List and explain the possible differential diagnoses.
+
+> Structure: organic, substance-induced, psychotic, affective, neurotic, personality
+
+- Organic
+  - Anaemia
+
+### MEQ 20.3 The patient agreed to engage with psychological services. Unfortunately, she only attended 2 sessions and then disengaged. Your consultant asks you what are the things you will want to do before closing her case. 
+
+
+### MEQ 20.4 List and justify the issues that you would discuss with your supervisor (regarding the factors impacting upon psychotherapy). (10 marks)
+
+
+
+## MEQ 21
+
+Young male believes he has ADHD.
+
+### MEQ 21.1 Approach to assessment.
+### MEQ 21.2 What are the issues in prescribing medication in adult ADHD?
+### MEQ 21.3 Your prescribing in adult ADHD is higher than your peers in the region. How would you respond and manage? Your clinical director hands you an evaluation showing that your practice was prescribing psychostimulants vastly different to those of your peers. How would you go about addressing this?
+### MEQ 21.4 Non-pharmacological strategies in management of adult ADHD.
 
