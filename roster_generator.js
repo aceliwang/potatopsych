@@ -2,7 +2,9 @@
 // Identify all registrars
 class Registrar {
     constructor(leave, availabilities) {
-        this.leave = ""
+        this.leave = "";
+        this.team = "";
+
     }
 }
 
@@ -39,6 +41,17 @@ class Day {
     }
 }
 
+class Template {
+    constructor(registrar, command, day, shift) {
+        this.command = command
+        this.registrar = registrar
+        this.day = day
+        this.shift = shift
+    }
+}
+
+
+
 class Roster {
     // new attribute for each shift?
     constructor() {
@@ -56,7 +69,7 @@ class Roster {
                 case 1: // Monday
                 case 3: // Wednesday
                 case 5: // Friday
-                // ECT, EDAM, EDPM, Sick, After Hours
+                    // ECT, EDAM, EDPM, Sick, After Hours
                     day.cloz_am = null
                     day.cloz_pm = null
                     day.short = null
@@ -64,13 +77,13 @@ class Roster {
                     break;
                 case 2: // Tuesday
                 case 4: // Thursday
-                // Cloz AM, Cloz PM, Sick, After Hours
+                    // Cloz AM, Cloz PM, Sick, After Hours
                     day.ect = null
                     day.short = null
                     day.nights = null
                     break;
                 case 6: // Saturday
-                // Night, Fall Through
+                    // Night, Fall Through
                     day.ed_am = null
                     day.ed_pm = null
                     day.cloz_am = null
@@ -78,7 +91,7 @@ class Roster {
                     day.ect = null
                     day.sick = null
                 case 0: // Sunday
-                // Short Shift, Long Shift
+                    // Short Shift, Long Shift
                     day.nights = null
                     break;
             }
@@ -91,7 +104,29 @@ class Roster {
         // TODO: add extra nights, add extra clozapines
     }
 
+    process_templates(all_templates) {
+        all_templates.forEach((template) => {
+            switch (template.command) {
+                case "locked_in":
+                    this.roster_array.forEach((shift) => {
+                        if (shift.day = template.day) {
+                            template.shift.registrar = template.registrar
+                            shift.status = "template"
+                            // TODO: do checks, raise error
+                        }
+                    })
+                    break;
+                case "rotates": // todo
+                    this.roster_array.forEach((shift) => {
+
+                    })
+                    break;
+            }
+        })
+    }
 }
+
+
 
 
 // RULES
@@ -108,6 +143,7 @@ class Roster {
 // EG: Community LOCKED IN Cloz Thurs PM
 // EG: Acute LOCKED IN Cloz Tues AM
 // EG: J Norman LOCKED IN Cloz Tues PM
+
 
 // EG: PECC LOCKED IN ED Thurs AM
 // EG: FCMHT LOCKED IN ED Fri PM
@@ -149,8 +185,12 @@ class Roster {
 // 8 shifts ^ 20 regs
 
 test = new Roster()
-test.roster_array.forEach(function(item) {
+
+// run templates
+template = Template("J Norman", "locked in", "Tuesday", "Cloz PM")
+test.process_templates[template]
+
+// PRINTING
+test.roster_array.forEach(function (item) {
     console.log(item.date, item)
 })
-
-console.log(test.roster_array)
