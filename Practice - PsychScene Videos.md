@@ -1,9 +1,9 @@
 # Practice - PsychScene Videos
 
 ## Progress
-- MEQ 1.1: completed
-- MEQ 1.2: 
-- MEQ 1.3: 
+- MEQ 1.1: `management of trauma (patient)` completed
+- MEQ 1.2: `management of trauma (supports + kids)`
+- MEQ 1.3: `perinatal psychopharmacology`
 - MEQ 2.1: completed
 - MEQ 2.2: 
 - MEQ 2.3: completed
@@ -23,23 +23,23 @@
 - MEQ 7.2: eh good enough, do notes
 - MEQ 7.3: eh good enough, export to notes
 - MEQ 7.4: need to check, added on extra question
-- MEQ 8.1: completed
-- MEQ 8.2: 
+- MEQ 8.1: `encopresis` completed
+- MEQ 8.2: `acute management of suspected child physical ROSH`
 - MEQ 9.1: 
 - MEQ 9.2: half-completed
 - MEQ 9.3: 
 - MEQ 10.1: 
 - MEQ 10.2: 
 - MEQ 10.3: completed
-- MEQ 11.1:
-- MEQ 11.2:
-- MEQ 11.3:
-- MEQ 11.4:
-- MEQ 12.1: 
+- MEQ 11.1: `ethical issues in ECT` completed
+- MEQ 11.2: `barriers to mx of MDD` completed
+- MEQ 11.3: `barriers to ECT` completed
+- MEQ 11.4: `mx of mania in context of ECT` completed
+- MEQ 12.1: `CTO ethical issues` completed
 - MEQ 12.2:
 - MEQ 12.3: 
 - MEQ 13.1: 
-- MEQ 13.2: 
+- MEQ 13.2: `managing a complaint`
 - MEQ 14.1: 
 - MEQ 14.2:
 - MEQ 14.3: 
@@ -47,7 +47,7 @@
 - MEQ 15.2:
 - MEQ 15.3:
 - MEQ 15.4: 
-- MEQ 16.1: 
+- MEQ 16.1: `principles of supervision`
 - MEQ 16.2:
 - MEQ 16.3:
 - MEQ 16.4: 
@@ -59,8 +59,8 @@
 - MEQ 19.1:
 - MEQ 19.2: to check
 - MEQ 19.3: to check
-- MEQ 20.1: causes of stigma
-- MEQ 20.2:
+- MEQ 20.1: `causes of stigma`
+- MEQ 20.2: `fatigue differentials` checked
 - MEQ 20.3:
 - MEQ 20.4: 
 - MEQ 21.1: 
@@ -812,9 +812,79 @@ You are a junior psychiatrist and Virginia is a 14 yr old girl who has been refe
 67F with recurrent treatment resistant depressive disorder presents with severe depressive episode of 2 month duration. She has developed nihilistic delusions and is very agitated over the last 2 weeks. She has been on escitalopram 20mg/day for the last 2 years. Her husband and daughter are aware she is fearful of & has previously been adamant in her refusal of ECT. Her brother died of suicide aged 20 after having ECT for depression. The husband and daughter feel ECT is not appropriate and object strongly to this treatment. On the inpatient unit, she is initially commenced on venlafaxine, which was titrated to 225 mg mane over a period of three weeks with no effect. Subsequently, she was crossed titrated with nortriptyline with a dose of 100 mg being maintained over a two-week period along with a mood stabiliser. 
 
 ### MEQ 11.1 Outline the professional and ethical issues raised by this scenario. 
+
+- Ethical
+  - Beneficence, non-maleficence, justice, autonomy (capacity)
+- Patient has had a relapse of recurrent severe depression
+- Beneficence
+  - Nihilistic delusions can cause distress to the patient with severe mood disturbance
+  - Patient is also likely distressed as evidenced by agitation
+  - Risks to self are high due to depression and risk of suicidality and self-neglect due to delusions
+  - ECT is considered gold-standard treatment for depression especially in MDD with psychotic features
+    - Also indicated with treatment-resistance (in this case venlafaxine) and also nortriptyline + augmentation with a mood stabiliser
+- Previous requests to refuse ECT. Unclear whether capacity and previous wishes were during capacity, thus impacting autonomy
+  - Ideally wish to abide by patient's wishes
+  - Attempts have been made with different trials of antidepressants and appropriate step-up of classes from SSRI to SNRI to TCA
+  - Informed consent should also be attempted with psychoeducation regarding previous ECT affecting her brother
+  - Suicide was likely due to underlying depression as opposed to ECT
+  - Remission of depression should be aimed for with ongoing pharmacotherapy
+- Missed
+  - Autonomy: consider current capacity to consent
+  - Beneficence: duty of care towards the patient
+  - Privacy and confidentiality
+  - Legal directives: ACDs and 2nd opinions
+
 ### MEQ 11.2 Outline the factors that could be contributing to her depression failing to improve. (8 marks)
+
+> Structure: 4 points, 2 marks each
+> Essentially perpetuating factors
+
+- Biological
+  - Innate treatment resistance of underlying biological depression
+  - Medications are not functioning due to disturbances in metabolism and interactions
+  - **Medication non-compliance**
+  - Recurrent relapses have led to increasing treatment resistance
+  - Undiagnosed organic cause of depression. **Missed**: vasculopathies, nueorocognitive issues, vascular impairment, hyponatraemia, thyroid dysfunction, other tumours
+  - Family history suggests biological vulnerabilities to depression as well
+  - Patient may be refusing medications due to nihilism and potential somatic delusions including difficulty swallowing
+  - **Missed**: subtherapeutic dosing, lack of antipsychotic
+- Psychological
+  - Personality traits that are not amenable to psychology or psychotherapy such as **give examples:** negative self-concept, ruminations, poor coping
+  - Resistance to ECT
+- Social
+  - Ongoing psychosocial stressors including finances, interpersonal conflict with family and other relationships may still be continuing
+
 ### MEQ 11.3 Outline the factors that may be contributing to family's opposition to ECT. (8 marks)
+
+> Structure: patient, family, treatment
+
+- Stigma against ECT from patient and family due to media portrayals, violent motor seizures with potential high risk of injury
+- Attribution of brother's suicide as secondary to the ECT as opposed to underlying depression
+- Lack of understanding of the ECT process including use of anaesthetic to control for ECT. Lack of understanding regarding gold-standard treatment for depression.
+- Family is wishing to support patient in her previous perspectives as expressed by the patient
+- **Missed**:
+  - Concern of side effects of ECT regarding long-term memory impairment
+  - Manifestation of counter-transference against team or poor therapeutic alliance
+  - Cultural factors impacting beliefs in models of care
+
 ### MEQ 11.4 After a lengthy discussion with the patient and her family, the plan is made to begin a course of right unilateral ECT while optimising the dose of nortriptyline to 150mg daily. By the sixth treatment, however, some signs of hypomania are evident. Describe the management you will recommend. Outline the possible treatment options at this point. (4 marks)
+
+> Structure: 4 possible treamtent options with justification
+
+- Cease ECT and nortriptyline
+  - Impression of manic switch secondary to antidepressant effects of ECT and nortriptyline
+  - To prevent further elevation of mood, causative factor should be ceased
+- Cease nortriptyline and continue ECT
+  - Reduce causative agent of manic switch
+  - ECT to be continued as it is also indicated for mania
+- Addition or optimisation of mood stabiliser or antipsychotic
+  - Patient now has a diagnosis of bipolar disorder as per DSM
+  - Treat the mania at the moment
+- **Missed**
+  - Taper/downtitrate anything
+  - Space out ECT
+  - Specifically lithium augmentation: utilised as a mood stabiliser, could also benefit for treatment-resistant depression
+
 
 
 ## MEQ 12
@@ -826,20 +896,40 @@ You are a junior psychiatrist and Virginia is a 14 yr old girl who has been refe
 - Autonomy
   - Individuals have their own right to autonomy including the treatment that they receive
   - Underlying primary psychotic disorder is likely to impair capacity at some point
+  - **Missed**: Consider his insight into his illness and his retnetion of capacity. Clarification of whether there is any formal Guardianship order in place regarding substitute decision-making
 - Utilitarinism
   - Consideration of greatest good to the greatest number of people
   - People other than the patient may be at risk of harm if patient becomes unwell
-  - Breaching the rights of autonomy of one may be considered equal to reducing the risk of others
+  - Breaching the rights of autonomy of one may be considered necessary to reduce the risk of others
 - Beneficence
   - Patient would benefit from management of underlying psychosis which proves damaging to the brain
+  - Psychosis and mental illness in itself can be distressing, and management would prevent relapse and future involuntary admission
 - Non-maleficience
   - Enforced treatment with potential side effects 
+  - Consider impact on the therapeutic alliance which may be impaired to facilitate safe access to mental health care in the future
 - Justice
   - All patients should be treated equally
+- **Missed**
+  - Privacy and confidentiality: although family should be involved in the care of mental illness, it is up to the patient ultimately
 
 ### MEQ 12.2 He tells you that he will not accept any treatment unless he is on a treatment order. Sister confirms that they will be relocating to rural area soon. He will be referred to the CMH in the region for follow up. What are the possible risks involved in terms of historical, social and clinical aspects in this man with regards to relapse? 
 
-[TODO]
+> Structure:
+> - Historical
+> - Social
+> - Clinical
+> **Missed**: essentially HCR
+
+- History
+  - Diagnosis of mental illness: schizoaffective disorder
+  - Forensic Hx suggests risks involved with relapse
+- Social
+  - Presence of support structure: informal (family)
+  - Presence of formal supports including rural staffing for community mental health
+- Clinical
+  - Current substance use
+  - Insight into mental illness and role of substance use
+  - Non-compliance with treatment is likely to increase risk of relapse
 
 ### MEQ 12.3 List and explain principles of informed consent.
 
@@ -852,6 +942,13 @@ You are a junior psychiatrist and Virginia is a 14 yr old girl who has been refe
 - Discussion of risks of not proceeding with procedure or treatment: why this treatment is required
 - Discussion of alternatives
 - Answering any questions the patient may have
+- Above is essentially missing the point
+- **Missed**:
+  - Patient should have capacity to understand the decision, compare the risks and benefits, retain the decision and to communicate it further
+  - Patient should be provided information regarding the decision including reason for the decision, risks of proceeding with the decision, risks of not proceeding with the decision, alternatives to the decision. Questions should be encouraged to have sufficient information to make a decision
+  - Patients should be provided sufficient time to interpret and make the decision
+  - Decision should not be made under coercion
+  - Patient is able to withdraw consent at any time
 
 ## MEQ 13
 
@@ -872,7 +969,7 @@ You are a junior consultant psychiatrist on call for the Emergency Department at
 - Family history 
 - Forensic history: may suggest risk towards staff if needs are not met
 - Drug and alcohol history
-  - Although isolated benzodiazepine misuse can be safe, when mixed with other depressants can cause lethality
+  - Although isolated benzodiazepine misuse is relatively non-lethal, when mixed with other depressants can cause lethality
   - Other benzodiazepine usage including clonazepam or alprazolam
   - Whether medications have been sourced on the street
   - Previous withdrawal including presence of seizures
@@ -883,11 +980,19 @@ You are a junior consultant psychiatrist on call for the Emergency Department at
 
 ### MEQ 13.2 The registrar telephones you two weeks later to inform you that Toby did not attend a follow-up appointment at the outpatient department. The registrar also informs you that on the same day he had received an email from the hospital asking him to respond to a complaint lodged by Toby about "the poor care" Toby had receieved during the ED consultation. Describe (list and explain) what you would discuss with the registrar about managing this situation further. Please note: a list with no explanation will not receive any marks (7-9 marks).
 
+- Discuss that hospital should refer to documentation made at the time
+- Mental state examination should describe his behaviour and affect in regards to the decision
+- Contact medical indemnity for further advice
+
+
+
 ## MEQ 14
 
 12-year-old Aboriginal boy brought to the emergency department by the police after damaging property and threatening to hurt himself. On arrival to the ED he was settled and was playing cards with his carer. He recently moved to his 10th group home. His care was transferred to the State when he was 5 after witnessing family violence and his father killed his mother and was incarcerated. 
 
 ### MEQ 14.1 List and explain possible explanation of his behaviour. He is treated with olanzapine, sertraline, long-acting methylphenidate and sodium valproate. Carer informs he is treated for childhood bipolar disorder. 
+
+- Trauma-response
 
 ### MEQ 14.2 Discuss and debate possible differential diagnosis. 
 
@@ -983,6 +1088,9 @@ You are a junior consultant psychiatrist working in the community adult mental h
 You are a consultant psychiatrist working in the mental health service. Sarah, who is a stage 2 trainee, has been assigned to work with you. She contacts you with regards to arranging supervision and you set-up a time to meet with her.
 
 ### MEQ 16.1 What principles of supervision, as per RANZCP guidelines, would you use in this instance?
+
+- Environment: private and appropriate environment
+- Time: minimum of 4 hrs per week with 1 hr of individual supervision
 
 ### MEQ 16.2 What are the principles of effective feedback?
 
@@ -1209,10 +1317,23 @@ Joe, a 45-year-old gentleman with schizophrenia working as a gardener has recent
 
 > Structure: organic, substance-induced, psychotic, affective, neurotic, personality
 
-- Organic
-  - Anaemia
+- Organic: physical health conditions can lead to tiredness and lethargy
+  - Anaemia, hypothyroidism, chronic infections
+- Substance-induced
+  - Utilising substances to cope eg. alcohol could lead to long-term decreases in energy
+- Psychotic: somatic delusions regarding current health conditions
+- Affective: major depressive disorder with lethargy, fatigue and suicidality. Post-natal depression.
+- Neurotic: adjustment disorder with depressed mood
+- Personality: poor coping in terms of stressors including high EE and exposure to criticism
+- Missed:
+  - Chronic fatigue syndrome
+  - Unresolved grief: losses post-migration
+  - Trauma-related symptoms: ie. acute stress disorder, re-activation of PTSD
+  - Abnormal illness behaviour or "sick role" with secondary gain
 
 ### MEQ 20.3 The patient agreed to engage with psychological services. Unfortunately, she only attended 2 sessions and then disengaged. Your consultant asks you what are the things you will want to do before closing her case. 
+
+
 
 
 ### MEQ 20.4 List and justify the issues that you would discuss with your supervisor (regarding the factors impacting upon psychotherapy). (10 marks)
@@ -1224,6 +1345,25 @@ Joe, a 45-year-old gentleman with schizophrenia working as a gardener has recent
 Young male believes he has ADHD.
 
 ### MEQ 21.1 Approach to assessment.
+
+> Structure: history, MSE, physical examination, collateral information, school reports, neuropsychology assessment
+
+- Discussion of presenting symptoms
+  - Focus on attention deficits and hyperactivity
+  - Discussion of age of onset
+  - Discuss previous impact at school, impact at home and relationships
+  - Discuss current impact upon work
+- Review comorbid psychiatric Hx. Previous admission to MH.
+- Review medical issues
+- Current medications, previous trials
+- Review family psychiatric Hx: if any family members have ADHD or neurodevelopmental disorders
+- Review substance use: interactions between substances and possible management. Exclude substance-induced disorders
+- Review forensic Hx: previous substance charges 
+- Review developmental history
+- Risk assessment
+- Obtain school reports or statements from collateral to confirm
+
+
 ### MEQ 21.2 What are the issues in prescribing medication in adult ADHD?
 ### MEQ 21.3 Your prescribing in adult ADHD is higher than your peers in the region. How would you respond and manage? Your clinical director hands you an evaluation showing that your practice was prescribing psychostimulants vastly different to those of your peers. How would you go about addressing this?
 ### MEQ 21.4 Non-pharmacological strategies in management of adult ADHD.

@@ -16,7 +16,7 @@
 - MEQ 12: duplicate from PsychScene Videos MEQ 10
 - MEQ 13: duplicate from PsychScene Videos MEQ 11
 - MEQ 14: 
-- MEQ 15:
+- MEQ 15.1: `Parkinson's disease signs and symptoms` completed
 - MEQ 16:
 - MEQ 17:
 - MEQ 18:
@@ -112,6 +112,14 @@ You are the on-call psychiatrist to a public hospital and you are contacted by a
 
 ### MEQ 14.4 Outline risks in this situation highlighting need for admission. (8 marks)
 
+> Structure:
+
+- Risks to self
+  - Suicide as claimed by Mark
+  - Self-harm and disabling injury via unsuccessful suicide attempt
+- Risks to others
+  - Revenge regarding hurting the person who alleged sexual assault
+
 ### MEQ 14.5 A request from a private lawyer for a report on the admission with signed consent is received. Your hospital is proactive & it is policy to address these types of matters. The registrar is not sure how to go about this report & asks for your advice. Outline how to advise registrar on approach to write the report. (4 marks)
 - Is this not the same as MEQ 14.3?
 
@@ -121,11 +129,32 @@ You are a junior consultant adult psychiatrist in private practice. A GP has ref
 
 ### MEQ 15.1 Outline the signs & symptoms of Parkinson's you would expect Simon to present with? (4 marks)
 
+- TRAP
+  - Resting tremors
+  - Cogwheel rigidity
+  - Akinesia
+  - Postural hypotension
+- Resting tremor: typically unilateral, disappears on intention
+- Slowed movements, slowed speech, bradyphenia
+- Cogwheel lead-pip rigidity with reduced armswing
+- Orthostatic hypotension
+- Constipated, drooling, depression, REM sleep disorder, anosmia
+- Cognitive decline
+- Shuffling gait with flexed porture
+- Glabellar reflex
+- Micrographia
+
 ### MEQ 15.2 As of the last six months he has essentially refused to leave the house and when at home will spend nearly sixteen hours a day in his bedroom, most of the time playing gambling card games on his iPad. Occasionally, he will become quite irritable when his wife or his children interrupt his playing on the iPad and on one occasion he smashed a vase. Simon's wife is worried that he is depressed and is very concerned about the impact of his mental state on his children. Outline your risk assessment. (4 marks)
 
 ### MEQ 15.3 Neurologist started him on L-DOPA and added cabergoline 8 months ago. For 6 months, he is gambling money and disassembling and reassembling a bike for hours. His wife tells you this information as she is very worried. Describe the clinical issues in this new information. (6 marks)
 
+- Decreased impulse control
+
 ### MEQ 15.4 What is the significance of dopaminergic agents in gambling disorders?
+
+- Increase in dopamine activity > increases mesolimbic cortical activity > increases reward-seeking behaviour eg. gambling 
+
+
 
 ## MEQ 16
 
@@ -164,6 +193,8 @@ You are a junior psychiatrist in a regional hospital. Simone, an 8 year old fema
 Emily is 14 year old girl, she has lost 15kg in 6 months, jogs an hour a day, eats leafy vegetables (lettuce leaves), and still thinks she's overweight. She is wearing oversized clothing – BMI 15.
 
 ### MEQ 19.1 Outline the important principles of your initial assessment. (8 marks)
+
+
 ### MEQ 19.2 Outline the physical examination and investigations to determine if she needs hospitalisation. (6 marks)
 ### MEQ 19.3 She gets admitted to the Paediatric Unit. Outline the key steps in reducing the risk in refeeding syndrome. (4 marks)
 ### MEQ 19.4 She puts on weight and is medically stable, and you are planning discharge. Father is a principal and is never home, mother is a successful interior decorator. Emily says her mother says she's not good enough, and Dad is too controlling, and never at home. Mother is also preoccupied with her own appearance and weight. Outline your treatment approach. (6 marks)
