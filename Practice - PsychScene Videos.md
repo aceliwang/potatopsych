@@ -1029,7 +1029,8 @@ You are a junior consultant psychiatrist in the community mental health clinic. 
   - Treatment may also require up to 12 weeks to see effect
   - Nil particular SSRI is preferred, would be depending on adverse affect profile and tolerability
   - Paroxetine should be avoided due to risk of increased suicidal thoughts
-  - Consider drug-durg interactions
+  - Consider drug-drug interactions
+- Antipsychotic augmentation
 
 
 
