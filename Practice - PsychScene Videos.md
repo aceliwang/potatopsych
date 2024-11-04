@@ -993,8 +993,29 @@ You are a junior consultant psychiatrist on call for the Emergency Department at
 ### MEQ 14.1 List and explain possible explanation of his behaviour. He is treated with olanzapine, sertraline, long-acting methylphenidate and sodium valproate. Carer informs he is treated for childhood bipolar disorder. 
 
 - Trauma-response
+- Perceived aggression from others
+- Reactive in response to perceived needs not being met
+- Proactive aggression to fulfil personal desires including obtaining rewards
+- Differentials
+  - ADHD, ODD, DMDD, trauma response (complex PTSD)
+  - Emotional dysregulation
+  - Care eliciting behaviour
+  - Sociocultural / learned behaviours
+  - Antisocial traits
+  - Conduct disorder
+  - Organic: steroids, stimulants
+  - Bipolar/psychosis. Agitated depression.
+  - Increased threat perception with anxiety
+  - ASD with disruption of routines
+  - QVT
+- Note: DMDD = shit tantrums not responsive to perceived needs, persistent shit mood, ODD = unproportional tantrums that respond to requests
+- Mx: problem solving skills, family intervention. Triple P and Parentworks
 
-### MEQ 14.2 Discuss and debate possible differential diagnosis. 
+### MEQ 14.2 Discuss and debate possible differential diagnosis.
+
+- For bipolar disorder
+- Against bipolar disorder
+  - Oppositional defiant disorder, conduct disorder, complex PTSD
 
 
 ### MEQ 14.3 Patient is under a therapist and has a behavioural management plan in place - he is rewarded when 'good'. When behaving badly privilege is taken away. However, this is not working. Carer asks why is the behaviour management not working and how else can they manage?
