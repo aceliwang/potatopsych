@@ -693,13 +693,15 @@ You have been referred a 6 yr old boy Sam, by the paediatrician for encopresis. 
 ## MEQ 9
 A 4-year-old girl who lives with her parents and has two older siblings, aged 8 and 10, was admitted to the medical ward for investigation of her abdominal mass which turned out to be malignant on histology. Her father became irritable after being told the news, stopped sleeping and started responding to hallucinations and behaving bizarrely as per nursing staff. Currently, he is by his daughter's bedside, agitated, verbally aggressive to the staff, not letting blood samples be collected. Nursing staff call you from the ward. [from Unknown Mock MEQ 4: You are CL psychiatrist and get a call to come.]
 
+[Same as MEQ5 from 2024]
+
 ### MEQ 9.1 What information would you get from the treating team before seeing the patient? (8-10 marks)
 
 - Family Hx of mental health
 - Role and responsiblities of mother
 - Known substance usage
 
-### MEQ 9.2 Outline the possible causes for father's behaviour. (8 marks)
+### MEQ 9.2 Outline the possible causes for father's behaviour. (6-8 marks)
 
 > Structure:
 > Diagnostic hiearchy: organic, substance-induced, psychotic, affective, neurotic, personality-based, psychodynamic (denial)
@@ -721,6 +723,9 @@ A 4-year-old girl who lives with her parents and has two older siblings, aged 8 
   - Lack of continuity of care 
   - Regularly changing staff
   - Transference and countertransference between team and patient
+- **Missed**
+  - [RANZCP] Cultural, language or religious factors driving father's understanding of kid's morbidity and mortality
+  - [RANZCP]: 1 mark for major mental illness, 2 marks for adjustment, 2 marks with baseline (personality),  1 mark for major mental illness, 2 marks with conflict with staff
 
 
 ### MEQ 9.3 Outline the ethical and medical issues [around management]. (8 marks)
@@ -998,6 +1003,21 @@ You are a junior consultant psychiatrist on call for the Emergency Department at
 
 
 ### MEQ 14.3 Patient is under a therapist and has a behavioural management plan in place - he is rewarded when 'good'. When behaving badly privilege is taken away. However, this is not working. Carer asks why is the behaviour management not working and how else can they manage?
+
+> Structure:
+> - Not working
+>   - Patient factors
+>   - Carer factors
+>   - Systemic factors
+> - How to manage: as above
+
+- Patient factors
+  - Patient is not accurately diagnosed
+  - Underlying neurodevelopmental disorder impairing learning of behaviours
+  - Disruptive mood dysregulation disorder resulting in baseline irritability that is unable to be managed
+- Carer factors
+  - Countertransference against patient due to
+  - 
 
 ## MEQ 15
 

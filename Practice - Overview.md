@@ -19,6 +19,8 @@ To determine duplicates
 14. Practice - Unknown Mock MEQ 10
 15. Practice - Unknown Mock MEQ 11
 16. Practice - Psychscene MEQ 2020 (incomplete)
+17. RANZCP - MEQ 2024 February MEQ 5 ()
+18. 
 
 TODO:
 - Auckland
