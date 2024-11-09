@@ -821,3 +821,4 @@ You are working as the junior consultant in a large general hospital. Tony, aged
 **Missed**
 - Refer to APS/D&A
 - Staff liaison and education with addressing of staff issues
+- Non-pharmacological pain management
