@@ -107,8 +107,28 @@
     - Body attempts to save muscle
     - Muscle switches from ketones to fatty acids for energy, increasing free ketones
     - Liver drops gluconeogenesis to preserve muscle
-  - 
-
+- Clinical symptoms
+  - Delirium (confusion) with irritability and sensory disturbances
+  - Hyperglycaemia, polyuria
+  - Muscle weakness affecting heart, respiratory and GIT
+  - Ventilation difficulties, cardiac arrhythmias, arrest
+- Management of eating disorder
+  - MDT approach: gastro + CL Psych
+  - 1:1 nursing typically required, limit accessto bathroom
+- Management to reduce risk of refeeding syndrome
+  - Dietitian consult for reintroduction of calories
+    - Should be limited to 1000Cal/day with uptitration as tolerated
+    - Requires adequate protein and fat
+    - Must avoid underfeeding the patient
+    - Consider NG feeding for consistent feeding including overnight
+    - Limit food to only be from the ward. Avoid snacks due to diminishing appetite and/or laxative effects
+  - Monitoring
+    - Daily bloods, BSL QID
+    - Vitals BD
+    - Weight
+  - Replacement
+    - Replacement of multivitamins, thiamine and zinc.
+    - Replacing phosphate, magnesium and calcium as required.
 
 
 
