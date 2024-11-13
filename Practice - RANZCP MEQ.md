@@ -70,5 +70,8 @@
 ### MEQ 4.1 Outline (list and justify) potential advantages and disadvantages of working with an Indigenous Health Worker when serving a remote Indigenous community. (11 marks)
 
 - Advantages
-  - The health worker, with familiarity of the service would be able to assist in reassuring 
+  - The health worker, with familiarity of the service would be able to assist in reassuring Indigenous community about unfamiliar things
+  - The health worker should be able to explain cultural understandings to myself in regards to explanations of illness
+  - May be able to assist with interpretation for patients
 - Disadvantages
+  - The health worker 
