@@ -8,3 +8,8 @@
   - Include CANMEDS domains in how you approach the situation
 - For psychotherapy questions
   - Relate it to the case
+
+## Tips
+- If CL: clarify expectations of the consulting team
+- If old: cognitive assessment
+- If delirious: capacity assessment

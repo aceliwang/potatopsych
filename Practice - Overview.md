@@ -20,9 +20,30 @@ To determine duplicates
 15. Practice - Unknown Mock MEQ 11
 16. Practice - Psychscene MEQ 2020 (incomplete)
 17. RANZCP - MEQ 2024 February MEQ 5 ()
-18. 
+18. RANZCP - MEQ 2023 Feb
+19. RANZCP - MEQ 2023 Aug
+20. RANZCP - MEQ 2022 Feb
+21. RANZCP - MEQ 2022 Aug
+22. RANZCP - MEQ 2021 Feb
+23. RANZCP - MEQ 2021 Aug
+24. RANZCP - MEQ 2020 Mar
+25. RANZCP - MEQ 2019 Feb
+26. RANZCP - MEQ 2019 Aug
 
 TODO:
+- RANZCP - MEQ 2021 Aug Recalled
+- RANZCP - MEQ 2020 Oct
+- RANZCP - MEQ 2018 Feb
+- RANZCP - MEQ 2018 Aug MEQ 5
+- RANZCP - MEQ 2018 Aug MEQ 1
+- RANZCP - MEQ 2017 Aug Full
+- RANZCP - MEQ 2015 Aug
+- RANZCP MCQ Compilation (Sarah)
+- RANZCP - MEQ 6
+- Psychscene - MEQ Resources and Notes with Questions
+- Psychscene - MEQ and CEQ Notes 2020 Questions
 - Auckland
-- HETI Mocks
+- HETI Mock MEQ 2023
+- HETI Mock MEQ 2024
 - HETI MEQ Lectures
+- OSCE
