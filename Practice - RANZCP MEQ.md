@@ -41,6 +41,7 @@
 - 2015 Aug MEQ 4.1: 
 - 2015 Aug MEQ 4.2: 
 - 2015 Aug MEQ 4.3: 
+- MEQ 6: (duplicate of RANZCP MEQ Sarah's Compilation)
 
 
 ## 2023 FEB MEQ 5
