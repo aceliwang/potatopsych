@@ -18,6 +18,10 @@ B
 
 ### Cardiac
 
+- Concerns
+- **Antidepressant after AMI**: 
+- **Antipsychotic after AMI**
+
 ### Epilepsy
 
 - Concerns

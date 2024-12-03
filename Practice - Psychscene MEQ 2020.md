@@ -21,9 +21,10 @@
 ## MEQ 1
 John is a 55 yo principal of a local school who is referred to you privately, by his health practitioner (GP) for 
 further assessment and treatment. He had a myocardial infarction 6 months ago. He is a successful teacher and lives with his wife and three children. He has been trialled on three different SSRIs without any benefit. 
+
 ### MEQ 1.1 Outline John's causes for treatment resistance and the salient features you would look for in assessment. (8 marks)
 
-### MEQ 1.2 Durlng your assessment he tells you that he is certain that he is unable to provide for his family and that they are facing financial ruin. He is growingly increasingly despondent about this. He says he cannot afford to come and see you. His wife finds him pacing about during the day and reports that there is no issue financially and that despite any reassurances from work or family, he continues to worry about the future. His wife says that he stays up all night pacing. Outline the key aspects of your management plan you would consider at this stage. (10 marks)
+### MEQ 1.2 During your assessment he tells you that he is certain that he is unable to provide for his family and that they are facing financial ruin. He is growingly increasingly despondent about this. He says he cannot afford to come and see you. His wife finds him pacing about during the day and reports that there is no issue financially and that despite any reassurances from work or family, he continues to worry about the future. His wife says that he stays up all night pacing. Outline the key aspects of your management plan you would consider at this stage. (10 marks)
 
 ### MEQ 1.3 John has been reluctantly seeing you monthly. He tells you that the work environment has become unbearable. After an incident at work, which involved an altercation with students, John has taken time off due to sickness. 5 months later, you receive a letter from WorkCover outlining that they need a report from you regarding John. They have also sent you a request for his notes. List the key points in your approach to this request. (3 marks)
 

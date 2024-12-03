@@ -37,7 +37,7 @@ You are the psychiatrist at a community mental health clinic. John is a 38 year 
 ### MEQ 3.4 The case manager informs you that John's father died. Outline the possible consequences for John. (6 marks)
 
 ## MEQ 4
-You are the psychiatrist at a community mental health clinic. Jean is a 45 year old woman of indigenous background. She has a history of sexual abuse and now suffers from Post Traumatic Stress Disorder characterized by nightmares, hypervigilance and agitation. She has recently seen her assailant, who is actually an older relative at a family function. This has triggered her symptoms and caused her immense distress. You are contacted about this by Jean’s case manager who is concerned about Jean's risk of self‐harm. Jean states she feels better now, she denies intent to harm herself and tells you "I just want to go home so I can get some sleep".
+You are the psychiatrist at a community mental health clinic. Jean is a 45 year old woman of indigenous background. She has a history of sexual abuse and now suffers from Post Traumatic Stress Disorder characterized by nightmares, hypervigilance and agitation. She has recently seen her assailant, who is actually an older relative at a family function. This has triggered her symptoms and caused her immense distress. You are contacted about this by Jean's case manager who is concerned about Jean's risk of self‐harm. Jean states she feels better now, she denies intent to harm herself and tells you "I just want to go home so I can get some sleep".
 ### MEQ 4.2 Outline your advice to the case manager on how to manage Jean. (8 marks)
 
 ## MEQ 6

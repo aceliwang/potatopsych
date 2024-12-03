@@ -1039,13 +1039,417 @@ You are a Psychiatric Registrar working in a Community Mental Health Centre. You
 - (2) Discuss with collateral as well regarding mental state and safety plan
 - Discuss above with supervising consultant
 
-# MEQ 4.3 Justine's depression worsened during her pregnancy and she resumed taking paroxetine during the last trimester. You review her four weeks post-partum. She is tearful with a depressed and anxious mood. She says she is not enjoying her baby. She is breast-feeding. Outline the most important management considerations. (9 marks)
+### MEQ 4.3 Justine's depression worsened during her pregnancy and she resumed taking paroxetine during the last trimester. You review her four weeks post-partum. She is tearful with a depressed and anxious mood. She says she is not enjoying her baby. She is breast-feeding. Outline the most important management considerations. (9 marks)
 
-- Risk assessment
+- (2) Risk assessment
   - Assess for suicidal ideation, plans, access and protective factors
   - Assess for feticidal thoughts
-- Consider MHA
-- Consider breast-feeding
-  - Paroxetine passes through breast milk. May be causing discontinuation syndrome with increased agitation
-- Referral to perinatal mental health services with consideration of admission to mother-baby units
+  - Consider MHA if patient and baby is not safe
+- Assess depression
+  - Consider stressors and causes including difficulties parenting
+  - Assess sleep and appetite with thoughts of worthlessness, hopelessness
+  - Assess for supports parenting including husband and other family supports
+- Assess baby
+- (1) Optimise biological management
+  - Considering previous response to paroxetine, this may be the most appropriate to increase in dose, however noting breast-feeding issues with passage through breast milk. May be causing discontinuation syndrome with increased agitation in the baby
+  - Otherwise, could consider switch to alternative antidepressant or neurostimulation methods including ECT
+- (1) Commence psychological supports including CBT
+- Social interventions
+  - Parenting support groups
+  - Carer's payment through finances
+  - Organising maternity / paternity leave
+- (2) Referral to perinatal mental health services with consideration of admission to mother-baby units
   - May require involuntary detainment under MHA if required
+- (2) Feedback to GP as well as family regarding monitoring and safety planning
+- **Missed**
+  - (2) Liaison with husband for collateral and support
+  - (2) Risks of untreated post-partum depression to the child including decreased attachment
+
+## 2008 MAR MEQ 1
+
+Sid is a single man who presented to the Emergency Department at a major teaching hospital, stating 'my life is in a mess and I might harm myself or kill someone', Sid had ceased taking prescribed medications, including venlafaxine two weeks previously, and ceased taking prescribed dexamphetamine sulfate one week ago. He was diagnosed with Attention Deficit Hyperactivity Disorder (ADHD) at the age of 31 years. He reported a history of difficulties with concentration, sticking at and completing tasks, and being easily distracted. He was prescribed four 5 mg dexamphetamine sulfate tablets each day. He admitted to frequently running out of the dexamphetamine and supplementing it with "street speed" to maintain the beneficial effect. He has also started to inject crushed dexamphetamine sulfate tablets. Sid is a skilled plasterer who previously worked for a small company but eventually lost his job because of erratic attendance and anger control problems. He has had repeated difficulty maintaining employment. He now works for himself but is in debt because of difficulty in managing his business. He says he is nervous and worries a lot. He was last admnitted to a psychiatric unit three years ago, after presenting to hospital complaining of mood swings and suicidal ideation. 
+Sid is admitted to the acute adult inpatient psychiatry unit because of his suicidal risk, and you are the registrar on the team who will manage him. 
+
+### MEQ 1.1 List the diagnostic possibilities for Sid and indicate which features of the above vignette support the diagnosis. (7 marks)
+
+> Organic, substances, psychotic, affective, neurotic, personality
+
+- Organic: hypothyroidism due to feeling slow
+- Substance-intoxicated
+  - Street speed, overuse of dexamphetamines resulting in agitation and difficulty controlling anger and emotions
+- Psychosis: dexamphetamine-induced psychosis resulting in concentration difficulties, possibly due to anger
+- Cluster B personality disorder: substance misuse, anger control problems suggesting emotional dysregulation, poor sense of self due to worrying a lot, mood swings and suicidal ideation suggesting emotional dysregulation
+- Depression: difficulty concentrating, erratic attendance, suicidal ideation
+- Anxiety disorders: worried, nervous, easily distracted
+- Post-traumatic stress disorder: hyperarousal deu to anger control problems, worries a lot with hypervigilance etc.
+- Non-pathological
+- **Missed**
+  - ADHD fking lmfao (2)
+  - Bipolar, mania (2)
+  - Remember to mention substance use disorder
+
+
+### MEQ 1.2 Sid he has not told his treating psychiatrist about his misuse of dexamphetamine sulfate and does not want him to be notified. Discuss the issues you would consider when deciding how to respond to this request. (8 marks)
+
+- Autonomy
+  - Sid has a right to manage access regarding his personal information whilst he has capacity
+- Privacy and confidentiality
+  - Sid has a right to keep his information private
+  - Sid has not provided consent to share his information
+  - This would be a breach of confidentiality laws
+- Beneficence
+  - Sid may suffer in his mental and physical health if he is to continue abusing dexamphetamines
+  - Other psychiatrist should also be aware of the potential risks
+- Destruction of the therapeutic alliance, Sid may not come back if he is suicidal during this time
+- **Missed**
+  - Most of it. This is not asking about just ethical issues. Consider all management issues.
+
+### MEQ 1.3 The nursing staff ot the inpatient unit are interested in learning about Adult ADHD. You are asked by the director of the unit to provide a 30 minute educational session to members of the staff as part of the unit's ongoing staff development programme. Outline your approach to this request. (10 marks)
+
+- [TODO] Ceebs
+
+## 2008 MAR MEQ 2
+
+Lynne is an 18 year old first year university student. She has stopped attending lectures because of panic attacks and agoraphobic avoidance, and she fears that she will fail her forthcoming examinations. Lynne moved into student accommodation when she commenced university. She has found the change very difficult. She does not like the student accommodation and making friends has been difficult for her. She has no previous history of psychiatric treatment. She has consulted a psychologist at the student counselling service for support, but her panic attacks and agoraphobic avoidance have not improved and she no longer wants to see this person. She consulted a general practitioner who prescribed citalopram. Lynne stopped taking citalopram after a few days because it made her feel "weird". 
+
+### MEQ 2.1 Discuss the specific physical conditions you want to exclude, giving your reasons. Include the specific investigations you would order to help exclude them. (9 marks)
+
+- (2) Hyperthyroidism which can cause panic attacks
+  - Thyroid function tests, anti-TPO antibodies, thyroglobulin receptor antibodies
+  - Thyroid imaging eg. ultrasound
+- Phaeocychromtoma which can cause anxiety and panic attacks
+  - Vitals: blood pressure, heart rate
+  - Urine catecholamines with paired serum catecholamines, metanephrines as well
+- (2) Alcohol use disorder due to substance-induced anxiety disorders
+  - Liver function tests for AST and GGT elevation
+  - FBC for macrocytic anaemia
+  - Blood alcochol level
+- (2) Hypercalcmia secondray to parathyroid hormone activity
+  - LFTs for albumin level
+  - CMP for calcium level
+  - EUC to assess for kidney function
+- **Missed**
+  - Epilepsy: EEG
+  - Cardiac arrhythmias: Holter
+  - Other substance disorders
+  - Benzo abuse/withdrawal
+
+### MEQ 2.2 Having reviewed Lynne's symptoms, and excluded organic and other psychiatric disorders, you agree with Lynne that non-pharmacological strategies might be useful to manager her anxiety. In collaboration with Lynne, you decide to treat her with Cognitive Behavioural Therapy (CBT). Describe in detail how you would do this. (8 marks)
+
+- Building of therapeutic alliance, calm, reassuring manner to build rapport
+- Psychoeducation about cognitive behavioural therapy: what it involves (regular weekly sessions, homework, skills-based approach)
+- CBT formulation of Lynne's issues
+  - (2) Consider underlying cognitive behavioural models which are being triggered leading to likely panic attacks
+  - Consider other schemas including loss-of-control etc.
+  - Identification of cognitive distortions and likely reinforcing behaviours leading to avoidance
+- Psychoeducation about breathing and the physiological contributions leading to panic
+- (2) Cognitive strategies: cognitive restructuring, shifting current cognitive models, distraction strategies and mindfulness access
+- (2) Behavioural strategies
+  - (2) Breathing exercises and/or progressive muscle relaxation
+  - Building of exposure ladder
+  - Usage of in vivo or imaginal exposure therapy
+- Usage of homework
+- Usage of feedback
+- **Missed**
+  - Diary: monitoring anxiety and recording situations
+
+### MEQ 2.3 Lynne responds well to Cognitive Behavioural Therapy and her panic attacks decrease in frequency. However, after receiving a low mark for an important university assessment, her panic attacks resume and she is considering dropping out of her course. Her parents are angry at her and demand that she returns home. Discuss your management of this situation. (8 marks)
+
+- Psychoeducation regarding reactivation of cognitive models
+  - Eg. important university assessment low mark activating panic cycles again
+  - Advised this is part of the recovery process
+  - Focus on improvement made
+- Review Lynne's disclosure of panic disorder to her parents and their understanding of its impact
+- Supportive psychotherapy can be considered to assist with the interpersonal conflict
+- **Missed**
+  - Keeping in mind confidentaility, privacy and consent, liaise with university course-cordinator
+  - Addressing family issues
+  - Re=assess
+  - Review appropriateness of CBT
+  - Reconsideration of pharmacological treatment
+  - **Risk assessment**
+
+## 2008 MAR MEQ 3
+
+You are a psychiatric registrar in a psychiatric hospital that receives voluntary and involuntary patients. You are asked to see Karen, a 35-year-old married mother of three, who has been brought to the hospital by police. She had leapt out of the car driven by her husband, George, when it was stationary at traffic lights. She suffered no injury. Karen appears mute and preoccupied. Her husband says she has no psychiatric history. She has previously had grand mal epilepsy but has not taken her sodium valproate regularly for many months. George reports that Karen has been increasingly withdrawn and mute for several weeks.
+
+### MEQ 3.1 Assuming that the account is accurate, please outline your initial management plan. (9 marks)
+
+- Primary survey: ensure patient is breathing and conscious
+- Therapeutic alliance and rapport building
+- Risk assessment
+  - Consider risk of harm to self and others particularly via self-neglect
+- History and MSE
+  - (2) Attempt history although note that she is mute: presenting complaint, current stressors, psychotic and depressive screen
+  - Observation
+- Physical exam
+  - Assess for injury and neurological exam, **evidence of seizures, flocal neurlogical signs**
+  - Withdrawn and mute raises concerns of catatonia and self-neglect, may lead to physical compromise
+- Collateral
+  - Liaise with George regarding previous behaviours, previous seizures
+  - Discuss safety of children, whether George knows where they are and if he can look after them
+- Investigations
+  - Routine bloods including electrolytes, full blood count, kidney and liver function tests
+  - Inflammatory markers including CRP, WCC
+  - Drug screening including urine and blood alcohol
+  - EEG to assess for current seizures
+  - Valproate level
+- Management
+  - Depending on investigations, this may be organic in nature due to issues with her epilepsy
+  - If nil organic cause found, consider catatonia: consider lorazepam challenge
+  - **Admission for goals**
+- Discussion with consultant
+- **Missed**
+  - List the features of catatonia: respondign to NAS, posturing, rigidity, negativism, ambitendency, elective mutism
+  - CT brain scan
+  - Commence sodium valproate
+  - Family management: assessment of emtoional concerns, psychoeducation to husband and children 
+
+
+### MEQ 3.2 Further history from her husband, George, is that Karen has mild intellectual impairment, and that she has had some physical clumsiness and incoordination since childhood. Karen was raised by non-English-speaking parents who emigrated from a rural area of Eastern Europe before she was born. She did not attend school beyond the age of 14 years. George tells you that he has restraining orders against both his and her parents. He states that this is because both families are always trying to interfere.Please outline how this further history may impact on your longer-term management of Karen. (9 marks)
+
+- Neuropsychological assessment
+  - Determine cognitive deficits and fields which require further support
+  - Identify which symptoms may be secondary to developmental delay
+- (2) Legal considerations
+  - Note whether Karen has a Guardianship order in place or enduring Guardianship
+  - Assess for capacity
+- Long-term supports
+  - Occupational therapy for functional assessment
+  - Social work for consideration of NDIS and physical supports particularly with incoordination
+  - Determine how much support George is providing and the long-term plan with this if he is to become incapacitated
+- Risk assessment
+  - Determination of vulnerability particularly with parents and parent-in-laws being involved
+  - Assess for risk to self
+- **Missed pretty much all of it**
+  - Therapeutic alliance
+  - Language barrier
+  - Cultural factors
+  - Husband may be paranoid
+  - Parenting capacity
+
+
+### MEQ 3.3 Karen recovers and is discharged from hospital. You follow her up in the outpatient clinic. After you have seen her for some months, she attends with her 10-year-old son, Jimi. Jimi repeatedly hits his mother during the interview and states that he will 'tell his father on her'. Karen alludes to domestic violence from George. She is convinced that if she were to leave him, he would 'get the kids because he says I'm crazy'. Discuss your concerns at this time and outline your management options. (7 marks)
+
+- Risks to Karen
+  - Risk of vulnerability from domestic violence including physical, neglect and emotional
+- Risks to children
+  - Ongoing antisocial behaviour secondary to learned experiences
+  - Parenting capacity of Karen and George in context of ongoing domestic violence
+- Management options
+  - (1) Assess for domestic violence
+  - Discuss current supports in place and resources she is engaged with
+    - (2) Including police, ?DVO
+    - Safe accommodation, food, etc.
+    - Note that patient may be alienated from parents and other supports
+  - Intellectual capacity also not assessed, could be impaired
+  - (2) Social work referral for crisis accommodation and supports
+  - Assess mental state: adjustment or major depressive disorder secondary to above. Consider the use of biological therapy if required
+- **Missed**
+  - Child protection
+  - George's behaviour: what is causing this (father's example, mother's own condition, own temperament, George being unwell)
+
+## 2008 MAR MEQ 4
+
+You are working in an outpatient child and adolescent service. The clinical psychologist asks you to see a 13-year-old girl, Dusty, and her mother Nancy, a single parent. Dusty has recently presented with symptoms of obsessive thoughts and compulsive behaviour involving fear of contamination with germs. The family's water bill has increased fourfold in the past few months as a result of Dusty's hand-washing and her mother's laundering of Dusty's bed linen whenever it touches the floor or touches something that has touched the floor. The psychologist tells you that Dusty's mother, Nancy, was diagnosed with paranoid schizophrenia about 10 years ago and is maintained on clozapine. He has found it very difficult to get any information from Nancy. Dusty's younger sister, Billie, is seven years old and also lives at home.
+
+### MEQ 4.1 Outline the issues that you would particularly attend to at your initial assessment of Dusty. Give your reasons. (7 marks)
+
+- Nature of obsessions
+  - Note concern about contamination
+  - Screen for other issues
+- Nature of compulsions
+  - What compulsions they perform including any non-physical
+  - Whether they resolve the obsessions
+- Screen for psychotic symptoms and autism spectrum disorder and ADHD
+- Current medications, other psychiatric Hx
+- Assess physical impact of hygienic practices
+- Nancy's current management of the situations, whether maintaining firm boundaries or conceding to Dusty's cocnerns
+- Current education, whether attending high school or not
+- Developmental history: injuries at birth, developmental milestones
+- Family Hx of OCD
+- Risk assessment
+- Multimodal assessment
+  - Discuss with mother if possible regarding her perspective
+
+- Concerns about Billie
+  - Impact from Dusty's obsessive thoughts leading to learned behaviours
+- **Need to redo**
+
+
+### MEQ 4.2 After the initial assessment, you are unclear to whether Dusty has a diagnosis of a primary Obsessive Compulsive Disorder (OCD) or whether her symptoms are secondary her mother's condition. You arrange for a follow-up interview with Nanty, Dusty and Billie. Nancy's former partner left the country six years ago and his whereabouts are unknown. Nancy is estranged from her own parents. It becomes clear that Nancy is very protective of her daughters. She has forbidden them to give out their address or telephone number to other children at school. She will not let them go to other children's houses. She walks both daughters to and from school. She believes that Dusty's fear of germs would be handled best by arranging home schooling so that Dusty does not need to confront dirty environments. Discuss your interventions. (10 marks) 
+
+
+### MEQ 4.3 After some months, Nancy says sht does not want to keep bringing Dusty to the clinic, and requests 'a cure' for Dusty's OCD. She mentions that her own psychiatrist has said he thinks Dusty should be 'on medication'. Nanty has also seen 'miracle surgery' for OCD on television. Discuss your response to Nancy's request. (8 marks) 
+
+## 2006 MAR MEQ 5
+
+You work on an acute adult admission ward. On your arrival one moming, the Nursing Coordinator tells you that Sally, a 24 year old female patient recovering from a manic episode, has just told her nurse that Damien, a 30 year old man diagnosed with schizophrenia, sexually assaulted her during the previous night. Damien is under your care, whereas Sally is under the care of a different 
+catchment area team on the ward. The police have been called and are expected to arrive in an hour. 
+
+### MEQ 5.1 Outline the most urgent actions you would need to take regarding Damien, on hearing this, and why you would do these things. (6 marks)
+
+- (2) Risk containment
+  - Attempt separation of Sally and Damien to different wards if possible
+  - Increase care levels appropriately to monitor behaviour and activity
+- (2) Assessment of Damien
+  - Discuss sexual assault with Damien and whether he recalls
+  - If so, ascertain reasons for sexual assault, ?psychotically-driven behaviour, possible manic behaviour or whether antisocial personality traits
+  - Review forensic history including prior issues
+  - May require further management of agitation if as above
+  - Consider seclusion
+- Collateral history from nurses and overnight staff, including any on-site registrars
+  - Whether this occurred, whether it was possible, noting potential gender split
+- Notify Damien's designated carer and family member regarding incident
+- Advise clinical director / head of unit / head of department regarding issues
+- Discuss with hospital's legal team
+- **Missed**
+  - Preserve evidence: nil showering or washing himself until seen by police
+
+### MEQ 5.2 There is considerable evidence that Damien did sexually assault Sally. Damien recalls and acknowledges the sexual encounter. He has active psychotic symptoms which have not yet resolved with antipsychotic treatment. A forensic psychiatrist assesses Damien as having a "disease of the mind" and as having "distorted mens rea". What is "mens rea"? Explain the relevance of "distorted mens rea" in determining Damien's criminal responsibility for the sexual assault. (4 marks)
+
+- "Mens rea" refers to a guilty mind and is the mental state of Damien as he performed the assault
+- (2) Criminal responsibility requires both the "actus reus" and "mens rea" for proof of a crime being committed
+- (2) If Damien has distorted "mens rea" due to his schizophrenia and with active psychotic symptoms driving the assault, Damien may not have enough stable state of mind to be guilty of committing the assault
+
+- **Basically done with research**
+- **Missed**
+  - McNaughten's rules: could not understand the nature or quality of his actions or did not understand they were wrong
+  - Not guilty by reason of insanity
+  - Research diminished vs distorted
+
+### MEQ 5.3 Damien is now in a forensic admission unit and you have kept in touch with the treating team. He continues to have psychotic symptoms and his forensic psychiatrist feels that Damien is not fit to stand trial. Outline the medico-legal issues which could result in Damien being unfit to stand trial due to his psychosis. (4 marks)
+
+- Damien could be considered not guilty by reason of mental illness depending on the judge
+- Damien may not have the capacity to agree to medication and may require ongoing involuntary care
+- This could involve a long-term forensic order both as an inpatient and/or a community order
+- **Missed**
+  - This becomes a competency assessment on standing trial (not at the time of the offence)
+  - Ultimately a legal term with assistance by expert psychiatric evidence
+  - Competency: can Damien understand the court, roles and responsibilities and technical term
+  - Can he understand the information, think through it, communicate and understand the consequences
+
+## 2006 MAR MEQ 6
+
+You are working as a registrar in the consultation liaison psychiatry service of a general hospital. You are contacted by a Resident Medical Officer (RMO/PGY2/Senior House Officer) in the Emergency Department requesting an assessment for Bill, a 35-year-old man brought into hospital to investigate a possible myocardial infarction. He has been thoroughly worked up, and cardiac pathology (and respiratory pathology) has been ruled out. The Emergency Department doctor wonders whether this is a panic attack. 
+On review, the patient gives a clear history of panic attacks, including one that evening. 
+
+### MEQ 6.1 Apart from alcohol withdrawal, what is the likely differential diagnosis? (6 marks)
+
+- (2) Organically driven: endocrine disorders including hyperthyroidism and phaechromacytoma
+- (1) Substance induced: benzodiazepine withdrawal, cannabis intoxication
+- Adjustment disorder with panic attacks
+- (1) Panic disorder +/- agoraphobia
+- (1) Generalised or social anxiety disorder with panic
+- Post-traumatic stress disorder
+- Anxious personality type
+- **Missed**
+  - Psychosis
+  - Depression
+
+### MEQ 6.2 Bill gives a vague history with regard to alcohol consumption. Collateral history is not readily available. However, the patient has had routine blood screening, and you decide to review this to assist in determining the diagnosis. Which result on a routine haematology test is the most likely indication of heavy alcohol consumption? (2 marks)
+
+- (2) Macrocytic anaemia
+  - Increased mean cell volume
+  - Decreased haemoglobin
+- **Missed**
+  - Leukopenia?
+  - Thrombocytopaenia?
+  - Read: https://pmc.ncbi.nlm.nih.gov/articles/PMC6601655/
+
+### MEQ 6.3 The blood tests seem to indicate heavy drinking is likely. You manage to get hold of the of Bill's GP who confirms not only heavy drinking but physiological dependence - the GP is also confident the patient does not use other substances, including nicotine. After discussion with the Resident Medical Officer you decide to admit Bill for a medicated detoxification. You are handed the drug chart. What medications would you consider charting, and why? (8 marks)
+
+- (2) Regular diazepam to reduce risk of seizures
+  - Consider oxazepam if there are issues with his liver function
+- PRN diazepam as per Alcohol Withdrawal Scale to manage uncomfortable symptoms
+- Symptomatic management
+  - (2) PRN paracetamol for headaches/pain
+  - (2) PRN antipsychotic such as olanzapine for further agitation
+- **Missed**
+  - IM thiamine
+  - Multivitamins
+  - Rectal diazepam
+
+
+### MEQ 6.4 You know that many of the nursing staff on the admitting ward are inexperienced when dealing with alcohol detoxifications. What is your approach to this situation? (10 marks)
+
+- Assess current knowledge
+- Assess specific questions from nursing staff regarding management
+- Discuss pharmacological management
+  - Loading use of diazepam/oxazepam
+  - Consider use of AWS to assess for severity of withdrawal. PRN diazepam utilised
+  - Discuss use of PRNS
+- Discuss non-pharmacological management
+  - Delirium prevention
+  - Frequent orientation with light, clock
+  - Familiar presences either via 1:1 special or with family/friends
+  - Maximising sensory abilities eg. hearing aids/glasses
+  - Manage constipation and urinary retention if present
+- Receive feedback on knowledge
+
+- **Missed**
+  - Essentially all of it
+  - Regular monitoring
+  - Encourage seniority of nurse
+  - Clear documentationof protocols
+  - Liaision with medical team
+  - Practical solutions with the nurse in charge
+  - Ongoing liaison with staff: discuss methods of contact
+  - Suggest future training options and offer to be involved
+
+
+## 2006 MAR MEQ 7
+
+Shayleen is a 22-year old young woman who lives with her mother, stepfather and three much younger half-siblings. Her stepfather works as a builder's labourer. She has been referred for follow-up to your Community Mental Health Centre with a diagnosis of post-partum psychosis. Her infant son Jake is now two weeks old. Shayleen has no prior psychiatric history and nor does anyone in her family except for her birth father who had no formal diagnosis but committed suicide when she was two years old. He is said to have been "moody" and also abused alcohol and was physically abusive to Shayleen's mother. Shayleen had a normal delivery after an unplanned and unwanted pregnancy. The child's father has left town and is not-contactable. Shayleen is currently free of psychotic symptoms, having briefly been thought-disordered and with persecutory and grandiose delusions. These settled a week ago, on quetiapine 200mgs nocte. She is also taking temazepam 20mgs nocte for sleep and is not breast-feeding. Her mood is somewhat labile and irritable and her mother is having to do a lot of the feeds as Shayleen is and reluctant to get up if the baby wakes. During the 
+appointment you notice that Shayleen either gives Jake to her mother or places him in his pram, and that she seems reluctant to hold him for long.
+
+### MEQ 7.1 Discuss what might be causing Shayleen's avoidance of holding her baby. (9 marks)
+
+- (2) Affective disorder including depression: anhedonia, socially withdrawn
+- Psychotic delusions regarding the baby: wants to avoid
+- (2) Physiological: fatigue following delivery and baby with lack of sleep
+- Concern about parenting, lack of self-confidence
+- Feeling tired about potentially parenting younger half-siblings
+- Nil care for the baby as unplanned and unwanted pregnancy
+- **Missed**
+  - Attachment
+  - Personality factors
+  - Social
+  - Relationship with mother
+  - Bottle feeding
+
+### MEQ 7.2 Four weeks post-partum Shayleen and her mother have a follow-up appointment. Shayleen says she wants to cease her medication as it makes her too tired. She is still on quetiapine 200mgs nocte, but ceased the temazepam two weeks ago. There are no signs of any psychosis but her moods remain unstable, with diurnal mood change - irritability increasing later in the day. She has initial insomnia and broken sleep. Her relationship with Jake is marginally improved but she is still somewhat reluctant to hold him for long. Outline how you would respond to this request, giving reasons for your advice or interventions. (6 marks)
+
+- (1) Therapeutic alliance **missed**: engagement, supportive psychotherapy
+- (2) Psychoeducation of risk of relapse of psychosis without antipsychotic prophylaxis
+  - Discuss reduction of dose of quetiapine, albeit noting minimum effective dose for antipsychotic properties
+  - Discuss switch to alternative antipsychotic
+- Noting that quetiapine has sedative properties, consider switching to another antipsychotic to decrease
+- Discuss principles of sleep hygeine to manage sleep
+- Optimise lifestyle factors including exercise and sleep, noting current limited time likely with kid
+- Temazepam may be restarted to assist with sleep in the interim
+- Discuss with mother and other family supports
+- Referral to perinatal services
+- **Missed**
+  - Consider mood stabiliser, look at below question
+  - Regular monitoring: case manager, weekly medical reviews
+
+### MEQ 7.3 Despite assistance and home visits from the team social worker, the case manager and some additional parenting help from a support worker, Shayleen's relationship with Jake does not improve. She is no longer labile, but two months post-partum she appears flat and despondent. She still complains of initial insomnia and broken sleep, and is now waking early as well. The irritability has ceased but her self-care and eating have deteriorated. Shayleen's mother is tired and frustrated as Shayleen is of little help in Jake's care. Shayleen is taking 500mgs sodium valproate twice daily, and quetiapine 50mgs nocte for sleep. At the assessment, Shayleen admits that in the past few days she has begun hearing voices telling her that she is evil and a bad mother. You diagnose her as having developed a major depression. Outline your plan regarding Shayleen's medications. Give reasons for any changes. (6 marks)
+
+- Increase quetiapine to antipsychotic dosing if previously working well and tolerated
+- Commence antidepressant therapy eg. fluoxetine
+- Lithium is typically utilised as a mood stabiliser as well as augtmentation with therapy
+- Irritability may also be secondary to depression
+- Thus cross-taper sodium valproate as antidepressant therapy being introduced
+- ECT may also need to be considered, thus good reason to reduce sodium valproate
+- **Missed**
+  - Consider switch of antipsychotic medication
+  - Use a hypnotic to assist with sleep
+  - Monitor
+  - Optimise valproate
+
+### MEQ 7.4 What are the most serious risks in this situation? Give the main causes for these risks. (4 marks)
+
+- Death or neglect of baby leading to attachment issues with lifelong consequences
+  - Due to psychotically driven symptoms
+- Death of Shayleen due to suicidality from depression

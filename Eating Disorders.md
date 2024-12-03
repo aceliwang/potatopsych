@@ -32,7 +32,7 @@
   - Social
 - Refer to a Eating Disorder Specialist or coordinator
 
-# SCOFF QUestionnaire
+# SCOFF Questionnaire
 
 - Any positive answer requires further assessment and escalation
 - SCOFF
