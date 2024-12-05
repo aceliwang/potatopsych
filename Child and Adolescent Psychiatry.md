@@ -1,0 +1,63 @@
+# Child and Adolescent Psychiatry
+
+## School Refusal
+- Definition: difficulty attending school associated with anxiety and distress ie. not secondary to conduct disorder or truancy
+- Demographics: 1-2% of all school-aged children, M=F, peaks at age of transitions into and between schools
+- Causes
+  - Difficulty leaving home
+    - Separation anxiety
+    - Depression
+    - Unsettled family life eg. divorce 
+  - Difficulty attending school
+    - Social or generalised anxiety
+    - Role transitions (primary to high school vs new school)
+    - Learning difficulties or conflict with teachers
+    - Exam stress
+    - Bullying or friendship difficulties
+    - Oppositional defiant disorder
+  - Idiopathic: up to one-third have no psychiatric diagnosis
+- Signs and symptoms
+  - Distress and anxiety about going to school
+  - Tearfulness up to conflict with family members
+  - Frequent physical complaints before and during school ie. sick role or somatisation
+  - Poor relationship with teachers
+  - Common absences from school
+- Impacts
+  - Impairments on cognitive development
+  - Impairments on social development
+- References
+  - https://headspace.org.au/explore-topics/supporting-a-young-person/school-refusal/
+
+## Tourette's Syndrome
+
+- Demographics
+  - M > F
+  - Childhood onset with peak severity in adolescence
+  - High comorbidity of ADHD and OCD
+- Clinical manifestations
+  - Motor then vocal tics
+  - "Premonitory sensation" which is relieved by performing the tic
+- Diagnosis
+  - Recurrent tics over more than 1 year
+- Management
+  - (1st) non-pharmacological
+    - Psychoeducation + coping strategies
+    - Identify and address triggers
+    - Comprehensive Behavioural Intervention for Tics + habit reversal training
+      - CBIT addresses tics sequentially
+    - Less evidence for exposure and response prevention
+      - ERP targets all tics at the same time
+  - (2nd) pharmacological if severe, debilitating or self-injurious tics
+    - Medications decrease frequency and severity however rarely achieves complete suppression
+    - Manage comorbid ADHD and OCD
+    - Clonidine (for 5yo+): start at 50mcg daily, increase by 50mcg every 3 days up to 300 mcg (in 4 divided doses)
+      - First-line. Less effective but safer. More useful in comorbd ADHD
+      - Monitor BP and sedation
+    - Antipsychotics eg. risperidone or aripiprazole. Ziprasidone or haloperidol also have limited evidence
+      - Psychoeducation regarding side effects particularly long-term consequences including TD, prolactin issues, metabolic side effects
+      - Risperidone (for 7yo+) 0.25 to 0.5mg, increase by 0.5mg every 5 days until 3mg (in 2 divided doses)
+      - Aripiprazole or haloperidol
+  - (3rd) neuromodulation eg. deep brain stimulation
+- Prognosis
+  - Most improve significantly in adulthood
+  - Minority will continue with significant symptoms. Can continue medications if required.

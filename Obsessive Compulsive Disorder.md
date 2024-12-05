@@ -23,8 +23,18 @@
 
 - Stepped-care models
   - Mild: CBT with ERP. Use SSRI if not available.
-  - Moderate: either CBT with ERP or SSRI
+  - Moderate: either CBT with ERP or SSRI. Combine if no reponse after 12 weeks.
   - Severe: CBT with ERP + SSRI
+- Pharmacotherapy
+  - Either SSRIs or clomipramine. SNRI, TCA and other anxiolytics should not be used
+  - Medications can take up to 12 weeks for effect on OCD. Switch SSRI or consider clomipramine.
+  - Doses should be increased every 4 to 6 weeks
+  - Remission should be followed by at least 12 months of treatment before tapering
+  - Step-up options after trials of monotherapy (SSRI or clomipramine) or combination (CBT + SSRI):
+    - Clomipramine + CBT
+    - Clomipramine + citalopram
+    - (Clomipramine OR SSRI) + antipsychotic augmentation
+- Clomipramine 
 
 - Other
   - Consider impact on dependents: referral to COPMI

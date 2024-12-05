@@ -13,3 +13,4 @@
 - If CL: clarify expectations of the consulting team
 - If old: cognitive assessment
 - If delirious: capacity assessment
+

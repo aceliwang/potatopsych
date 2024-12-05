@@ -1137,7 +1137,34 @@ You are a consultant psychiatrist working in the mental health service. Sarah, w
 
 ### MEQ 16.3 Sarah informs you that you have an upcoming assessment of Fatima, a 39F Iranian refugee, who is the mother of two children, where she wants to use a workplace-based assessment for the stage 2 EPA (entrusted professional activity) on CALD - Working with Culturally and Linguistically Diverse Population. She tells you the meeting is scheduled with an interpreter. What are the principles of using an interpreter?
 
+- Discussion with interpreter prior
+  - Psychiatric review
+  - Concerns about thought disorder
+  - Noting that patient may be mentioning bizarre content
+- Private environment
+- Interpreter should be introduced
+  - Patient should consent to presence of interpreter noting potential cultural issues including privacy
+- Patient should be addressed directly as opposed to via the interpreter
+- Interpreter should be providing translations noting differences in thought form
+- Feedback following session
+  - Assess for thought disorder
+  - Clarify cultural context and whether content was within cultural norms
+
 ### MEQ 16.4 Sarah approaches you with an ECG of Fatima with concerns about the QTc reported as 450 msec. Fatima is prescribed an antipsychotic medication. What advice would you provide to Sarah?
+
+- QTc is within 460msec, the limit for females
+- Repeat ECG if QTc is 450ms and prior to medication commencement
+- History
+  - Assess for chest pain, palpitations
+  - Prior cardiac history including within the family
+  - Other medical problems
+- Examination
+  - Vitals
+  - Cardiovascular examination
+- Advice
+  - Continue current medication
+  - Note dose-dependent changes
+  - Repeat ECG if any changes in 
 
 ## MEQ 17
 
@@ -1407,6 +1434,24 @@ Young male believes he has ADHD.
 
 
 ### MEQ 21.2 What are the issues in prescribing medication in adult ADHD?
+
 ### MEQ 21.3 Your prescribing in adult ADHD is higher than your peers in the region. How would you respond and manage? Your clinical director hands you an evaluation showing that your practice was prescribing psychostimulants vastly different to those of your peers. How would you go about addressing this?
+
 ### MEQ 21.4 Non-pharmacological strategies in management of adult ADHD.
 
+- Lifestyle changes: optimising sleep, diet, physical activity
+- Cognitive-behavioural interventions
+- ADHD coaching
+
+- **Missed**
+  - Diet
+  - Exercise
+  - Substance use
+  - Optimising sleep
+  - Psychotherapy including CBT
+  - ADHD coaching
+  - **Neurofeedback**
+
+- 
+
+- https://adhdguideline.aadpa.com.au/wp-content/uploads/2024/06/Australian-Clinical-Practice-Guideline-For-ADHD-June-2024.pdf

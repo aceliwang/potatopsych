@@ -29,20 +29,20 @@ To determine duplicates
 24. RANZCP - MEQ 2020 Mar
 25. RANZCP - MEQ 2019 Feb
 26. RANZCP - MEQ 2019 Aug
+27. RANZCP - Sarah's Compilation (incomplete)
+28. RANZCP - MEQ 2018 Feb
+29. RANZCP - MEQ 2018 Aug MEQ 5
+30. RANZCP - MEQ 2018 Aug MEQ 1
+31. RANZCP - MEQ 2020 Oct
 
 TODO:
+1.  Auckland
 - RANZCP - MEQ 2021 Aug Recalled
-- RANZCP - MEQ 2020 Oct
-- RANZCP - MEQ 2018 Feb
-- RANZCP - MEQ 2018 Aug MEQ 5
-- RANZCP - MEQ 2018 Aug MEQ 1
 - RANZCP - MEQ 2017 Aug Full
 - RANZCP - MEQ 2015 Aug
-- RANZCP MCQ Compilation (Sarah)
 - RANZCP - MEQ 6
 - Psychscene - MEQ Resources and Notes with Questions
 - Psychscene - MEQ and CEQ Notes 2020 Questions
-- Auckland
 - HETI Mock MEQ 2023
 - HETI Mock MEQ 2024
 - HETI MEQ Lectures

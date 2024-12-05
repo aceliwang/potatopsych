@@ -55,7 +55,7 @@ You are a rural psychiatrist.  Your patient is a 52 year old Indigenous man with
 
 ### MEQ 4.2 The son really wants his father to be managed at home. He believes he can convince his father to take some oral medications (olanzapine). You agree to the plan.The cultural liaison worker informs you that he believes this is a culturally normal grief reaction, rather than a relapse of schizophrenia. He believes that the patient should not be managed with medication, that he should be managed with traditional healing instead. Outline your response. (8 marks)
 
-### MEQ 4.3 The patient appears to have become paranoid about the other patients again. He also has been looking suspiciously at his grandchildren. His daughter in law no longer feels safe with him in the house and wants him out.  The son Robert tells you about this and states he feels torn between supporting his wife and his father. Describe your advice. (7 marks)
+### MEQ 4.3 The patient appears to have become paranoid about the other patients again. He also has been looking suspiciously at his grandchildren. His daughter in law no longer feels safe with him in the house and wants him out. The son Robert tells you about this and states he feels torn between supporting his wife and his father. Describe your advice. (7 marks)
 
 ## MEQ 5
 
