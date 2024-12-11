@@ -281,7 +281,7 @@ Note: Hallucinations, if present, are not prominent and are related to the delus
 
 ## Schizophreniform Disorder
 
-- (F20.81) Diagnostic Criteria
+- (F20.81)
 - A. Two (or more) of the following, each present for a significant portion of time during a 1-month period (or less if successfully treated). At least one of these must be (1), (2), or (3):
 - 1. Delusions.
 - 2. Hallucinations.
