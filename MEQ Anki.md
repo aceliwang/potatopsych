@@ -1,52 +1,33 @@
 <!-- Anki Cards -->
 
-# Sleep Hygeine <!-- tag:sleep-hygiene;status:incomplete -->
+# Sleep Hygeine
 
-# Management Pathways for Insomnia <!-- status:incomplete -->
+# Management Pathways for Insomnia
 
-# Eating Disorders Inpatient Criteria <!-- status:incomplete -->
+# Eating Disorders Inpatient Criteria
 
-# Perinatal Psychoeducation <!-- status:incomplete -->
+# Perinatal Psychoeducation
 
-# Clozapine Psychoeducation <!-- status:incomplete -->
+# Clozapine Psychoeducation
 
-# ECT Psychoeducation <!-- status:incomplete -->
+# ECT Psychoeducation
 
-# General Education Structure <!-- status:incomplete -->
+# General Education Structure
 
-# Consultation-Liaison Reminders <!-- status:incomplete -->
+# Consultation-Liaison Reminders
 - Clarify expectations of team
 - Feedback to team
 
-# Tourette's Disease Management <!-- status:incomplete -->
+# Tourette's Disease Management
 ---
 
-# General Psychiatry <!-- tag:general-psych;status:incomplete -->
+# General Psychiatry
 
-## Acute Behavioural Disturbance <!-- tag:sedation -->
+## Emergencies
 
-### Child and Adolescent <!-- status:incomplete -->
+### Neuroleptic Malignant Syndrome
 
-### Adult <!-- status:incomplete -->
-
-### Older People
-
-- Exclude delirium and BPSD: treat underlying cause
-- Orals
-  - Lorazepam 0.5-1mg PO q30mins (max 3mg)
-  - Diazepam 2.5-5mg PO q30mins (max 30mg)
-  - Preference for lorazepam over diazepam due to shorter action and less metabolites
-  - Olanzapine 5-10mg (max 10mg)
-  - Risperidone 0.5-1mg (max 2mg)
-  - Preference for benzodiazepines as sedatives due to lower dosages required and safer adverse effects compared to antipsychotics
-- IMs
-  - Olanzapine 2.5mg IM (max 7.5mg)
-
-## Emergencies <!-- tag:emergency;status:incomplete -->
-
-### Neuroleptic Malignant Syndrome <!-- tag:nms -->
-
-### Serotonin Syndrome <!-- tag:serotonin-syndrome -->
+### Serotonin Syndrome
 
 #### Assessment
 
@@ -62,9 +43,9 @@
 - Medical emergency
 - Escalation 
 
-### MAOI and Hypertensive Crisis <!-- tag:hypertensive-crisis -->
+### MAOI and Hypertensive Crisis
 
-### Lithium Toxicity <!-- tag:lithium-toxicity -->
+### Lithium Toxicity
 
 ## Catatonia
 
@@ -75,7 +56,8 @@
   - Elicit: echopraxia/echolalia, rigidity, negativism, waxy flexibility, mitmachen, mitgehen, ambitendency
 - Concerns: physical health complications (dehydration, VTE, pneumonia)
 
-### Management <!-- status:incomplete -->
+### Management
+<!-- Incomplete -->
 
 - Requires hospitalisation
 - Treat underlying cause
@@ -84,7 +66,7 @@
     - Gold standard for affective or organic catatonia
   - ECT
 
-## Eating Disorders <!-- tag:eating-disorders -->
+## Eating Disorders
 
 ### Criteria for Inpatient Management
 
@@ -109,11 +91,10 @@
 - Psychiatric risks
 ```
 
-# Child and Adolescent Psychiatry <!-- tag:child-psych -->
+# Child and Adolescent Psychiatry
 
-## Tourette's Disease <!-- tag:tourettes;status:incomplete -->
-
-### Management
+## Management of Tourette's Disease
+<!-- Not complete -->
 
 - Pharmacotherapy
   - (1) Commence clonidine 50mcg once daily
@@ -124,7 +105,7 @@
 
 
 
-# Addiction Psychiatry <!-- tag:addiction -->
+# Addiction Psychiatry
 
 ## General Structure
 
@@ -132,7 +113,7 @@
 - Rehabilitation
 - Relapse prevention
 
-## Alcohol Use Disorder <!-- tag:alcohol-use-disorder -->
+## Alcohol Use Disorder
 
 ### Management of Alcohol Withdrawal
 
@@ -143,12 +124,13 @@
     - Consider tapering from 10mg QID + PRN
   - Hydration
 
-### Principles of Brief Intervention <!-- status:incomplete -->
+### Principles of Brief Intervention
+<!-- Not complete -->
 
 - Brief interventions eg. FLAGS
   - Feedback
 
-### Management of Alcohol Dependence 
+### Management of Alcohol Dependence
 
 - Pharmacotherapy
   - Should be reviewed following a lapse, however continue for greater than 6 months if effective
@@ -175,32 +157,26 @@
 - Social: self-help, residential rehab
 ```
 
-[Quick Reference Guide to the Treatment of Alcohol Problems](https://www.health.gov.au/sites/default/files/quick-reference-guide-to-the-treatment-of-alcohol-problems.pdf)
+### References
+https://www.health.gov.au/sites/default/files/quick-reference-guide-to-the-treatment-of-alcohol-problems.pdf
 
 
-# Psychogeriatrics <!-- tag:psychogeriatrics -->
+# Perinatal Psychiatry
 
-## Very-Late Onset Schizophrenia-Like Psychosis
+## Postpartum Psychosis
+<!-- Not completed -->
 
-### Overview <!-- status:incomplete -->
-- **Definition**: onset after 60 or 65
-
-
-
-# Perinatal Psychiatry <!-- tag:perinatal -->
-
-## Postpartum Psychosis <!-- status:incomplete -->
-
-## Principles in Prescribing <!-- status:incomplete -->
+## Principles in Prescribing
 
 - Consider preconception, perinatal and breastfeeding stages
 
-## Antidepressant Usage <!-- status:incomplete -->
+## Antidepressant Usage
 
-## Antipsychotic Usage <!-- status:incomplete -->
+## Antipsychotic Usage
 
-## Mood Stabiliser Usage <!-- status:incomplete -->
+## Mood Stabiliser Usage
+
 
 
 ---
-# Managing Normal Medications in <!-- status:incomplete -->
+# Managing Normal Medications in 
