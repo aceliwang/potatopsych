@@ -1,27 +1,46 @@
 <!-- Anki Cards -->
 
-# Sleep Hygeine
+# Sleep Hygeine <!-- tag:sleep-hygiene;status:incomplete -->
 
-# Management Pathways for Insomnia
+# Management Pathways for Insomnia <!-- status:incomplete -->
 
-# Eating Disorders Inpatient Criteria
+# Eating Disorders Inpatient Criteria <!-- status:incomplete -->
 
-# Perinatal Psychoeducation
+# Perinatal Psychoeducation <!-- status:incomplete -->
 
-# Clozapine Psychoeducation
+# Clozapine Psychoeducation <!-- status:incomplete -->
 
-# ECT Psychoeducation
+# ECT Psychoeducation <!-- status:incomplete -->
 
-# General Education Structure
+# General Education Structure <!-- status:incomplete -->
 
-# Consultation-Liaison Reminders
+# Consultation-Liaison Reminders <!-- status:incomplete -->
 - Clarify expectations of team
 - Feedback to team
 
-# Tourette's Disease Management
+# Tourette's Disease Management <!-- status:incomplete -->
 ---
 
-# General Psychiatry
+# General Psychiatry <!-- tag:general-psych;status:incomplete -->
+
+## Acute Behavioural Disturbance <!-- tag:sedation -->
+
+### Child and Adolescent <!-- status:incomplete -->
+
+### Adult <!-- status:incomplete -->
+
+### Older People
+
+- Exclude delirium and BPSD: treat underlying cause
+- Orals
+  - Lorazepam 0.5-1mg PO q30mins (max 3mg)
+  - Diazepam 2.5-5mg PO q30mins (max 30mg)
+  - Preference for lorazepam over diazepam due to shorter action and less metabolites
+  - Olanzapine 5-10mg (max 10mg)
+  - Risperidone 0.5-1mg (max 2mg)
+  - Preference for benzodiazepines as sedatives due to lower dosages required and safer adverse effects compared to antipsychotics
+- IMs
+  - Olanzapine 2.5mg IM (max 7.5mg)
 
 ## Psychiatric Conditions
 
@@ -29,9 +48,9 @@
 
 ## Emergencies
 
-### Neuroleptic Malignant Syndrome
+### Neuroleptic Malignant Syndrome <!-- tag:nms -->
 
-### Serotonin Syndrome
+### Serotonin Syndrome <!-- tag:serotonin-syndrome -->
 
 #### Assessment
 
@@ -47,9 +66,9 @@
 - Medical emergency
 - Escalation 
 
-### MAOI and Hypertensive Crisis
+### MAOI and Hypertensive Crisis <!-- tag:hypertensive-crisis -->
 
-### Lithium Toxicity
+### Lithium Toxicity <!-- tag:lithium-toxicity -->
 
 ## Catatonia
 
@@ -60,8 +79,7 @@
   - Elicit: echopraxia/echolalia, rigidity, negativism, waxy flexibility, mitmachen, mitgehen, ambitendency
 - Concerns: physical health complications (dehydration, VTE, pneumonia)
 
-### Management
-<!-- Incomplete -->
+### Management <!-- status:incomplete -->
 
 - Requires hospitalisation
 - Treat underlying cause
@@ -70,7 +88,7 @@
     - Gold standard for affective or organic catatonia
   - ECT
 
-## Eating Disorders
+## Eating Disorders <!-- tag:eating-disorders -->
 
 ### Criteria for Inpatient Management
 
@@ -105,7 +123,9 @@ Example Qs:
 ```
 
 ---
-# Child and Adolescent Psychiatry
+# Child and Adolescent Psychiatry <!-- tag:child-psych -->
+
+## Tourette's Disease <!-- tag:tourettes;status:incomplete -->
 
 ## School Refusal
 
@@ -251,9 +271,6 @@ Examples Qs:
   - Cognitive behavioural interventions for tics with **habit reversal training**
   - CBT with **exposure-response prevention**
 
-
----
-
 # Consultation-Liaison Psychiatry
 
 ## Cognition Testing
@@ -336,9 +353,10 @@ Examples Qs:
 - Antidepressant choice: escitalopram, citalopram ∵ lower risk of drug interactions, however monitor QTc
 - Mood-stabiliser choice: 
 
----
 
-# Addiction Psychiatry
+
+
+# Addiction Psychiatry <!-- tag:addiction -->
 
 ## General Structure
 
@@ -346,7 +364,7 @@ Examples Qs:
 - Rehabilitation
 - Relapse prevention
 
-## Alcohol Use Disorder
+## Alcohol Use Disorder <!-- tag:alcohol-use-disorder -->
 
 ### Management of Alcohol Withdrawal
 
@@ -357,13 +375,12 @@ Examples Qs:
     - Consider tapering from 10mg QID + PRN
   - Hydration
 
-### Principles of Brief Intervention
-<!-- Not complete -->
+### Principles of Brief Intervention <!-- status:incomplete -->
 
 - Brief interventions eg. FLAGS
   - Feedback
 
-### Management of Alcohol Dependence
+### Management of Alcohol Dependence 
 
 - Pharmacotherapy
   - Should be reviewed following a lapse, however continue for greater than 6 months if effective
@@ -390,42 +407,32 @@ Examples Qs:
 - Social: self-help, residential rehab
 ```
 
-### References
-https://www.health.gov.au/sites/default/files/quick-reference-guide-to-the-treatment-of-alcohol-problems.pdf
+[Quick Reference Guide to the Treatment of Alcohol Problems](https://www.health.gov.au/sites/default/files/quick-reference-guide-to-the-treatment-of-alcohol-problems.pdf)
 
 
-# Indigineous / Cultural Psychiatry
+# Psychogeriatrics <!-- tag:psychogeriatrics -->
 
-## Addressing Traditional / Spiritual Management
+## Very-Late Onset Schizophrenia-Like Psychosis
 
-- Sensitivity and respect towards cultural attitudes
-- Involve cultural worker if available
-- Psychoeducation regarding mental illness and role of medications for treatment and prophylaxis
-- Obtain information about traditional healing
-  - Location bc purview of local community mental health team
-  - Cessation of medications bc risk of relapse
-  - Herbal remedies bc drug interactions
-  - Healing rituals bc potential stress
-- Collaborative care bc aim for both medications and traditional healing
-- Ongoing follow-up and monitoring by supports and mental health services
+### Overview <!-- status:incomplete -->
+- **Definition**: onset after 60 or 65
 
 
-# Perinatal Psychiatry
 
-## Postpartum Psychosis
-<!-- Not completed -->
+# Perinatal Psychiatry <!-- tag:perinatal -->
 
-## Principles in Prescribing
+## Postpartum Psychosis <!-- status:incomplete -->
+
+## Principles in Prescribing <!-- status:incomplete -->
 
 - Consider preconception, perinatal and breastfeeding stages
 
-## Antidepressant Usage
+## Antidepressant Usage <!-- status:incomplete -->
 
-## Antipsychotic Usage
+## Antipsychotic Usage <!-- status:incomplete -->
 
-## Mood Stabiliser Usage
-
+## Mood Stabiliser Usage <!-- status:incomplete -->
 
 
 ---
-# Managing Normal Medications in 
+# Managing Normal Medications in <!-- status:incomplete -->

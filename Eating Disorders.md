@@ -82,6 +82,10 @@
   - Physician to manage medical safety
   - Dietitian to manage ongoing nutrition
 - Involve family early
+- Settings
+  - Day program
+  - Intensive outpatient
+  - Inpatient
 
 
 
@@ -134,6 +138,13 @@
 
 # Eating Disorders Toolkit
 - Inpatient admission is part of the recovery process and definitely not curative
+
+# Role of Inpatient Admission
+- For
+  - Medical and physical stabilisation
+  - Containment of both medical and psychiatric risk
+- Against
+  - Involuntary hospitalisation damages therapeutic alliance
 
 
 
