@@ -20,6 +20,7 @@ Tyrer P (2022) Remembered jewels: The role of diagnosis in psychiatry by Robert 
   - Clinical and recovery model (300 words)
   - Conclusion (150 words)
 
+805 words so far
 ---
 
 <!-- Introduction: 83/150 words -->
@@ -29,7 +30,7 @@ Psychiatry is unique in medicine in that there remains robust debate about the n
 This essay will explore how {} from my personal perspective as a psychiatry trainee and more broadly within the mental health system.**
 
 <!-- 
-Paragraph 1: / 300 words
+Paragraph 1: 228 / 300 words
 Ethical and historical
 Re quote: shit changes and needs to change
  -->
@@ -38,25 +39,37 @@ Firstly, understandings of illness have been subject to centuries of historical 
 
 Diagnostic frameworks have existed and evolved since the Ancient Egyptian Book of Hearts as evidenced through the iterative DSM editions from psychoanalytic, to neurobiological, to reverse-nosological conceptual understandings of disease (Aftab, 2021). Diagnostic terms are thus neither fixed nor universal and the dangers of utilising diagnoses as "facts" can be observed historically in the Rosenhan experiment (1973) which relied upon then-considered objective diagnostic criteria to institutionalise and dehumanise those assessed as mentally ill. 
 
+These flaws frequently appear when clinical diagnoses are employed in legal, forensic and insurance settings, reducing consumers to labels and ignoring the true extent of their psychological distress and functional impairment (RANZCP position statement 77). Furthermore, diagnoses can be exploited to desecrate human rights as evidenced by the use of the diagnosis "sluggish schizophrenia" to suppress political dissidents previously in the Soviet Union.
+
+From a principalist ethics perspective, a non-"factual" approach could be observed as non-maleficent. Diagnostic labels, treated as "facts", can impose harms of stigmatisation and dehumanisation. ???
+
+/ big pharma?
+
+
+
+Ultimately, although the development of systematic diagnostic frameworks have provided the capacity to structure and develop management guidelines for mental illness, it is also important to be aware of the disadvantages that such diagnoses impose upon patients.
+
 **Despite acknowledging the errors and harms imposed by historical practice (RANZCP position statement 84), psychiatry continues to face criticism for its over-reliance on operational criteria and over-medicalisation of ???.**
-
-These flaws frequently appear when clinical diagnoses are employed in legal, forensic and insurance settings, where the true extent of psychological distress and functional impairment experienced by consumers are lost (RANZCP position statement 77). Diagnoses have been further exploited as political tools to control and dehumanise the population as evidenced by historical diagnosing of "sluggish schizophrenia" to suppress political dissidents within the Soviet Union.
-
-Reduction of consumers to diagnoses strips the biopsychosocial context that 
-
-Therefore, utilising diagnoses as facts opens up potential avenues to harm our patients essentially wtf am I writingggggggggggggggggggg.
-
 ---
 
 <!-- 
-Paragraph 2: 
+Paragraph 2: 219/300 words
 ATSI and cultural
 Re quote: diagnosis varies as per culture, not fixed
  -->
 
-Alternative experiences of illness also arise from different cultural contexts. Regarding diagnoses as "facts" can lead to ignorance of Non-Western cultures, for example Maori, place a greater emphasis on the family unit with respect to spiritual factors. 
+Alternative experiences of illness also arise from different cultural contexts. Non-Western cultures, such as Maori, focus on holistic models of health with greater considerations of familial and spiritual factors. 
 
-Current practice guidelines and diagnostic systems are based extensively upon data collected in Western nations. By forcing marginalised groups such as the CALD, LGBT+ and ATSI populations into traditionally Western models, the power imbalance is reinforced and perpetuates the intergenerational trauma and discriminatory practices ??? (RANZCP Position Statement 105). 
+The interaction between an individual 
+
+Current practice guidelines and diagnostic systems such as the DSM-5-TR stem majorly from data collected in Western nations. Forcing marginalised groups such as the CALD, LGBTQ+ and Indigenous populations into such classifications, reinforces power imbalances present from historical psychiatric practice and perpetuates the integernerational trauma and discriminatory practices ??? (RANZCP Position Statement 105)
+
+Regarding diagnoses as "facts" can lead to ignorance of Non-Western cultures, for example Maori, which place a greater emphasis on the family unit and respect to spiritual factors. 
+
+Marginalised communities have been subject to intergenerational traumas of exploitation
+- Not only are suicide rates in Aboriginals double those of non-Indigenous adults and 
+
+The discrepan
 
 Hiring more Aboriginal Liaison Officers and inclusion of peer workers into multidiscplinary care represent a shift away from merely addressing a diagnosis, however
 
