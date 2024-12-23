@@ -19,6 +19,8 @@
 - Feedback to team
 
 # Tourette's Disease Management <!-- status:incomplete -->
+
+# MRG
 ---
 
 # General Psychiatry <!-- tag:general-psych;status:incomplete -->
@@ -42,7 +44,22 @@
 - IMs
   - Olanzapine 2.5mg IM (max 7.5mg)
 
-## Emergencies <!-- tag:emergency;status:incomplete -->
+## Psychiatric Conditions
+
+### Post-manic Depression
+
+## Risk Assessment
+
+### Overview
+- Structured professional judgement tools
+  - Combination of actuarial approach and clinical expertise
+- Consider static and dynamic risk factors
+- Consider acute and long-term risk
+
+### Violence
+- Tool: HCR-20
+
+## Emergencies
 
 ### Neuroleptic Malignant Syndrome <!-- tag:nms -->
 
@@ -109,11 +126,189 @@
 - Psychiatric risks
 ```
 
+## Obsessive-Compulsive Disorder <!-- tag:ocd;status:incomplete -->
+
+### Management
+```
+Example Qs:
+- Auckland 2016 Paper 1 MEQ 4.3
+```
+
+- Pharmacological therapy
+  - High-dose SSRI x2 then clomipramine for 10-12 weeks each
+  - Augment with antipschotic therapy
+- Psychological therapy
+  - CBT with ERP
+  - Metacognitive therapy with ERP
+
+### Maximum Dosing for OCD
+
+- SSRI
+  - Sertraline: 300mg (normal 200mg)
+  - Fluoxetine: 80mg (normal 60mg)
+  - Citalopram: 40mg (normal 40mg)
+  - Escitalopram: 40mg (normal 20mg)
+  - Fluvoxamine: 300mg (normal 300mg) 
+  - Paroxetine: 60mg (normal 50mg)
+- SNRI
+  - Desvenlafaxine: 200mg (normal 200mg)
+  - Duloxetine: 180mg (normal 120mg)
+  - Venlafaxine: 300mg (normal 225mg
+- Clomipramine: 300mg
+
+## Acute Situational Crisis
+
+
+## ECT
+
+### Memory Issues
+
+```
+Example Qs:
+- Auckland 2013 Paper 1 MEQ 6.3
+```
+
+---
 # Child and Adolescent Psychiatry <!-- tag:child-psych -->
 
 ## Tourette's Disease <!-- tag:tourettes;status:incomplete -->
 
+## School Refusal
+
+```
+Examples Qs:
+- Auckland 2014 Paper 1 MEQ 3
+```
+
+- Definition
+  - Type of school attendance problem (> 10% of lack of attendance)
+  - Reluctance to attend school, known to parents and caregivers despite latter's efforts
+  - MRG in NSW is greater than 30 days of absence within past 100 days
+- Physiological school absenteeism
+  - Normal school days (180 per year)
+  - 16 days / year in primary school
+  - 24 days / year in high school
+- Manifestations
+  - Behavioural: tearfulness, tantrums or clinginess. Refusal to get out of bed.
+  - Somatic: complaints of headaches, stomach aces, dizziness or fatigue
+  - Extended holidays including weekends
+  - Lateness to school, extended periods in sick bay or principal's office
+  - Absences on significant days including tests, PE and speeches
+- Consequences: decreased employment, impaired social development, poorer physical and mental health, forensic and addiction issues
+- Causes
+  - Issues leaving home
+    - Separation anxiety
+    - Depression
+    - Obsessive-compulsive disorder
+    - Complex family dynamics including recent deaths, domestic violence, divorce
+    - Caring for family members at home
+  - Issues getting to school
+    - Neglect
+  - Issues at school
+    - Social and generalised anxiety
+    - Phobias
+    - Complex trauma
+    - Bullying or issues with teachers
+    - Academic or learning difficulties
+    - Stressful events eg. change
+    - Language difficulties
+  - A third have no psychiatric issues
+- Risk factors
+  - Highest peaks in transitioning ages eg. before primary or high school
+- Differentials
+  - Antisocial behaviour
+  - Truancy: concealed absence without permission
+  - School withdrawal: parent's efforts to keep patient at home or lack of parental effort to get to school
+  - School exclusion: inappropriate disciplinary action, inability to accommodate patient at school
+
+### Assessment
+- Reviews with child and family
+  - Family dynamics need to be explored
+- Physical examination to exclude organicity for somatic issues
+- Collateral with school, daycare staff family doctor
+  - Stressors at school: teacher issues, bullying
+  - Understanding of family situation
+  - Interventions implemented
+- School Refusal Assessment Scale (Kearney and Silverman)
+  - 
+
+
 ### Management
+
+- Follow school policies
+  - Liaise with school counsellsors or psychologists
+  - Liaise with Attendance Officer or wellbeing teams
+  - Contact and discuss with student's parents and caregivers
+- Meeting with parents
+  - Psychoeducation of parents and care-givers
+  - Discuss specific concerns
+  - Assess for issues at home
+- Management plan
+  - Therapeutic alliance and collaborative approach
+  - Encourage to go back to school. Involve entire family to encourage.
+  - Behavioural therapy with star charts: small and bigger rewards
+  - Gradual return to schol: attending school, lunchtimes ,favourite classes then sveral days
+  - Treating the underlying cause
+  - Relaxation strategies or meditation
+  - Establish expectated reviews and time frame
+  - Regular communication and follow-up
+  - If above fails: CBT with relaxation therapy, systematic desensitisation, modeling, shaping and contigency management
+- Referral to:
+  - External family support agencies
+  - Student wellbeing support services
+  - State's Child Wellbeing Unit
+  - Child Protection Helpline
+- Prognostic factors
+  - Better outcomes for younger children and those with higher baseline of school attendance
+
+
+## Autism Spectrum Disorder
+
+### Overview
+<!-- Type: cloze -->
+- **Definition**: group of neurodevelopmental disorders characterised by *social defiicts* and *repetitive behaviours*
+- **Age of onset**: typically prior to 3, however can become apparent later
+
+### Assessment
+
+
+
+
+- Principles
+  - Individual- and family- centred approach
+  - Holistic approach including personal, activity and environmental contexts
+  - Promote their strengths
+- Approach
+  - (1) Comprehensive Needs Assessment: identify key strengths, challenges and needs
+    - Medical evaluation should also be performed
+    - Outcome determines management and whether diagnostic evaluation is required
+    - Referral for supports does not require diagnostic evaluation to have occurred
+  - (2) Diagnostic Evaluation
+    - Determine whether ASD can explain the functional deficits or whether there are other modifiable factors
+    - Stages: individual clinician and if inconclusive, consensus team evaluation
+  - Essentially should be case-managed until outcome is determined
+    - Allied health can contribute to either the Comprehensive Needs Assessment or the Consensus Team Diagnostic Evaluation
+    - Psychologists can perform the individual clinicain diagnostic evaluation
+    - Doctors can do everything except the consensus team evaluation because duh
+  - Assessment should be conducted in all relevant settings however can include clinic
+    - Community settings can be assessed via observation, recordings, interviewing the client or reports from other professionals
+    - Telehealth should only be used to supplement, not replace face-to-face
+  - Standardised assessments 
+  - Repeated assessments to monitor and identify needs
+- Content
+  - PMHx
+  - FHx + functioning
+  - Languages at home
+  - Developmental and educational
+  - Strengths (activity-related and character)
+  - Environmental facilitators and barriers
+  - Observed and expressed support needs
+  - Congenital and dysmporphic features
+  - Vision and hearing
+  - Biological investigations as required eg. chromosomal microarray
+
+## Management of Tourette's Disease
+<!-- Not complete -->
 
 - Pharmacotherapy
   - (1) Commence clonidine 50mcg once daily
@@ -121,6 +316,89 @@
 - Psychosocial
   - Cognitive behavioural interventions for tics with **habit reversal training**
   - CBT with **exposure-response prevention**
+
+# Consultation-Liaison Psychiatry
+
+## Cognition Testing
+
+### Frontal Lobe
+<!-- Type: cloze -->
+
+- **Screens for**: frontotemporal dementia, frontal lobe dysfunction associated with SCZ, executive dysfunction in Parkinson's or substance dependence
+- **Distinguishes between**: frontotemporal dementia vs Alzheimer's
+- **Tests**: Frontal Assessment Battery (similarities, lexical fluency, Luria test, Go-No-Go, conflicting instructions, environmental autonomy), trail-making test
+- Similarities
+  - Compare two objects, should be the same category
+  - Tests abstract reasoning (frontal)
+- Lexical fluency
+  - As many words beginning with S
+  - Tests ability to navigate non-routine situations
+  - Significant impairments demonstrate left frontal lobe dysfunction
+- Luria test
+  - Fist, edge, palm. Demonstrate, do together and then patient does alone
+  - Tests motor programming (temporal organisation, maintenance, sequencing, attention and execution)
+- Conflicting instructions
+  - Tap twice when I tap once, tap once when I tap twice
+  - Tests set switching similar to Stroop
+- Go-No-Go
+  - Tap once when I tap once, do not tap when I tap twice
+  - Tests inhibitory control particularly after Conflicting Instructions
+- Environmental autonomy, grasp reflex
+  - "Do not take my hands"
+  - Tests reliance on environmental cues and inhibition over primitive reflexes
+- Trail-making test
+  - Alternate A-1-B-2 etc.
+  - Tests cognitive flexibility with dorsolateral prefrontal context
+
+### Temporal Lobe
+
+- Delayed-recall
+  - Tests short-term memory and hippocampus
+- Orientation
+  - Tests memory and hippocampus
+- Naming animals
+  - Tests semantic memory
+
+### Parietal Lobe
+
+- Clock-drawing test
+  - Tests visuospatial perception in right parietal lobe
+  - Tests execution function
+- Cube drawing test
+  - Tests visuospatial perception in right parietal lobe
+- Gerstmann's syndrome
+  - Finger agnosia
+  - Acalculia: inability to calculate
+  - Agraphia: inability to write
+  - Left-right disorientation
+
+
+## Psychopharmacology in Medical Comorbidities
+
+### Cardiac Disease
+
+- Considerations: psychotropics can affect heart rate, blood pressure, QTc, increase arrhythmias
+
+
+### Atrial Fibrillation
+
+### HIV
+<!-- Incomplete -->
+
+- Considerations
+  - Drug interactions with antiretrovirals
+  - Avoid typicaly antipsychotics due to proclivity for EPSEs
+    - Due to HIV invasion into basal ganglia 
+  - HIV progression can increase QT interval
+  - Additive metabolic effects with antipsychotics
+  - Close monitoring required with clozapine due to agranulocytosis
+  - Avoid MAOIs as not recommended
+  - Citalopram can be used for interferon-alpha-induced depression for co-infected HCV however not prophylactic
+    - Interferon-alpha is also being phased out for HCV
+- Antipsychotic choice: aripiprazole, quetiapine ∵ lower risk of EPSE
+- Antidepressant choice: escitalopram, citalopram ∵ lower risk of drug interactions, however monitor QTc
+- Mood-stabiliser choice: 
+
 
 
 
@@ -177,8 +455,51 @@
 
 [Quick Reference Guide to the Treatment of Alcohol Problems](https://www.health.gov.au/sites/default/files/quick-reference-guide-to-the-treatment-of-alcohol-problems.pdf)
 
+---
+# Forensic Psychiatry <!-- tag:forensic -->
+
+## Paraphilias <!-- tag:paraphilias -->
+
+### Paedophilia Assessment <!-- status:incomplete -->
+
+`Example Qs: Auckland 2017 Paper 1 MEQ 1.3`
+
+- Approach
+  - Historical
+  - Clinical
+  - Management
+  - Referrals
+    - Mandatory notification
+    - Forensic services
+
+## Liaison with Other Agencies <!-- tag: liaison; status:incomplete -->
+
+`Example Qs: Auckland 2017 Paper 1 MEQ 2.2`
+
+- 
+
 
 # Psychogeriatrics <!-- tag:psychogeriatrics -->
+
+## Delirium
+
+### Approach to Delirium in OPMH Ward
+
+- Assessment
+  - History: infection, withdrawal
+  - Physical examination
+  - Investigations: mention difficulties
+  - Monitoring: bowel chart, urinary chart, sleep chart
+  - Exclude neglect
+  - Collateral: family, GP, community tea
+- Management
+  - Short-term
+    - Non-pharmacological methods
+    - Low-dose antipsychotic
+  - Medium-term
+    - Medicolegal framework: likely duty of care + Guardianship vs MHA
+    - Consult geriatrician or physician
+    - Setting: geriatric vs adult acute vs OPMH ward
 
 ## Very-Late Onset Schizophrenia-Like Psychosis
 
@@ -194,12 +515,30 @@
 ## Principles in Prescribing <!-- status:incomplete -->
 
 - Consider preconception, perinatal and breastfeeding stages
+- Family psychoeducation
+- Liaison
+  - Perinatal mental health services
+  - Obstetrics: antenatal services
 
 ## Antidepressant Usage <!-- status:incomplete -->
 
 ## Antipsychotic Usage <!-- status:incomplete -->
 
 ## Mood Stabiliser Usage <!-- status:incomplete -->
+
+## Ward Management for Perinatal Psychosis <!-- status:incomplete -->
+
+## Birth Management Plan <!-- status:incomplete -->
+
+```
+Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
+```
+- Medication plan leading up to birth and after
+- Early warning signs and crisis contact plan
+- Provision of supports
+- Maximising sleep post-birth: expressing milk, sedatives
+
+
 
 
 ---
