@@ -103,7 +103,7 @@
   - Cognitive behavioural interventions for tics with **habit reversal training**
   - CBT with **exposure-response prevention**
 
-
+---
 
 # Addiction Psychiatry
 

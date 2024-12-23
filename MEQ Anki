@@ -19,6 +19,8 @@
 - Feedback to team
 
 # Tourette's Disease Management <!-- status:incomplete -->
+
+# MRG
 ---
 
 # General Psychiatry <!-- tag:general-psych;status:incomplete -->
@@ -45,6 +47,17 @@
 ## Psychiatric Conditions
 
 ### Post-manic Depression
+
+## Risk Assessment
+
+### Overview
+- Structured professional judgement tools
+  - Combination of actuarial approach and clinical expertise
+- Consider static and dynamic risk factors
+- Consider acute and long-term risk
+
+### Violence
+- Tool: HCR-20
 
 ## Emergencies
 
@@ -112,6 +125,39 @@
 - Ix: bloods, ECG
 - Psychiatric risks
 ```
+
+## Obsessive-Compulsive Disorder <!-- tag:ocd;status:incomplete -->
+
+### Management
+```
+Example Qs:
+- Auckland 2016 Paper 1 MEQ 4.3
+```
+
+- Pharmacological therapy
+  - High-dose SSRI x2 then clomipramine for 10-12 weeks each
+  - Augment with antipschotic therapy
+- Psychological therapy
+  - CBT with ERP
+  - Metacognitive therapy with ERP
+
+### Maximum Dosing for OCD
+
+- SSRI
+  - Sertraline: 300mg (normal 200mg)
+  - Fluoxetine: 80mg (normal 60mg)
+  - Citalopram: 40mg (normal 40mg)
+  - Escitalopram: 40mg (normal 20mg)
+  - Fluvoxamine: 300mg (normal 300mg) 
+  - Paroxetine: 60mg (normal 50mg)
+- SNRI
+  - Desvenlafaxine: 200mg (normal 200mg)
+  - Duloxetine: 180mg (normal 120mg)
+  - Venlafaxine: 300mg (normal 225mg
+- Clomipramine: 300mg
+
+## Acute Situational Crisis
+
 
 ## ECT
 
@@ -409,8 +455,51 @@ Examples Qs:
 
 [Quick Reference Guide to the Treatment of Alcohol Problems](https://www.health.gov.au/sites/default/files/quick-reference-guide-to-the-treatment-of-alcohol-problems.pdf)
 
+---
+# Forensic Psychiatry <!-- tag:forensic -->
+
+## Paraphilias <!-- tag:paraphilias -->
+
+### Paedophilia Assessment <!-- status:incomplete -->
+
+`Example Qs: Auckland 2017 Paper 1 MEQ 1.3`
+
+- Approach
+  - Historical
+  - Clinical
+  - Management
+  - Referrals
+    - Mandatory notification
+    - Forensic services
+
+## Liaison with Other Agencies <!-- tag: liaison; status:incomplete -->
+
+`Example Qs: Auckland 2017 Paper 1 MEQ 2.2`
+
+- 
+
 
 # Psychogeriatrics <!-- tag:psychogeriatrics -->
+
+## Delirium
+
+### Approach to Delirium in OPMH Ward
+
+- Assessment
+  - History: infection, withdrawal
+  - Physical examination
+  - Investigations: mention difficulties
+  - Monitoring: bowel chart, urinary chart, sleep chart
+  - Exclude neglect
+  - Collateral: family, GP, community tea
+- Management
+  - Short-term
+    - Non-pharmacological methods
+    - Low-dose antipsychotic
+  - Medium-term
+    - Medicolegal framework: likely duty of care + Guardianship vs MHA
+    - Consult geriatrician or physician
+    - Setting: geriatric vs adult acute vs OPMH ward
 
 ## Very-Late Onset Schizophrenia-Like Psychosis
 
@@ -426,12 +515,30 @@ Examples Qs:
 ## Principles in Prescribing <!-- status:incomplete -->
 
 - Consider preconception, perinatal and breastfeeding stages
+- Family psychoeducation
+- Liaison
+  - Perinatal mental health services
+  - Obstetrics: antenatal services
 
 ## Antidepressant Usage <!-- status:incomplete -->
 
 ## Antipsychotic Usage <!-- status:incomplete -->
 
 ## Mood Stabiliser Usage <!-- status:incomplete -->
+
+## Ward Management for Perinatal Psychosis <!-- status:incomplete -->
+
+## Birth Management Plan <!-- status:incomplete -->
+
+```
+Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
+```
+- Medication plan leading up to birth and after
+- Early warning signs and crisis contact plan
+- Provision of supports
+- Maximising sleep post-birth: expressing milk, sedatives
+
+
 
 
 ---

@@ -1,3 +1,5 @@
+# todo: ignore hr
+
 import re
 import uuid
 

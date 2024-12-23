@@ -47,3 +47,6 @@ TODO:
 - HETI Mock MEQ 2024
 - HETI MEQ Lectures
 - OSCE
+
+DONE
+- Auckland 2013 to 2017 MEQ 1
