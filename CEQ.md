@@ -23,14 +23,15 @@ Tyrer P (2022) Remembered jewels: The role of diagnosis in psychiatry by Robert 
 805 words so far
 ---
 
-<!-- Introduction: 83/150 words -->
+<!-- Introduction: 82/150 words
+Could define diagnosis -->
 
-Psychiatry is unique in medicine in that there remains robust debate about the nature of, and existence of, the diseases it seeks to treat. This discourse extends beyond the academic sphere, and is amplified within consumers and carers. The stimulus suggests that "diagnosis is a useful form of communication" however that "it is not a fact". 
-**{ define the term “diagnosis”}
-This essay will explore how {} from my personal perspective as a psychiatry trainee and more broadly within the mental health system.**
+Psychiatry is unique in medicine in that there remains robust debate about the nature of, and existence of, the diseases it seeks to treat. This discourse extends beyond the academic sphere, and is amplified within consumers and carers. The stimulus suggests that "diagnosis is a useful form of communication" however that "it is not a fact". This essay will explore the impact of diagnoses as facts and how psychiatry has introduced remedies  
+
+from my personal perspective as a psychiatry trainee and more broadly within the mental health system.
 
 <!-- 
-Paragraph 1: 228 / 300 words
+Paragraph 1: 232 / 300 words
 Ethical and historical
 Re quote: shit changes and needs to change
  -->
@@ -41,6 +42,8 @@ Diagnostic frameworks have existed and evolved since the Ancient Egyptian Book o
 
 These flaws frequently appear when clinical diagnoses are employed in legal, forensic and insurance settings, reducing consumers to labels and ignoring the true extent of their psychological distress and functional impairment (RANZCP position statement 77). Furthermore, diagnoses can be exploited to desecrate human rights as evidenced by the use of the diagnosis "sluggish schizophrenia" to suppress political dissidents previously in the Soviet Union.
 
+**Despite acknowledging the errors and harms imposed by historical practice (RANZCP position statement 84), psychiatry continues to face criticism for its over-reliance on operational criteria and over-medicalisation of ???.**
+
 From a principalist ethics perspective, a non-"factual" approach could be observed as non-maleficent. Diagnostic labels, treated as "facts", can impose harms of stigmatisation and dehumanisation. ???
 
 / big pharma?
@@ -49,25 +52,32 @@ From a principalist ethics perspective, a non-"factual" approach could be observ
 
 Ultimately, although the development of systematic diagnostic frameworks have provided the capacity to structure and develop management guidelines for mental illness, it is also important to be aware of the disadvantages that such diagnoses impose upon patients.
 
-**Despite acknowledging the errors and harms imposed by historical practice (RANZCP position statement 84), psychiatry continues to face criticism for its over-reliance on operational criteria and over-medicalisation of ???.**
+
+
 ---
 
 <!-- 
-Paragraph 2: 219/300 words
+Paragraph 2: 308/300 words
 ATSI and cultural
 Re quote: diagnosis varies as per culture, not fixed
+Points:
+- Harmful to diagnose directly
+- Diagnoses lead to diagnostic shadowing
  -->
 
-Alternative experiences of illness also arise from different cultural contexts. Non-Western cultures, such as Maori, focus on holistic models of health with greater considerations of familial and spiritual factors. 
+Concommitantly, alternative experiences of illness can also arise from different cultural contexts. 
+
+Non-Western cultures, such as Maori, focus on holistic models of health with greater considerations of familial and spiritual factors. (reverse Maori)
 
 The interaction between an individual 
 
-Current practice guidelines and diagnostic systems such as the DSM-5-TR stem majorly from data collected in Western nations. Forcing marginalised groups such as the CALD, LGBTQ+ and Indigenous populations into such classifications, reinforces power imbalances present from historical psychiatric practice and perpetuates the integernerational trauma and discriminatory practices ??? (RANZCP Position Statement 105)
+Current practice guidelines and diagnostic systems such as the DSM-5-TR are primarily developed from data collected in Western nations. Forcing marginalised groups such as the CALD, LGBTQ+ and Indigenous populations into such classifications, reinforces power imbalances present from historical psychiatric practice and perpetuates the integenerational trauma and discriminatory practices ??? developed by prior psychiatrists (RANZCP Position Statement 105). **it's bad to force diagnoses as people**
 
-Regarding diagnoses as "facts" can lead to ignorance of Non-Western cultures, for example Maori, which place a greater emphasis on the family unit and respect to spiritual factors. 
+The harms in such practices, ?not only? manifest in higher rates of diagnosis of psychosis, suicides and incarcerations within the Indigenous populations with barriers to how conventional Western models of care are adapted to support the wellbeing of Indigenous communities and their Elders. 
 
-Marginalised communities have been subject to intergenerational traumas of exploitation
-- Not only are suicide rates in Aboriginals double those of non-Indigenous adults and 
+Furthermore, diagnostic labels and "facts" can overshadow the non-biological factors of illness leading to value systems, cultural perspectives and spirituality being overlooked.  **diagnoses ignore other things**
+
+Regarding diagnoses as "facts" can lead to ignorance of Non-Western cultures, for example Maori, which place a greater emphasis on whanau, the family unit, and respect to spiritual factors. 
 
 The discrepan
 
@@ -83,7 +93,10 @@ Accepting diagnoses as “communication tools” as opposed to fact also aligns 
 
 
 -	Recognising that diagnoses are not set in stone, also aligns with a principalist ethics perspective by being non-maleficent. Recognising diagnoses as “communication tools” as opposed to facts avoids 
-Thus, solely focusing on 
+
+Thus, conventional models upon the assessment and management of
+
+Thus,
 
 ---
 
@@ -93,7 +106,6 @@ Clinical example + recovery model + open dialogue
 Re quote: recovery does not depend on diagnosis
 -->
 
-
 Finally, lack of insight or anosognosia is common in schizophrenia-spectrum illnesses, presenting barriers against shared decision making.
 
 **subsequent disagreement between the clinician and consumer. However, pathways towards recovery can endure.**
@@ -102,7 +114,7 @@ Rigid commitments to diagnoses as "facts" magnifies the paternalistic nature of 
 
 This is highlighted as the core necessity to successful therapy as per RANZCP clinical guidelines for mood disorders.
 
-Early training rotations as an inpatient registrar were overwhelmingly comprised of biological managements for acute diagnoses ie. consumers with psychotic relapses were treated with antipsychotic medications. Such involuntary management, compounded by restrictive environments, are often highly traumatising and can be counter-therapeutic due to removal of their existing supports. Subsequently, further time in community and rehabilitation roles have highlighted the negative impacts of traditional models of care towards consumers and their recovery process. 
+Early training rotations as an inpatient registrar were overwhelmingly comprised of biological management for acute diagnoses ie. consumers with psychotic relapses were treated with antipsychotic medications. Such involuntary management, compounded by restrictive environments, are often highly traumatising and can be counter-therapeutic due to removal of consumer's existing supports. My subsequent time in community and rehabilitation roles have highlighted the negative impacts of traditional models of care towards consumers and their recovery process. 
 
 Adoption of strategies from the Open Dialogue Model (Sekkila et al, 1990s) by conducting team discussions and reflections in the presence of consumers and carers, provides opportunity to promote patient centred care and limited enhancement of autonomy within the involuntary setting irrespective of diagnostic concordance. Such shared-decision practice reaffirms our roles as a collaborator and advocate (CANMEDS, 2015) 
 
