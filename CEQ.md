@@ -54,7 +54,7 @@ ATSI and cultural
 Re quote: diagnosis varies as per culture, not fixed
  -->
 
-Alternative experiences of illness also arise from different cultural contexts. Regarding diagnoses as "facts" can lead to ignorance of Non-Western cultures, for example Maori, place a greater emphasis on the family unit with respect to spiritual factors. 
+Alternative experiences of illness also arise from different cultural contexts. Regarding diagnoses as "facts" can lead to ignorance of the full of Non-Western cultures, for example Maori, place a greater emphasis on the family unit with respect to spiritual factors. 
 
 Current practice guidelines and diagnostic systems are based extensively upon data collected in Western nations. By forcing marginalised groups such as the CALD, LGBT+ and ATSI populations into traditionally Western models, the power imbalance is reinforced and perpetuates the intergenerational trauma and discriminatory practices ??? (RANZCP Position Statement 105). 
 
