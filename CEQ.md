@@ -114,9 +114,7 @@ Finally, lack of insight or anosognosia is common in schizophrenia-spectrum illn
 
 **subsequent disagreement between the clinician and consumer. However, pathways towards recovery can endure.**
 
-Rigid commitments to diagnoses as "facts" magnifies the paternalistic nature of historical psychiatric practice and threatens the therapeutic alliance central to recovery.
-
-This is highlighted as the core necessity to successful therapy as per RANZCP clinical guidelines for mood disorders.
+Rigid commitments to diagnoses as "facts" magnifies the paternalistic nature of historical psychiatric practice and threatens the therapeutic alliance central to recovery. As this is highlighted as the core necessity to successful therapy as per RANZCP clinical guidelines for mood disorders, such commitments actively violate non-maleficent ethical principles.
 
 Early training rotations as an inpatient registrar were overwhelmingly comprised of biological management for acute diagnoses ie. consumers with psychotic relapses were treated with antipsychotic medications. Such involuntary management, compounded by restrictive environments, are often highly traumatising and can be counter-therapeutic due to removal of consumer's existing supports. My subsequent time in community and rehabilitation roles have highlighted the negative impacts of traditional models of care towards consumers and their recovery process. 
 
@@ -132,4 +130,4 @@ To utilise a recovery-oriented approach
 
 <!-- Conclusion: 21/150 words -->
 
-In conclusion, it is important to recognise the complex and multi-faceted nature of psychiatry beyond conventional models of assessment and management. Psychiatry 
+In conclusion, it is important to recognise the complex and multi-faceted nature of psychiatry beyond conventional models of assessment and management. Psychiatry is constantly evolving as its consumers and its clinicians aim to strive towards 
