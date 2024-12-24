@@ -6,12 +6,12 @@ import uuid
 class Card:
     def __init__(self, id, front, back, tags=[]):
         self.front = front
-        self.back = back
+        self.back = [line.find("-")*"&nbsp;" + line for line in back]
         self.tags = tags
         self.id = id
 
     def __str__(self):
-        return f"{"<br>".join(self.front).replace("#", "\#")}|{"<br>".join(self.back)}|{" ".join(self.tags)}"
+        return f"{self.id}|{"<br>".join(self.front).replace("#", "\#")}|{"<br>".join(self.back)}|{" ".join(self.tags)}"
     
 class Heading:
     def __init__(self, level, line, content, comments=False):
