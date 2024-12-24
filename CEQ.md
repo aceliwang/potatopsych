@@ -77,7 +77,7 @@ The interaction between an individual
 
 Current practice guidelines and diagnostic systems such as the DSM-5-TR are primarily developed from data collected in Western nations. Forcing marginalised groups such as the CALD, LGBTQ+ and Indigenous populations into such classifications, reinforces power imbalances present from historical psychiatric practice and perpetuates the integenerational trauma and discriminatory practices ??? developed by prior psychiatrists (RANZCP Position Statement 105). **it's bad to force diagnoses as people**
 
-The harms in such practices, ?not only? manifest in higher rates of diagnosis of psychosis, suicides and incarcerations within the Indigenous populations with barriers to how conventional Western models of care are adapted to support the wellbeing of Indigenous communities and their Elders. 
+The harms in such practices, are not only reflected within higher rates of psychosis, suicides and incarcerations within the Indigenous populations but also reflect the barriers to how conventional Western models of care are adapted to support the wellbeing of Indigenous communities and their Elders. 
 
 Furthermore, diagnostic labels and "facts" can overshadow the non-biological factors of illness leading to value systems, cultural perspectives and spirituality being overlooked.  **diagnoses ignore other things**
 
@@ -85,7 +85,7 @@ Regarding diagnoses as "facts" can lead to ignorance of Non-Western cultures, fo
 
 The discrepan
 
-Hiring more Aboriginal Liaison Officers and inclusion of peer workers into multidiscplinary care represent a shift away from merely addressing a diagnosis, however
+Hiring more Aboriginal Liaison Officers and inclusion of peer workers into multidiscplinary care represent a shift away from merely addressing a diagnosis and incorporating holistic care to 
 
 Fortunately, efforts to recognise the importance of cultural safety have led to the introduction of 
 
