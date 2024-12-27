@@ -75,6 +75,7 @@ Thus, it is important to acknowledge the influence of cultural contexts upon the
  **it's bad to force diagnoses as people**
 
 
+The harms in such practices, are not only reflected within higher rates of psychosis, suicides and incarcerations within the Indigenous populations but also reflect the barriers to how conventional Western models of care are adapted to support the wellbeing of Indigenous communities and their Elders. 
 
 Furthermore, diagnostic labels and "facts" can overshadow the non-biological factors of illness leading to value systems, cultural perspectives and spirituality being overlooked.  **diagnoses ignore other things**
 
@@ -83,6 +84,7 @@ The discrepan
 
 The interaction between an individual 
 
+Hiring more Aboriginal Liaison Officers and inclusion of peer workers into multidiscplinary care represent a shift away from merely addressing a diagnosis and incorporating holistic care to 
 
 Fortunately, efforts to recognise the importance of cultural safety have led to the introduction of 
 
