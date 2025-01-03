@@ -19,19 +19,18 @@ Tyrer P (2022) Remembered jewels: The role of diagnosis in psychiatry by Robert 
   - ATSI and cultural perspective (300 words)
   - Clinical and recovery model (300 words)
   - Conclusion (150 words)
+- Practice: 8:34 with 259 words. Still aim 1200 within 40 minutes.
 
 805 words so far
 ---
 
-<!-- Introduction: 82/150 words
+<!-- Introduction: 74/150 words
 Could define diagnosis -->
 
-Psychiatry is unique in medicine in that there remains robust debate about the nature of, and existence of, the diseases it seeks to treat. This discourse extends beyond the academic sphere, and is amplified within consumers and carers. The stimulus suggests that "diagnosis is a useful form of communication" however that "it is not a fact". This essay will explore the impact of diagnoses as facts and how psychiatry has introduced remedies  
-
-from my personal perspective as a psychiatry trainee and more broadly within the mental health system.
+Psychiatry is unique in medicine in that there remains robust debate about the nature of, and existence of, the diseases it seeks to treat. This discourse extends beyond the academic sphere, and is amplified within consumers and carers which can lead to poor therapeutic alliance and complicates the recovery process. This essay shall explore the impacts of issues surrounding diagnoses and the progress psychiatry is undergoing including trauma-inforced and recovery-orientated approaches to facilitate recovery.
 
 <!-- 
-Paragraph 1: 232 / 300 words
+Paragraph 1: 303 / 300 words
 Ethical and historical
 Re quote: shit changes and needs to change
  -->
@@ -40,24 +39,18 @@ Firstly, understandings of illness have been subject to centuries of historical 
 
 Diagnostic frameworks have existed and evolved since the Ancient Egyptian Book of Hearts as evidenced through the iterative DSM editions from psychoanalytic, to neurobiological, to reverse-nosological conceptual understandings of disease (Aftab, 2021). Diagnostic terms are thus neither fixed nor universal and the dangers of utilising diagnoses as "facts" can be observed historically in the Rosenhan experiment (1973) which relied upon then-considered objective diagnostic criteria to institutionalise and dehumanise those assessed as mentally ill. 
 
-These flaws frequently appear when clinical diagnoses are employed in legal, forensic and insurance settings, reducing consumers to labels and ignoring the true extent of their psychological distress and functional impairment (RANZCP position statement 77). Furthermore, diagnoses can be exploited to desecrate human rights as evidenced by the use of the diagnosis "sluggish schizophrenia" to suppress political dissidents previously in the Soviet Union.
+These flaws frequently appear when clinical diagnoses are employed in legal, forensic and insurance settings, reducing consumers to labels and ignoring the true extent of their psychological distress and functional impairment (RANZCP position statement 77). Furthermore, diagnoses can be exploited to desecrate human rights as evidenced by the use of the diagnosis "sluggish schizophrenia" to suppress political dissidents previously in the Soviet Union. 
 
-**Despite acknowledging the errors and harms imposed by historical practice (RANZCP position statement 84), psychiatry continues to face criticism for its over-reliance on operational criteria and over-medicalisation of ???.**
+Despite acknowledging the errors and harms imposed by historical practice (RANZCP position statement 84), psychiatry continues to be scrutinised for its diagnostic process and operational criteria, particularly in the face of overmedicalisation of normal human behaviour and in the context of the relationship between psychiatry and pharmaceutical companies. (?do more)
 
-From a principalist ethics perspective, a non-"factual" approach could be observed as non-maleficent. Diagnostic labels, treated as "facts", can impose harms of stigmatisation and dehumanisation. ???
+From a principalist ethics perspective, such an approach to diagnosis could be observed to align with non-maleficence. When diagnostic labels are treated as "facts", there is a risk of imposing iatrogenic harm by introducing stigmatisation and facilitating  dehumanisation. ??? Thus caution should be applied in the diagnositc and management process. 
 
-/ big pharma?
-
-
-
-Ultimately, although the development of systematic diagnostic frameworks have provided the capacity to structure and develop management guidelines for mental illness, it is also important to be aware of the disadvantages that such diagnoses impose upon patients.
-
-
+Ultimately, although the development of systematic diagnostic frameworks have provided the capacity to structure and develop management guidelines for mental illness, it is also important to be aware of the harms that such diagnoses impose upon patients.
 
 ---
 
 <!-- 
-Paragraph 2: 308/300 words
+Paragraph 2: 363/300 words
 ATSI and cultural
 Re quote: diagnosis varies as per culture, not fixed
 Points:
@@ -65,23 +58,33 @@ Points:
 - Diagnoses lead to diagnostic shadowing
  -->
 
-Concommitantly, alternative experiences of illness can also arise from different cultural contexts. 
+Concommitantly, alternative experiences of illness can also arise from different cultural contexts. Non-Western cultures, including Aboriginal, focus on holistic models of health, with greater considerations of familial and spiritual aspects. 
 
-Non-Western cultures, such as Maori, focus on holistic models of health with greater considerations of familial and spiritual factors. (reverse Maori)
+Current practice guidelines and diagnostic systems such as the DSM-5-TR have been primarily developed from data collected in Western nations. Forcing marginalised groups such as the CALD, LGBTQ+ and Indigenous populations into such classifications, reinforces power imbalances present from historical actions.
 
-The interaction between an individual 
+For example, the medical profession was complicit in designing paternalistic and discriminatory government policies leading to the forced removal of children from the Stolen Generations which resulted in profound integenerational trauma with institutionalisation and cultural disconnection (RANZCP Position Statement 105). These harms manifest not only within higher rates of psychosis, suicides and incarcerations within the Indigenous populations but also reflect the barriers to how conventional Western models of care are adapted to support the wellbeing of Indigenous communities and their Elders. 
 
-Current practice guidelines and diagnostic systems such as the DSM-5-TR are primarily developed from data collected in Western nations. Forcing marginalised groups such as the CALD, LGBTQ+ and Indigenous populations into such classifications, reinforces power imbalances present from historical psychiatric practice and perpetuates the integenerational trauma and discriminatory practices ??? developed by prior psychiatrists (RANZCP Position Statement 105). **it's bad to force diagnoses as people**
+Hiring more Aboriginal Liaison Officers and inclusion of peer workers into multidiscplinary care represent a shift away from merely addressing a diagnosis and incorporating holistic care to 
 
-The harms in such practices, ?not only? manifest in higher rates of diagnosis of psychosis, suicides and incarcerations within the Indigenous populations with barriers to how conventional Western models of care are adapted to support the wellbeing of Indigenous communities and their Elders. 
+NEEDS ANOTHE POINT / 50 WORDS
+
+Furthermore, the DSM-5-TR has made revisions to incorporate cultural safety with recognitions of cross-cultural variations in presentations and there have been increased appreciation for the need for cultural formulations in supporting consumers in their recovery. 
+
+Thus, it is important to acknowledge the influence of cultural contexts upon the expression and treatment of mental disorders particularly in the multinational landscape of Australia and within previously marginalised populations. 
+ 
+ **it's bad to force diagnoses as people**
+
+
+The harms in such practices, are not only reflected within higher rates of psychosis, suicides and incarcerations within the Indigenous populations but also reflect the barriers to how conventional Western models of care are adapted to support the wellbeing of Indigenous communities and their Elders. 
 
 Furthermore, diagnostic labels and "facts" can overshadow the non-biological factors of illness leading to value systems, cultural perspectives and spirituality being overlooked.  **diagnoses ignore other things**
 
-Regarding diagnoses as "facts" can lead to ignorance of Non-Western cultures, for example Maori, which place a greater emphasis on whanau, the family unit, and respect to spiritual factors. 
 
 The discrepan
 
-Hiring more Aboriginal Liaison Officers and inclusion of peer workers into multidiscplinary care represent a shift away from merely addressing a diagnosis, however
+The interaction between an individual 
+
+Hiring more Aboriginal Liaison Officers and inclusion of peer workers into multidiscplinary care represent a shift away from merely addressing a diagnosis and incorporating holistic care to 
 
 Fortunately, efforts to recognise the importance of cultural safety have led to the introduction of 
 
@@ -89,14 +92,9 @@ Fortunately, efforts to recognise the importance of cultural safety have led to 
 different concepts of mental disorders with
 
 Utilising diagnoses as “facts” fails to capture the full biopsychosocial factors that 
-Accepting diagnoses as “communication tools” as opposed to fact also aligns with principalist ethics perspectives including beneficence and non-maleficence.
 
 
--	Recognising that diagnoses are not set in stone, also aligns with a principalist ethics perspective by being non-maleficent. Recognising diagnoses as “communication tools” as opposed to facts avoids 
 
-Thus, conventional models upon the assessment and management of
-
-Thus,
 
 ---
 
@@ -110,11 +108,9 @@ Finally, lack of insight or anosognosia is common in schizophrenia-spectrum illn
 
 **subsequent disagreement between the clinician and consumer. However, pathways towards recovery can endure.**
 
-Rigid commitments to diagnoses as "facts" magnifies the paternalistic nature of historical psychiatric practice and threatens the therapeutic alliance central to recovery.
+Rigid commitments to diagnoses as "facts" magnifies the paternalistic nature of historical psychiatric practice and threatens the therapeutic alliance central to recovery. As this is highlighted as the core necessity to successful therapy as per RANZCP clinical guidelines for mood disorders, such commitments actively violate non-maleficent ethical principles.
 
-This is highlighted as the core necessity to successful therapy as per RANZCP clinical guidelines for mood disorders.
-
-Early training rotations as an inpatient registrar were overwhelmingly comprised of biological management for acute diagnoses ie. consumers with psychotic relapses were treated with antipsychotic medications. Such involuntary management, compounded by restrictive environments, are often highly traumatising and can be counter-therapeutic due to removal of consumer's existing supports. My subsequent time in community and rehabilitation roles have highlighted the negative impacts of traditional models of care towards consumers and their recovery process. 
+Early training rotations as an inpatient registrar were overwhelmingly comprised of biological management for acute diagnoses ie. consumers with psychotic relapses were treated with antipsychotic medications. Such involuntary management, compounded by restrictive environments, are often highly traumatising and can be counter-therapeutic due to removal of consumer's existing supports. My subsequent time in community and rehabilitation roles have highlighted the negative impacts of traditional models of care towards consumers and their recovery process, with prior adverse experiences with mental health services leading to refusal to participate in long-term preventative care and subsequent re-traumatisation with involuntary approaches when they become unwell. 
 
 Adoption of strategies from the Open Dialogue Model (Sekkila et al, 1990s) by conducting team discussions and reflections in the presence of consumers and carers, provides opportunity to promote patient centred care and limited enhancement of autonomy within the involuntary setting irrespective of diagnostic concordance. Such shared-decision practice reaffirms our roles as a collaborator and advocate (CANMEDS, 2015) 
 
@@ -126,6 +122,6 @@ Affords consumers the dignity of risk.
 Consideration of 
 To utilise a recovery-oriented approach 
 
-<!-- Conclusion: 21/150 words -->
+<!-- Conclusion:77/150 words -->
 
-In conclusion, it is important to recognise the complex and multi-faceted nature of psychiatry beyond conventional models of assessment and management. Psychiatry 
+In conclusion, it is important to recognise the complex and multi-faceted nature of psychiatry that extends beyond conventional models of assessment and management. Focusing only on "diagnostic facts" neglects the holistic picture and can damage the therapeutic alliance, disempower consumers and complicate the recovery process. Utilising diagnoses as communication aids, in collection with other trauma-inforced and recovery-orientated strategies, thus facilitates increased personal and individualised care of consumers and carers to the benefit of society as a whole.
