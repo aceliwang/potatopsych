@@ -25,6 +25,28 @@
 
 # General Psychiatry <!-- tag:general-psych;status:incomplete -->
 
+## Diagnostic Hierarchy
+
+- Organic
+- Substance-induced
+- Psychotic
+- Affective
+- Neurotic and others eg. anxiety, OCD, PTSD.
+- Personality factors
+- Non-psychiatric
+  - Physical disability
+  - Cognitive impairment
+  - Lack of social supports
+
+## Management Approach
+
+- **Therapeutic alliance**
+- **Psychoeducation**
+- Biopsychosocial
+- Short-term vs long-term
+- Involvement of family
+- Follow-up, referrals
+
 ## Acute Behavioural Disturbance <!-- tag:sedation -->
 
 ### Child and Adolescent <!-- status:incomplete -->
@@ -47,6 +69,20 @@
 ## Psychiatric Conditions
 
 ### Post-manic Depression
+
+## Cultural Assessment
+
+### Considerations of an Interpreter <!-- tag:interpreter -->
+
+- Ethics
+  - Autonomy: assessed in her own language, cultural considerations
+  - Confidentiality and consent
+  - Non-maleficence: risk of vulnerability with small migrant populations (privacy, persecution)
+- Practicalities
+  - Delayed assessments
+  - Interpreter bias or inaccuracies
+
+
 
 ## Risk Assessment
 
@@ -100,6 +136,8 @@
   - Benzodiazepines ie. lorazepam 2mg, then 3 hrs later. Increase to 8-24mg/day if nil response.
     - Gold standard for affective or organic catatonia
   - ECT
+- Supportive management
+  - DVT prophylaxis
 
 ## Eating Disorders <!-- tag:eating-disorders -->
 
@@ -128,6 +166,14 @@
 
 ## Obsessive-Compulsive Disorder <!-- tag:ocd;status:incomplete -->
 
+### Assessment
+```Example Qs:
+- Auckland 2018 Paper 1 MEQ 1.1
+```
+- Hx: ?hidden distress or disability
+- MSE: insight
+- Psychometrics: Y-BOCS
+
 ### Management
 ```
 Example Qs:
@@ -136,9 +182,11 @@ Example Qs:
 
 - Pharmacological therapy
   - High-dose SSRI x2 then clomipramine for 10-12 weeks each
-  - Augment with antipschotic therapy
+  - Augment with antipschotic therapy (risperidone or aripiprazole)
 - Psychological therapy
+  - Psychoeducation
   - CBT with ERP
+    - TODO: number of sessions, cognitive and behavioural components, homework, patient initiative
   - Metacognitive therapy with ERP
 
 ### Maximum Dosing for OCD
@@ -153,7 +201,7 @@ Example Qs:
 - SNRI
   - Desvenlafaxine: 200mg (normal 200mg)
   - Duloxetine: 180mg (normal 120mg)
-  - Venlafaxine: 300mg (normal 225mg
+  - Venlafaxine: 300mg (normal 225mg)
 - Clomipramine: 300mg
 
 ## Acute Situational Crisis
@@ -168,10 +216,71 @@ Example Qs:
 - Auckland 2013 Paper 1 MEQ 6.3
 ```
 
+## Stimulant Therapy
+
+- Cons
+  - Potential appetite restriction leading to growth retardation
+  - Insomnia secondary to stimulatns
+  - Potential for abuse and diversion
+  - Risk of psychosis and manic relapse
+
+## MEQ Geared
+
+### Borderline Admissions Risk Aspects
+
+- Patient factors
+  - Dynamic
+  - Static
+  - Current stressors
+  - Previous historical incidents
+- Non-patient factors
+  - Inexperienced registrars: pressure from other staff
+  - Protective factors: presence of supports
+  - Modifying immediate vs short-term vs long-term risk
+  - Counter-transference from staff
+
+## Absconded Patient Management
+
+- Attempt to locate: call patient, security can search grounds
+- Consider legal framework
+- Contact emergency services or CoMHET
+- Notify family
+- Plan for return
+
 ---
 # Child and Adolescent Psychiatry <!-- tag:child-psych -->
 
+## Emergency <!-- status:incomplete -->
+```
+Examples Qs:
+- Auckland 2018 Paper 1 MEQ 3.4
+```
+
+## School Observation
+
+### Aims
+
+- Interactions
+  - Peers
+  - Teachers and staff
+  - Classroom vs playground
+- Diagnostic features
+  - Features of ADHD
+  - Features of ASD
+- Compatability
+  - Teaching style and supports
+
 ## Tourette's Disease <!-- tag:tourettes;status:incomplete -->
+
+### Management
+<!-- Not complete -->
+
+- Pharmacotherapy
+  - (1) Commence clonidine 50mcg once daily
+  - (2) Trial aripiprazole, risperidone or haloperidol
+- Psychosocial
+  - Cognitive behavioural interventions for tics with **habit reversal training**
+  - CBT with **exposure-response prevention**
 
 ## School Refusal
 
@@ -262,6 +371,40 @@ Examples Qs:
   - Better outcomes for younger children and those with higher baseline of school attendance
 
 
+## Foetal Alcohol Spectrum Disorder <!-- tag:fasd -->
+
+### Features
+
+- Physical
+  - Short palpebral fissure
+  - Short stature
+  - Smooth philtrum
+- Behavioural
+  - Mental retardation
+  - Learning disabilities, speech and language delays
+  - Attention deficit, hyperactivity
+  - Conduct problems, social processing difficulties
+  - Irritability
+  - Impulsivity: executive functioning
+
+## Children of Parents with Mental Illness
+
+### Approach
+
+- Therapeutic alliance
+- Risk assessment
+  - Explore impact of parent's mental illness on children directly
+  - Explore mental health of children subsequently and level of coping
+- Collateral
+  - Children: concerns and fears
+  - School: attendance, self-care, behaviour and distress
+  - GP / family
+- Management
+  - Practical attempts at problem-solving to minimise impact
+  - Notify child protection services
+  - Referral to C&A and COPMI services
+
+
 ## Autism Spectrum Disorder
 
 ### Overview
@@ -270,9 +413,6 @@ Examples Qs:
 - **Age of onset**: typically prior to 3, however can become apparent later
 
 ### Assessment
-
-
-
 
 - Principles
   - Individual- and family- centred approach
@@ -307,17 +447,40 @@ Examples Qs:
   - Vision and hearing
   - Biological investigations as required eg. chromosomal microarray
 
-## Management of Tourette's Disease
-<!-- Not complete -->
+### Psychometrics
 
-- Pharmacotherapy
-  - (1) Commence clonidine 50mcg once daily
-  - (2) Trial aripiprazole, risperidone or haloperidol
-- Psychosocial
-  - Cognitive behavioural interventions for tics with **habit reversal training**
-  - CBT with **exposure-response prevention**
+- ADOS or CAARS for ASD
+- Cognitive testing
+- Exclusion of ADHD
+  - Conner's Parent Rating Scale
+
+## Attention Deficit Hyperactivity Disorder
+
+### Management
+
+- Non-pharmacological
+  - Optimise sleep, diet and exercise
+  - Consistent behavioural management
+  - Reduce stimuli, keep him at the front of the class
+  - Confirming attention before addressing him
+  - Simplifying communication to him
 
 # Consultation-Liaison Psychiatry
+
+## Capacity
+
+### Assessment
+
+- Four elements
+  - Understanding the situation
+  - Retainment and appreciating the situation: include cognitive screen
+  - Rationalising their choice: include MSE
+  - Communication of their choice
+- MSE and cognitive screen
+
+### Improving Capacity
+
+- Optimise health and ability to manage
 
 ## Cognition Testing
 
@@ -476,10 +639,23 @@ Examples Qs:
 
 `Example Qs: Auckland 2017 Paper 1 MEQ 2.2`
 
-- 
+
+
+## Issues with Sharing Information <!-- status:incomplete -->
 
 
 # Psychogeriatrics <!-- tag:psychogeriatrics -->
+
+## Risk Assessment
+- Self to self
+  - Physical health including neglect, medical compromise due to medication non-compliance
+  - Physical injury from environment incl. hoarding and fire risk
+  - Misadventure incl. forgetfulness, wandering
+- Others to self
+  - Vulnerability: financial
+  - Eviction
+- Self to others
+  - Aggression
 
 ## Delirium
 
@@ -515,12 +691,27 @@ Examples Qs:
 ## Principles in Prescribing <!-- status:incomplete -->
 
 - Consider preconception, perinatal and breastfeeding stages
-- Family psychoeducation
+- Psychoeducation, including **family**
+  - Risks: avoid in first trimester
+- Medication choice: prior history, prior response
 - Liaison
   - Perinatal mental health services
   - Obstetrics: antenatal services
+- Follow-up regarding titration
 
 ## Antidepressant Usage <!-- status:incomplete -->
+
+- Choice
+  - Sertraline: least placental exposure
+  - Avoid paroxetine (cardiac malformations) and fluoxetine (breastmilk)
+- Risk to foetus
+  - Prematurity, lower birthweight
+  - Persistent pulmonary hypertension
+  - Cardiac abnormalities (first trimester)
+  - Delayed neonatal adaptation
+- Risk to mother
+  - Postpartum haemorrhage
+  - Pre-eclampsia incl. HTN
 
 ## Antipsychotic Usage <!-- status:incomplete -->
 
@@ -539,7 +730,27 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
 - Maximising sleep post-birth: expressing milk, sedatives
 
 
+## Postpartum Depression
+
+### Management
+
+- Bio
+  - SSRI: sertraline
+  - Optimise sleep, diet, exercise
+- Psycho
+  - Mother-infant therapy
+  - Maternal focused CBT or IPT
+- Social
+  - Consider DCJ if required
+  - Family/friend support
+  - Respite
+  - Stabilise finances, accommodation
+  - Referral to parenting support agency
 
 
 ---
 # Managing Normal Medications in <!-- status:incomplete -->
+
+# MEQ Governance Questions
+
+- 2018 Akland 3.2. Answer is kinda shit.
