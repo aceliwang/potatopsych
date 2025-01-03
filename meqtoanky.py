@@ -74,7 +74,7 @@ class Heading:
 
 
 # open file
-with open("meqankitesting.md") as file:
+with open("meqanki.md") as file:
     content = file.readlines()
 
 # manipulate file

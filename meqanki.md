@@ -25,13 +25,13 @@
 
 # General Psychiatry <!-- tag:general-psych;status:incomplete -->
 
-## Acute Behavioural Disturbance <!-- tag:sedation -->
+## Acute Behavioural Disturbance <!-- tag:behaviouralmx -->
 
 ### Child and Adolescent <!-- status:incomplete -->
 
 ### Adult <!-- status:incomplete -->
 
-### Older People
+### Older People 
 
 - Exclude delirium and BPSD: treat underlying cause
 - Orals
@@ -59,7 +59,7 @@
 ### Violence
 - Tool: HCR-20
 
-## Emergencies
+## Emergencies <!-- tag:emergencies -->
 
 ### Neuroleptic Malignant Syndrome <!-- tag:nms -->
 
@@ -79,11 +79,11 @@
 - Medical emergency
 - Escalation 
 
-### MAOI and Hypertensive Crisis <!-- tag:hypertensive-crisis -->
+### MAOI and Hypertensive Crisis <!-- tag:hypertensive-crisis;status:incomplete -->
 
-### Lithium Toxicity <!-- tag:lithium-toxicity -->
+### Lithium Toxicity <!-- tag:lithium-toxicity;status:incomplete -->
 
-## Catatonia
+## Catatonia <!-- tag:catatonia -->
 
 ### Assessment
 
@@ -153,15 +153,15 @@ Example Qs:
 - SNRI
   - Desvenlafaxine: 200mg (normal 200mg)
   - Duloxetine: 180mg (normal 120mg)
-  - Venlafaxine: 300mg (normal 225mg
+  - Venlafaxine: 300mg (normal 225mg)
 - Clomipramine: 300mg
 
-## Acute Situational Crisis
+## Acute Situational Crisis <!-- status:incomplete -->
 
 
-## ECT
+## ECT <!-- tag:ect -->
 
-### Memory Issues
+### Memory Issues <!-- status:incomplete -->
 
 ```
 Example Qs:
@@ -171,9 +171,19 @@ Example Qs:
 ---
 # Child and Adolescent Psychiatry <!-- tag:child-psych -->
 
-## Tourette's Disease <!-- tag:tourettes;status:incomplete -->
+## Tourette's Disease <!-- tag:tourettes -->
 
-## School Refusal
+### Management
+
+- Pharmacotherapy
+  - (1) Commence clonidine 50mcg once daily
+  - (2) Trial aripiprazole, risperidone or haloperidol
+- Psychosocial
+  - Cognitive behavioural interventions for tics with **habit reversal training**
+  - CBT with **exposure-response prevention**
+
+
+## School Refusal <!-- tag:school-refusal -->
 
 ```
 Examples Qs:
@@ -262,18 +272,13 @@ Examples Qs:
   - Better outcomes for younger children and those with higher baseline of school attendance
 
 
-## Autism Spectrum Disorder
+## Autism Spectrum Disorder <!-- tag:asd -->
 
-### Overview
-<!-- Type: cloze -->
+### Overview <!-- status:incomplete -->
 - **Definition**: group of neurodevelopmental disorders characterised by *social defiicts* and *repetitive behaviours*
 - **Age of onset**: typically prior to 3, however can become apparent later
 
 ### Assessment
-
-
-
-
 - Principles
   - Individual- and family- centred approach
   - Holistic approach including personal, activity and environmental contexts
@@ -307,22 +312,12 @@ Examples Qs:
   - Vision and hearing
   - Biological investigations as required eg. chromosomal microarray
 
-## Management of Tourette's Disease
-<!-- Not complete -->
 
-- Pharmacotherapy
-  - (1) Commence clonidine 50mcg once daily
-  - (2) Trial aripiprazole, risperidone or haloperidol
-- Psychosocial
-  - Cognitive behavioural interventions for tics with **habit reversal training**
-  - CBT with **exposure-response prevention**
+# Consultation-Liaison Psychiatry <!-- tag:cl-psych -->
 
-# Consultation-Liaison Psychiatry
-
-## Cognition Testing
+## Cognition Testing <!-- tag:cognition -->
 
 ### Frontal Lobe
-<!-- Type: cloze -->
 
 - **Screens for**: frontotemporal dementia, frontal lobe dysfunction associated with SCZ, executive dysfunction in Parkinson's or substance dependence
 - **Distinguishes between**: frontotemporal dementia vs Alzheimer's
@@ -373,17 +368,16 @@ Examples Qs:
   - Left-right disorientation
 
 
-## Psychopharmacology in Medical Comorbidities
+## Psychopharmacology in Medical Comorbidities <!-- tag:psychopharm -->
 
-### Cardiac Disease
+### Cardiac Disease <!-- status:incomplete -->
 
 - Considerations: psychotropics can affect heart rate, blood pressure, QTc, increase arrhythmias
 
 
-### Atrial Fibrillation
+### Atrial Fibrillation <!-- status:incomplete -->
 
-### HIV
-<!-- Incomplete -->
+### HIV <!-- status:incomplete -->
 
 - Considerations
   - Drug interactions with antiretrovirals
@@ -399,10 +393,7 @@ Examples Qs:
 - Antidepressant choice: escitalopram, citalopram ∵ lower risk of drug interactions, however monitor QTc
 - Mood-stabiliser choice: 
 
-
-
-
-# Addiction Psychiatry <!-- tag:addiction -->
+# Addiction Psychiatry <!-- tag:addiction-psych -->
 
 ## General Structure
 
@@ -410,7 +401,7 @@ Examples Qs:
 - Rehabilitation
 - Relapse prevention
 
-## Alcohol Use Disorder <!-- tag:alcohol-use-disorder -->
+## Alcohol Use Disorder <!-- tag:alcohol -->
 
 ### Management of Alcohol Withdrawal
 
@@ -456,7 +447,7 @@ Examples Qs:
 [Quick Reference Guide to the Treatment of Alcohol Problems](https://www.health.gov.au/sites/default/files/quick-reference-guide-to-the-treatment-of-alcohol-problems.pdf)
 
 ---
-# Forensic Psychiatry <!-- tag:forensic -->
+# Forensic Psychiatry <!-- tag:forensic-psych -->
 
 ## Paraphilias <!-- tag:paraphilias -->
 
@@ -481,7 +472,7 @@ Examples Qs:
 
 # Psychogeriatrics <!-- tag:psychogeriatrics -->
 
-## Delirium
+## Delirium <!-- tag:delirium -->
 
 ### Approach to Delirium in OPMH Ward
 
@@ -501,14 +492,14 @@ Examples Qs:
     - Consult geriatrician or physician
     - Setting: geriatric vs adult acute vs OPMH ward
 
-## Very-Late Onset Schizophrenia-Like Psychosis
+## Very-Late Onset Schizophrenia-Like Psychosis <!-- tag:vloslp -->
 
 ### Overview <!-- status:incomplete -->
 - **Definition**: onset after 60 or 65
 
 
 
-# Perinatal Psychiatry <!-- tag:perinatal -->
+# Perinatal Psychiatry <!-- tag:perinatal-psych -->
 
 ## Postpartum Psychosis <!-- status:incomplete -->
 
