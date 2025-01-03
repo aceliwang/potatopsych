@@ -25,7 +25,7 @@
 
 # General Psychiatry <!-- tag:general-psych;status:incomplete -->
 
-## Diagnostic Hierarchy
+## Diagnostic Hierarchy <!-- tag:meq-structure -->
 
 - Organic
 - Substance-induced
@@ -38,7 +38,7 @@
   - Cognitive impairment
   - Lack of social supports
 
-## Management Approach
+## Management Approach <!-- tag:meq-structure -->
 
 - **Therapeutic alliance**
 - **Psychoeducation**
@@ -47,13 +47,13 @@
 - Involvement of family
 - Follow-up, referrals
 
-## Acute Behavioural Disturbance <!-- tag:sedation -->
+## Acute Behavioural Disturbance <!-- tag:behaviouralmx -->
 
 ### Child and Adolescent <!-- status:incomplete -->
 
 ### Adult <!-- status:incomplete -->
 
-### Older People
+### Older People 
 
 - Exclude delirium and BPSD: treat underlying cause
 - Orals
@@ -68,9 +68,9 @@
 
 ## Psychiatric Conditions
 
-### Post-manic Depression
+### Post-manic Depression <!-- tag:depression;status:incomplete -->
 
-## Cultural Assessment
+## Cultural Assessment <!-- tag:cultural -->
 
 ### Considerations of an Interpreter <!-- tag:interpreter -->
 
@@ -82,9 +82,7 @@
   - Delayed assessments
   - Interpreter bias or inaccuracies
 
-
-
-## Risk Assessment
+## Risk Assessment <!-- tag:risk -->
 
 ### Overview
 - Structured professional judgement tools
@@ -92,10 +90,10 @@
 - Consider static and dynamic risk factors
 - Consider acute and long-term risk
 
-### Violence
+### Violence <!-- tag:violence-risk -->
 - Tool: HCR-20
 
-## Emergencies
+## Emergencies <!-- tag:emergencies -->
 
 ### Neuroleptic Malignant Syndrome <!-- tag:nms -->
 
@@ -115,11 +113,11 @@
 - Medical emergency
 - Escalation 
 
-### MAOI and Hypertensive Crisis <!-- tag:hypertensive-crisis -->
+### MAOI and Hypertensive Crisis <!-- tag:hypertensive-crisis;status:incomplete -->
 
-### Lithium Toxicity <!-- tag:lithium-toxicity -->
+### Lithium Toxicity <!-- tag:lithium-toxicity;status:incomplete -->
 
-## Catatonia
+## Catatonia <!-- tag:catatonia -->
 
 ### Assessment
 
@@ -204,29 +202,29 @@ Example Qs:
   - Venlafaxine: 300mg (normal 225mg)
 - Clomipramine: 300mg
 
-## Acute Situational Crisis
+## Acute Situational Crisis <!-- status:incomplete -->
 
 
-## ECT
+## ECT <!-- tag:ect -->
 
-### Memory Issues
+### Memory Issues <!-- status:incomplete -->
 
 ```
 Example Qs:
 - Auckland 2013 Paper 1 MEQ 6.3
 ```
 
-## Stimulant Therapy
+## Stimulant Therapy <!-- tag:stimulants -->
 
 - Cons
   - Potential appetite restriction leading to growth retardation
-  - Insomnia secondary to stimulatns
+  - Insomnia secondary to stimulants
   - Potential for abuse and diversion
   - Risk of psychosis and manic relapse
 
-## MEQ Geared
+## MEQ Geared <!-- tag:meq -->
 
-### Borderline Admissions Risk Aspects
+### Borderline Admissions Risk Aspects <!-- tag:bpd -->
 
 - Patient factors
   - Dynamic
@@ -239,7 +237,7 @@ Example Qs:
   - Modifying immediate vs short-term vs long-term risk
   - Counter-transference from staff
 
-## Absconded Patient Management
+## Absconded Patient Management <!-- tag:awol -->
 
 - Attempt to locate: call patient, security can search grounds
 - Consider legal framework
@@ -256,7 +254,7 @@ Examples Qs:
 - Auckland 2018 Paper 1 MEQ 3.4
 ```
 
-## School Observation
+## School Observation <!-- status:child-assessment -->
 
 ### Aims
 
@@ -270,10 +268,9 @@ Examples Qs:
 - Compatability
   - Teaching style and supports
 
-## Tourette's Disease <!-- tag:tourettes;status:incomplete -->
+## Tourette's Disease <!-- tag:tourettes -->
 
 ### Management
-<!-- Not complete -->
 
 - Pharmacotherapy
   - (1) Commence clonidine 50mcg once daily
@@ -282,7 +279,8 @@ Examples Qs:
   - Cognitive behavioural interventions for tics with **habit reversal training**
   - CBT with **exposure-response prevention**
 
-## School Refusal
+
+## School Refusal <!-- tag:school-refusal -->
 
 ```
 Examples Qs:
@@ -370,7 +368,6 @@ Examples Qs:
 - Prognostic factors
   - Better outcomes for younger children and those with higher baseline of school attendance
 
-
 ## Foetal Alcohol Spectrum Disorder <!-- tag:fasd -->
 
 ### Features
@@ -387,7 +384,7 @@ Examples Qs:
   - Irritability
   - Impulsivity: executive functioning
 
-## Children of Parents with Mental Illness
+## Children of Parents with Mental Illness <!-- tag:copmi -->
 
 ### Approach
 
@@ -404,16 +401,13 @@ Examples Qs:
   - Notify child protection services
   - Referral to C&A and COPMI services
 
+## Autism Spectrum Disorder <!-- tag:asd -->
 
-## Autism Spectrum Disorder
-
-### Overview
-<!-- Type: cloze -->
+### Overview <!-- status:incomplete -->
 - **Definition**: group of neurodevelopmental disorders characterised by *social defiicts* and *repetitive behaviours*
 - **Age of onset**: typically prior to 3, however can become apparent later
 
 ### Assessment
-
 - Principles
   - Individual- and family- centred approach
   - Holistic approach including personal, activity and environmental contexts
@@ -454,7 +448,7 @@ Examples Qs:
 - Exclusion of ADHD
   - Conner's Parent Rating Scale
 
-## Attention Deficit Hyperactivity Disorder
+## Attention Deficit Hyperactivity Disorder <!-- tag:adhd -->
 
 ### Management
 
@@ -465,9 +459,10 @@ Examples Qs:
   - Confirming attention before addressing him
   - Simplifying communication to him
 
-# Consultation-Liaison Psychiatry
 
-## Capacity
+# Consultation-Liaison Psychiatry <!-- tag:cl-psych -->
+
+## Capacity <!-- tag:capacity -->
 
 ### Assessment
 
@@ -478,14 +473,13 @@ Examples Qs:
   - Communication of their choice
 - MSE and cognitive screen
 
-### Improving Capacity
+### Management
 
 - Optimise health and ability to manage
 
-## Cognition Testing
+## Cognition Testing <!-- tag:cognition -->
 
 ### Frontal Lobe
-<!-- Type: cloze -->
 
 - **Screens for**: frontotemporal dementia, frontal lobe dysfunction associated with SCZ, executive dysfunction in Parkinson's or substance dependence
 - **Distinguishes between**: frontotemporal dementia vs Alzheimer's
@@ -536,17 +530,16 @@ Examples Qs:
   - Left-right disorientation
 
 
-## Psychopharmacology in Medical Comorbidities
+## Psychopharmacology in Medical Comorbidities <!-- tag:psychopharm -->
 
-### Cardiac Disease
+### Cardiac Disease <!-- status:incomplete -->
 
 - Considerations: psychotropics can affect heart rate, blood pressure, QTc, increase arrhythmias
 
 
-### Atrial Fibrillation
+### Atrial Fibrillation <!-- status:incomplete -->
 
-### HIV
-<!-- Incomplete -->
+### HIV <!-- status:incomplete -->
 
 - Considerations
   - Drug interactions with antiretrovirals
@@ -562,10 +555,7 @@ Examples Qs:
 - Antidepressant choice: escitalopram, citalopram ∵ lower risk of drug interactions, however monitor QTc
 - Mood-stabiliser choice: 
 
-
-
-
-# Addiction Psychiatry <!-- tag:addiction -->
+# Addiction Psychiatry <!-- tag:addiction-psych -->
 
 ## General Structure
 
@@ -573,7 +563,7 @@ Examples Qs:
 - Rehabilitation
 - Relapse prevention
 
-## Alcohol Use Disorder <!-- tag:alcohol-use-disorder -->
+## Alcohol Use Disorder <!-- tag:alcohol -->
 
 ### Management of Alcohol Withdrawal
 
@@ -619,7 +609,7 @@ Examples Qs:
 [Quick Reference Guide to the Treatment of Alcohol Problems](https://www.health.gov.au/sites/default/files/quick-reference-guide-to-the-treatment-of-alcohol-problems.pdf)
 
 ---
-# Forensic Psychiatry <!-- tag:forensic -->
+# Forensic Psychiatry <!-- tag:forensic-psych -->
 
 ## Paraphilias <!-- tag:paraphilias -->
 
@@ -640,13 +630,12 @@ Examples Qs:
 `Example Qs: Auckland 2017 Paper 1 MEQ 2.2`
 
 
-
 ## Issues with Sharing Information <!-- status:incomplete -->
 
 
 # Psychogeriatrics <!-- tag:psychogeriatrics -->
 
-## Risk Assessment
+## Risk Assessment <!-- tag:risk -->
 - Self to self
   - Physical health including neglect, medical compromise due to medication non-compliance
   - Physical injury from environment incl. hoarding and fire risk
@@ -657,7 +646,8 @@ Examples Qs:
 - Self to others
   - Aggression
 
-## Delirium
+
+## Delirium <!-- tag:delirium -->
 
 ### Approach to Delirium in OPMH Ward
 
@@ -677,14 +667,14 @@ Examples Qs:
     - Consult geriatrician or physician
     - Setting: geriatric vs adult acute vs OPMH ward
 
-## Very-Late Onset Schizophrenia-Like Psychosis
+## Very-Late Onset Schizophrenia-Like Psychosis <!-- tag:vloslp -->
 
 ### Overview <!-- status:incomplete -->
 - **Definition**: onset after 60 or 65
 
 
 
-# Perinatal Psychiatry <!-- tag:perinatal -->
+# Perinatal Psychiatry <!-- tag:perinatal-psych -->
 
 ## Postpartum Psychosis <!-- status:incomplete -->
 
@@ -699,7 +689,7 @@ Examples Qs:
   - Obstetrics: antenatal services
 - Follow-up regarding titration
 
-## Antidepressant Usage <!-- status:incomplete -->
+## Antidepressant Usage
 
 - Choice
   - Sertraline: least placental exposure
@@ -729,8 +719,7 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
 - Provision of supports
 - Maximising sleep post-birth: expressing milk, sedatives
 
-
-## Postpartum Depression
+## Postpartum Depression <!-- tag:postpartum-depression -->
 
 ### Management
 
@@ -748,9 +737,10 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
   - Referral to parenting support agency
 
 
+
 ---
 # Managing Normal Medications in <!-- status:incomplete -->
 
-# MEQ Governance Questions
+# MEQ Governance Questions <!-- status:incomplete -->
 
 - 2018 Akland 3.2. Answer is kinda shit.
