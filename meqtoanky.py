@@ -144,7 +144,7 @@ for card in card_list:
 for heading in headings_list:
     old_content[heading.line] = heading.new_heading()
 
-with open("meqankitesting.md", "w") as file:
+with open("meqanki.md", "w") as file:
     for line in old_content:
         file.write(line)
         file.write("\n")
