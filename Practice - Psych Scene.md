@@ -90,3 +90,7 @@ John has been reluctantly seeing you monthly. He tells you that the work environ
 John's mental state deteriorates over the next few months. You admit him to a private hospital. 6 days into the admission you receive a phone call from the ward stating that John has committed suicide. 
 
 > Outline how you would proceed
+
+- Assessment
+  - Gather information regarding suicide, discuss with managing consultant
+  - Discuss with 
