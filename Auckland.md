@@ -96,4 +96,56 @@
 - Other distraction techniques including art therapy
 - Engaging him with stuff that he wants to do
 - De-escalation management
-- 
+
+# 2022 Auckland
+
+## 1.1 (8)
+
+- Reason for ingestion of tablets. Assess for suicidal intent, wanting to sleep
+- Reason for lack of engagement
+- Screen for depressive illness (2)
+- Screen for features of grief and/or adjustment disorder (2)
+- Risk assessment
+  - Thoughts of self-harm
+  - Thoughts of aggression towards others
+- Features of delirium
+- Features of dementia
+- Capacity assessment
+- Cognitive screen re dementia (1)
+- Psychosocial assessment
+- Past psychiatric Hx (1)
+- Current medical status (1)
+- Current mental status
+
+## 1.2 (3)
+- Hypoactive delirium: coming off surgery, possible SIADH or other issues
+- Adjustment disorder regarding newfound disability
+- Psychological symptoms of dementia
+- Alcohol withdrawal leading to minimal engagement
+- Fatigue from organic reasons eg. hypothyroidism, deconditioning
+- Personality factors
+
+## 1.3 (6)
+- Biopsychosocial management
+- Biological
+  - Rehabilitation of leg and whether able to be transferred to a mental health unit (1)
+  - Commencement of antidepressant medications depending on previous trials (1)
+    - Noting melancholic depression benefiting from TCA use, utilise nortriptyline
+  - Current eating and drinking status, concern of catatonia
+  - Clarify psychosis whether beliefs he cannot walk again are fixed 
+  - If so, consider antipsychotic augmentation or even ECT depending on severity (2)
+- Psychological (1)
+  - Therapeutic alliance
+  - Psychoeducation
+  - Grief counselling
+  - CBT, distraction
+- Social
+  - Refer to RACF
+- Missing
+  - Risk management
+
+## 1.4 (6)
+- Advocate for patient in regards to ongoing care
+- Consider transfer to mental health unit to optimise depression to facilitate rehabilitation
+- Consider more aggressive titration of antidepressant as required +/- ECT
+- Engage with family or supports as required
