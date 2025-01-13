@@ -11,7 +11,7 @@ class Card:
         self.id = id
 
     def __str__(self):
-        return f"{self.id}|{"<br>".join(self.front).replace("#", "\#")}|{"<br>".join(self.back)}|{" ".join(self.tags)}"
+        return f'{self.id}|{"<br>".join(self.front).replace("#", "\#")}|{"<br>".join(self.back)}|{" ".join(self.tags)}'
     
 class Heading:
     def __init__(self, level, line, content, comments=False):
