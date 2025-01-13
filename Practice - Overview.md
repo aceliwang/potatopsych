@@ -52,3 +52,4 @@ DONE
 - Auckland 2013 to 2017 MEQ 1
 
 - Consider revision: Auckland 2019 is a bit weird
+- ADHD question in 2020 Question 5 Auckland

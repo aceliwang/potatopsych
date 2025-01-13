@@ -41,12 +41,21 @@
   - Diazepam 2.5-5mg PO q30mins (max 30mg)
   - Preference for lorazepam over diazepam due to shorter action and less metabolites
   - Olanzapine 5-10mg (max 10mg)
-  - Risperidone 0.5-1mg (max 2mg)
+  - Risperidone 0.5-1mg q30 mins (max 4mg)
   - Preference for benzodiazepines as sedatives due to lower dosages required and safer adverse effects compared to antipsychotics
-- IMs
+- IMs: should be discussed with consultant \
   - Olanzapine 2.5mg IM (max 7.5mg)
 ## Psychiatric Conditions <!-- tag:psychiatric-conditions;id:6bdcf87c-5522-446d-916b-89dffe4e3f07 -->
+### Schizophrenia <!-- tag:schizophrenia;status:incomplete -->
+
+### Early Intervention <!-- tag:uhr-psychosis;status:incomplete -->
+- Psychometrics: CAARMS (Comprehensive Assessment of the At Risk Mental State)
 ### Post-manic Depression <!-- tag:depression;id:72069cf1-f566-4124-bf00-6a289e6bf2d0;status:incomplete -->
+### Gender Dysphoria <!-- tag:gender;status:incomplete -->
+```
+Examples Qs: Auckland 2023 Q5
+```
+
 ## Cultural Assessment <!-- tag:cultural;id:1aa55aa3-ea27-438a-a6a1-0b9766659f4b -->
 ### Considerations of an Interpreter <!-- tag:interpreter;id:bbab25b7-e4e1-4c97-bb29-b43cb1a9b54c -->
 - Ethics
@@ -110,7 +119,7 @@
 - Supportive management
   - DVT prophylaxis
 ## Eating Disorders <!-- tag:eating-disorders;id:d76e37f5-13ff-484a-8c05-169902e7e42d -->
-### Assessment <!-- id:841de83f-f745-4e6c-8940-7ba7813ceba8 -->
+### Assessment <!-- id:3a4b281b-324d-457b-8eb0-c282ada2920e -->
 - Include for assessment
   - Capacity
   - Cognition
@@ -146,7 +155,7 @@
 - Ix: bloods, ECG
 - Psychiatric risks
 ```
-### Refeeding Syndrome Management <!-- tag:refeeding;id:29a797a8-4832-46bc-9bca-3e6dde5a7035 -->
+### Refeeding Syndrome Management <!-- tag:refeeding;id:6ca98ef6-eb2f-4b4c-a051-aa98b7bae8cc -->
 - Approach:
 	- ↑ index of suspicion → early Ax/recognition → regular r/v
 	- MDT w/ dietitian
@@ -215,9 +224,33 @@ Example Qs:
   - Duloxetine: 180mg (normal 120mg)
   - Venlafaxine: 300mg (normal 225mg)
 - Clomipramine: 300mg
+## Personality Disorders
+### Antisocial Personality Disorder
+#### DSM Criteria
+- CORRUPT 3+
+  - Cannot follow law
+  - Obligations ignored
+  - Remorselessness
+  - Reckless disregard for safety
+  - Underhanded (deceitful)
+  - Planning deficit (impulsive)
+  - Temper (irritable, aggressive)
+### Borderline Personality Disorder
+#### DSM Criteria
+- IMPULSIVE 5+
+  - Impulsive
+  - Moody
+  - Paranoid under stress
+  - Unstable self-image
+  - Labile and intense relationships
+  - Suicidal
+  - Inappropriate anger
+  - Vulnerable to abandonment
+  - Emptiness
+### Narcisstic 
 ## Acute Situational Crisis <!-- id:b8895b85-1cdd-4d76-944f-41997c81d05a;status:incomplete -->
 ## ECT <!-- tag:ect;id:086d7b53-278d-4f57-9109-97989e760b39 -->
-### Consenting <!-- id:f95b5275-4348-4d5b-91a5-794d132ae7a4 -->
+### Consenting <!-- id:d715ab9c-a9b6-48b9-9787-d088e6494e38 -->
 - Approach:
 	- All documented
 	- Components stipulated by e.g. NSW MHA:
@@ -273,7 +306,7 @@ Example Qs:
 - Contact emergency services or CoMHET
 - Notify family
 - Plan for return
-## Recovery Plan <!-- id:1394f98a-1390-46f9-a3d6-208c8f6e096a -->
+## Recovery Plan <!-- id:b4bfd03e-8ae5-4916-96de-9d857480d0f7 -->
 - Approach:
 	- Written (lay English)
 	- Collab: Pt, family, carers, MDT
@@ -288,7 +321,7 @@ Example Qs:
 	- Planned f/u
 ---
 # Child and Adolescent Psychiatry <!-- tag:child-psych;id:f72848c4-ce69-4808-93e1-9de260aab5f4 -->
-## Approach <!-- id:194f04aa-65b9-40af-83fa-37888b925ced -->
+## Approach <!-- id:44098b0f-c2aa-4bc9-96d9-75778f675f6a -->
 - Ax:
 	- Separate & together → consider effects, confidentiality
 	- Hx: dev/neurodev Sx, trauma, attachment social context (family, school, peers)
@@ -474,6 +507,27 @@ Examples Qs:
 - Exclusion of ADHD
   - Conner's Parent Rating Scale
 ## Attention Deficit Hyperactivity Disorder <!-- tag:adhd;id:bfe4e10f-5ad6-4aaf-bc5a-78a32a66c197 -->
+### DSM Criteria <!-- id:d3a7320e-9431-44bf-82e9-1ac5ab29270c -->
+- Inattention: CALL FOR FRED
+  - Careless mistakes
+  - Attention difficulty
+  - Listening problems
+  - Loses things
+  - Fails to finish what they are doing
+  - Organisational skills lacking
+  - Reluctance to do tasks that need sustained mental effort
+  - Forgetful in Routine activities
+  - Easily Distracted
+- Hyperactivity: RUNS FASTT
+  - Runs or is restless
+  - Unable to wait his or her turn
+  - Not able to play quietly
+  - Slow? Not.
+  - Fidgets with hands or feet
+  - Answers blurted out
+  - Staying seated is difficult
+  - Talks excessively
+  - Tends to interrupt
 ### Management <!-- id:5c3928f2-62cf-44e3-9aef-987d779913a7 -->
 - Non-pharmacological
   - Optimise sleep, diet and exercise
@@ -482,7 +536,7 @@ Examples Qs:
   - Confirming attention before addressing him
   - Simplifying communication to him
 # Consultation-Liaison Psychiatry <!-- tag:cl-psych;id:a4e38604-73d2-4c2a-b78f-c23f6018fd42 -->
-## Assessment <!-- tag:assessment;id:81e4a73f-b5b9-47e6-aa69-90ff2f8e5e51 -->
+## Assessment <!-- tag:assessment;id:9e17b236-6844-427a-ba13-520745a52f57 -->
 - Clarify:
 	- ‘Context & nature of consultation request’
 	- ‘Team’s expectations of the psychiatrist’
@@ -524,7 +578,7 @@ Examples Qs:
 			- Logistical (e.g. staffing, bed Δ)
 			- Risk (e.g. call security)
 			- Personal (e.g. distress, trauma)
-### Management <!-- id:3aaa1343-c67b-4279-b85c-898a3a2e02ef -->
+### Management <!-- id:cef54ac2-da23-4882-9585-cb41367aaa2b -->
 - Clarify:
 	- ‘Context & nature of consultation request’
 	- ‘Team’s expectations of the psychiatrist’
@@ -624,7 +678,7 @@ Examples Qs:
 - Antipsychotic choice: aripiprazole, quetiapine ∵ lower risk of EPSE
 - Antidepressant choice: escitalopram, citalopram ∵ lower risk of drug interactions, however monitor QTc
 - Mood-stabiliser choice: 
-## Functional Neurological Disorder <!-- tag:fnd;id:9703dda8-6442-4068-8c88-7d593336f029 -->
+## Functional Neurological Disorder <!-- tag:fnd;id:cda21ce0-d911-40b1-a4d2-7975360c4a9f -->
 - Include for assesment
   - Clarify basis for FND
   - Physical exam/Ix → objective findings
@@ -667,15 +721,13 @@ Examples Qs:
   - Self-help programs eg. AA or Smart Recovery
   - Residential rehabilitation
     - 1-12 month programs requiring structured social supports
-```
-- Bio: naltrexone, acamprosate, disulfiram. Manage psychiatry comorbidity and physical complications.
-- Psycho: motivational interviewing, CBT
-- Social: self-help, residential rehab
-```
+> - Bio: naltrexone, acamprosate, disulfiram. Manage psychiatry comorbidity and physical complications.
+> - Psycho: motivational interviewing, CBT
+> - Social: self-help, residential rehab
 [Quick Reference Guide to the Treatment of Alcohol Problems](https://www.health.gov.au/sites/default/files/quick-reference-guide-to-the-treatment-of-alcohol-problems.pdf)
 ---
-## Nicotine Dependence <!-- tag:smoking;id:927cf211-8b35-4b70-84d7-b17467165aeb -->
-### Management <!-- id:2f2757bd-34d5-4f17-9ab0-4108bc4abd34 -->
+## Nicotine Dependence <!-- tag:smoking;id:f79e9083-f9a6-40fd-b4c6-65792e5d0e5d -->
+### Management <!-- id:65b435e0-e80c-48f7-a614-388ceba3db07 -->
 - Psychological
   - Counselling
   - Motivational interviewing
@@ -687,7 +739,7 @@ Examples Qs:
     - Buproprion: increased seizure risk
     - Nortriptyline: increased seizure risk, QTc prolongation
   - Modify psychotropics as required: clozapine, olanzapine, fluvoxamine
-## Prescribed Drug Abuse <!-- tag:substance-misuse;id:f2a2033a-c0c8-423c-869a-2afd57859afe -->
+## Prescribed Drug Abuse <!-- tag:substance-misuse;id:40d6d911-5929-48b6-859d-2ea9fbde0e3a -->
 - Ax:
 	- D&A Hx
 	- Harms (pt, collateral)
@@ -702,6 +754,18 @@ Examples Qs:
 - Prescriber factors: 
 	- ? unsafe Rx → ?isolation, pressure, boundary Mx.
 # Forensic Psychiatry <!-- tag:forensic-psych;id:d72bdcf2-7e92-4a1c-9c31-4cbf82e7f062 -->
+## Fitness to Stand Trial <!-- tag:presser;id:7b6e085e-872c-47ee-a6bc-bad594956cab -->
+- Discuss confidentiality and breach
+- Assess for mental impairment precluding standing trial
+  - Active mental illness eg. mood or psychosis
+  - Intellectual disability
+  - Medical illness incl. substance intoxication or withdrawal
+- Understanding of standing trial ie. Presser criteria
+  - Understands the roles of people in the court
+  - Understands the charges and the purpose of the court process
+  - Understands the meaning of his possible pleas
+  - Able to communicate with his lawyer
+- Consider cultural or language issues
 ## Paraphilias <!-- tag:paraphilias;id:4aba38b4-7aa6-444b-ba4f-5321c1da8b14 -->
 ### Assessment <!-- id:9850ecee-cd87-42b1-952d-1d880fcd0c9f;status:incomplete -->
 `Example Qs: Auckland 2017 Paper 1 MEQ 1.3`
@@ -722,7 +786,7 @@ Examples Qs:
 `Example Qs: Auckland 2017 Paper 1 MEQ 2.2`
 ## Issues with Sharing Information <!-- id:4b54f54a-069f-49e3-8d65-5f5b8e1f6a05;status:incomplete -->
 # Psychogeriatrics <!-- tag:psychogeriatrics;id:25203402-bdd1-4125-958b-5e7d39968ec9 -->
-## Behavioural and Psychological Symptoms of Dementia <!-- tag:bpsd;id:45a63956-97de-41d0-9a77-13af182bf6b4 -->
+## Behavioural and Psychological Symptoms of Dementia <!-- tag:bpsd;id:55a0f9b5-d257-40ac-b9ad-5259e65f6b51 -->
 - Include in assessment
   - Cognition, delirium
   - Risk: Medical, neglect/self-care, elder abuse
@@ -763,8 +827,36 @@ Examples Qs:
 ## Very-Late Onset Schizophrenia-Like Psychosis <!-- tag:vloslp;id:9bc751d7-06e4-4bc5-b7f0-25dc43746761 -->
 ### Overview <!-- id:913a5761-131e-442b-9bd5-0f1b31664845;status:incomplete -->
 - **Definition**: onset after 60 or 65
+## Hoarding Disorder <!-- tag:hoarding -->
+### Management <!-- status:incomplete -->
+- Social
+  - Forensic cleaning
+## Elder Abuse <!-- tag:elder-abuse -->
+### Approach
+> Examples Qs: NSW Mock 2023 6.3
+- Ax
+  - Capacity
+    - Understands that behaviour is abuse
+    - Consent regarding further management
+    - Consider Guardianship / Financial Management
+  - MDT approach
+    - Social work referral: financial situation, will, PoA, Guardianship
+    - OT referral: finances
+    - Neuropsychological: cognitive Ax
+- Mx
+  - Risk Ax: immediate physical safety
+  - Psychoeducation
+    - Discuss concerns with patient
+  - Social
+    - Recruit supports
+    - Referral to Elder Abuse Helpline, DV services, Seniors Right Services
+    - Guardianship / Financial Management
+  - Follow-up
+  - Referrals
+    - Social work: psychosocial assessment
+    - Police: if evidence of abuse
 # Perinatal Psychiatry <!-- tag:perinatal-psych;id:b1f6d8dd-e173-4ea9-b653-cf17a623705f -->
-## Approach <!-- id:3bdcd877-ab2b-4d95-84bf-04eebc41be1c -->
+## Approach <!-- id:a63e2dbe-f74e-456a-bb10-11d7466c405a -->
 - Ax:
 	- Verify pregnancy/contraception
 	- Involve partner/family
@@ -821,8 +913,8 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
 ---
 # Managing Normal Medications in <!-- id:6416b613-567e-4992-b082-ed67e3482d87;status:incomplete -->
 # MEQ Governance Questions <!-- id:988293e1-136f-4bd7-b7c5-7a8692be0d4a;status:incomplete -->
-# MEQ Templates <!-- tag:meq-specific;id:a34a0346-8ee7-425b-910a-3b262158ed48 -->
-## Assessment Template <!-- id:c60ffb2f-8f84-440f-87f2-23a497415d48 -->
+# MEQ Templates <!-- tag:meq-specific;id:90bbad9c-4abd-46df-bd49-018d45d7ad61 -->
+## Assessment Template <!-- id:c0539e38-fecb-4542-b866-31425753e2c7 -->
 - Preliminary (esp if increased marks, relevant content eg. ATSI, pregnant)
   - Establishing rapport
   - Clarify relevant details
@@ -864,7 +956,7 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
   - Family
   - Clinicians
   - +/- peer review
-## Differentials Template <!-- id:8b698d20-5f6f-44ce-83f8-e844ddd8fe77 -->
+## Differentials Template <!-- id:b210ad89-703c-4c30-ba65-13a8479df191 -->
 - Organic: can provide system issues with examples eg. "GI disorder"
 - Substance-induced
 - Psychotic
@@ -877,7 +969,7 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
 - Child: conduct/behavioural
 - ATSI/CALD: cultural explanation of symptoms
 - Non-pathological
-## Formulation Factors Template <!-- id:add8f779-4649-4a4e-93ea-2da7d933c26a -->
+## Formulation Factors Template <!-- id:28edc86c-c886-4b9e-b944-8045e2154d5d -->
 - Determined by domains, given with examples
 - Patient factors
   - **Personality style, resilience and coping strategies**
@@ -934,7 +1026,7 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
   - Transference/countertransference
   - Role as psychiatrist
   - Intersubjective factors and observer bias
-## Risk Factors Template <!-- id:47cff758-5f15-4c87-bd85-df84ff59c6ae -->
+## Risk Factors Template <!-- id:b48212b4-3f0f-4cb1-9168-084fa937b258 -->
 - Static
 - Dynamic
 - Include
@@ -943,7 +1035,7 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
     - Include even if in stem
     - If significantly missing, mention eg. weapons, agitation from SSRI
     - +/- absence of protective factors
-## Management Template <!-- id:2c0e2a6e-cf28-4c96-afcf-bb29f023bc35 -->
+## Management Template <!-- id:fa086336-3e31-44b1-baff-342729254818 -->
 - Preliminary
   - Establish therapeutic alliance and frame
   - 'Contain and validate"
@@ -981,7 +1073,7 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
 - +/- medicolegal: notifications, reporting, advice, "implications"
 - +/- governance: escalate to clinical director, infection control
 - +/- supervision: peer review
-## ED Management Template <!-- id:113bd96e-7387-417a-9375-fd85c8070cf0 -->
+## ED Management Template <!-- id:eafcce97-d9c9-4892-b1d3-5206316c4023 -->
 - Engagement
 	- **Establish therapeutic alliance & frame w/ pt & family**
 	- **Contain and validate**
@@ -1015,7 +1107,7 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
 - Other (e.g. new problem in updated stem):
 	- 'Assess possibility of' implied Dx (e.g. eating disorder)
 	- Refer to primary f/u of this (e.g. → dietitian)
-## Medication Mx Template <!-- id:c45c3fe7-4874-4350-a9a4-18a90c538309 -->
+## Medication Mx Template <!-- id:a96f12f3-888c-4ff3-8ecc-a9d46cac41a5 -->
 - Rx Hx in brief (see Ax Rx response/failure for detail):
 	- Which, duration, doses
 	- SEs
@@ -1042,7 +1134,7 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
 	- Medical (e.g. aperients vs. constipation)
 - Supportive:
 	- ‘Nutritional supplements’ (e.g. if ⨂ eating)
-## Psychological Mx Template <!-- id:5de6f4f6-9831-4518-bb92-594d12df71f1 -->
+## Psychological Mx Template <!-- id:9dd1bf5f-69c6-4271-a60c-94857448fad4 -->
 - Psychoed: To pt and family/carers
 	- Dx/Sx ‘in a way that has personal relevance’
 	- Name Tx modality & state evidence base
@@ -1057,7 +1149,7 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
 	- ‘Maximising quality of life’ → e.g. vocational/functional rehab
 	- ‘Identifying and encouraging realistic goals’
 	- ‘Learning to life with’ Dx
-## Mx Failure Template <!-- id:ae5646b1-18e2-4b8f-a1f2-3477ca84eab0 -->
+## Mx Failure Template <!-- id:6b351122-8609-4d29-9c71-7e43867f2182 -->
 - ‘Review diagnosis and formulation’:
 	- ‘Comprehensive’ Hx
 	- Collateral Hx (family, GP etc.)
@@ -1071,7 +1163,7 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
 	- ‘Consider pharmacogenomic testing’
 - Ax comorbidity & ‘ongoing psychosocial stressors’:
 	- List relevant DDx (several different categories)
-## Complicating Factors Template <!-- id:7fda4d5a-5d67-4583-b00c-3fe4546e5539 -->
+## Complicating Factors Template <!-- id:6f81adf4-b086-4dbd-a75b-26f2b813229c -->
 - How this Δ:
 	- Dx (vs. hierarchy): 
 		- ? 2nd opinion/peer r/v
@@ -1084,7 +1176,7 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
 	- ± medicolegal: 
 		- Statutory, regulatory, registration
 - → how these will Δ (can be ~generic e.g. try different psychotherapy)
-## Ethics Template <!-- id:4d79ffb1-6ae1-4139-959e-27b86bb9159c -->
+## Ethics Template <!-- id:0d90812d-4546-4260-9dc4-ee5ad7094a4c -->
 - Autonomy
 	- Consent
 	- Capacity
@@ -1094,12 +1186,12 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
 - Beneficence/non-maleficence
 - Risk/safety
 - Roles/responsibilities
-## Physical Symptoms <!-- id:69f30e2d-88f6-4c09-b1d3-2aa52271a992 -->
+## Physical Symptoms <!-- id:3e298ef7-dc49-45c1-a3a3-92b859b8b647 -->
 - Include
   - Exam
   - Ix (consider repeating if ℕ in stem e.g. MSU)
   - vs. specific illnesses
-## Cultural Factors and Approach <!-- id:4afaae65-d4ae-47c4-9c77-4dfb1d6a2b72 -->
+## Cultural Factors and Approach <!-- id:9f05a5ad-6b61-4796-88c0-eedd031c0dea -->
 - Communication/rapport: 
 	- Verbal/non-verbal
 	- Outsider status
@@ -1117,7 +1209,7 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
 	- Traditional healing
 	- Confidentiality/stigma within community (incl. vs 	staff/interpreters)
 - ± Interpreters below
-## Interpreter Considerations <!-- id:08e3ad6f-4c2d-4a21-8f87-4f66491f0385 -->
+## Interpreter Considerations <!-- id:d579289d-d285-4489-a4f8-27da7f69c5e7 -->
 - Pros:
 	- Communication:
 		- ↑ bilateral understanding of:
@@ -1149,7 +1241,7 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
 		- Inaccurate translation
 		- ‘Misinterpretation of cultural meaning’
 		- Perceived conflict of interest		
-## Refugee Assessment <!-- id:b5784712-4475-44c1-a982-2155d180901c -->
+## Refugee Assessment <!-- id:22fd1ded-ea93-4fef-90c8-4f933e71f682 -->
 - Ax: 
   - Interpreter
   - Country of origin, date of arrival
@@ -1162,7 +1254,7 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
   - Family fxn/social support
   - Physical (child → + dev)
   - F → sexual health, FGM, DV
-## Remote and Rural Psychiatry Considerations <!-- id:fe7b20a8-61c2-4740-a9e9-f5e99dbcab2c -->
+## Remote and Rural Psychiatry Considerations <!-- id:fdba532c-89f9-463c-807c-8b22371290f8 -->
 - Engagement/Ax:
 	- Role as outsider
 	- Stakeholders’ community roles
@@ -1174,8 +1266,8 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
 - Consider vs. small community:
 	- Stigma
 	- Confidentiality
-## Mediocolegal <!-- tag:medicolegal;id:76e61f15-7b79-4b7f-972c-5131a42cbe63 -->
-### Difficult Situations Approach <!-- id:cf62abc8-af6b-465a-a170-259fbc58f60b -->
+## Mediocolegal <!-- tag:medicolegal;id:cd56b6ed-dac3-4294-9220-ac76cdc1f18d -->
+### Difficult Situations Approach <!-- id:75edd0c1-6674-4ff7-936d-adb7693515a4 -->
 - Clarify: 
 	- Nature of involvement
 	- All Sx/Dx/Ix/Rx & current situation 
@@ -1207,7 +1299,7 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
 	- Principlism
 	- Resources/equity
 - Documentation
-### Managing Non-Medical Staff <!-- id:e28abfdb-421e-431f-b692-3f59c5070485 -->
+### Managing Non-Medical Staff <!-- id:346af65e-403a-4f8f-8621-de2b5ee91db1 -->
 - Clarify: 
 	- Their concerns
 	- Sx/Dx/Ix/Rx, current situation
@@ -1251,7 +1343,7 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
 	- Psychiatrist’s role vs. delegation
 - ± appropriate Ix: UDS, MSU, swabs, anthropometry.
 - ± Sx MI
-### Managing Registrar Calls <!-- tag:registrar;id:de3bc9a0-cfd8-4b10-8777-61019f1faeb0 -->
+### Managing Registrar Calls <!-- tag:registrar;id:9e949a28-3212-4d36-bcbb-3aca4c59d6d9 -->
 - Undifferentiated (ED) → full Ax & plan
 	- Expect: 
 		- Formulation (succinct summary, relevant findings, conclusions/reasoning, Mx 		options).
@@ -1287,7 +1379,7 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
 		- ‘Management to date’
 		- Relevant issues (e.g. anticipated contraindications)
 	- Capacity Ax
-### Managing Registrar Mistakes <!-- tag:registrar;id:82cc8785-3b59-4a40-a304-fac34fe56c42 -->
+### Managing Registrar Mistakes <!-- tag:registrar;id:fdc4da2d-01b7-4d35-9ad5-fc160757845a -->
 - NB: Stem should specify if you are supervisor → answer accordingly (e.g. if ⨂ → d/w supervisor)
 - Discuss:
 	- Arrange supervision
@@ -1308,7 +1400,7 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
 - Self: 
 	- Roles (clinician, supervisor, person)
 	- Self-care
-### Complaint Management <!-- id:18a5b81e-f9ea-47ff-923e-752503ba1fce -->
+### Complaint Management <!-- id:07306a67-07ef-40c1-a88a-052db2a181b4 -->
 - Managing complaint:
 	- Clarify details/specifics of complaint
 	- Pt care:
@@ -1388,7 +1480,7 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
 	- ‘Gain their perspective’
 	- Written response → offer to help write
 	- As above for reg problem/mistake (likely ⨂ e.g. coronial)
-### Bullying and Discrimination Approach <!-- id:8589079b-7720-49e5-9a72-66def4eb5f2a -->
+### Bullying and Discrimination Approach <!-- id:d5ff9c9e-321d-4ee6-bfc2-afb54df1e596 -->
 - Definitions: Legislation against these
 	- Bullying: ‘repeated & unreasonable behaviour’ → ‘risk to health & safety’.
 	- Discrimination: ‘less favourable’ treatment than another ‘on the basis of protected 	attributes’
@@ -1408,7 +1500,7 @@ Examples Qs: Auckland 2016 Paper 1 MEQ 5.4
 			- ↑ supervision
 		- Communication:
 			- Complainant & subject given info, rights, responsibilities, referral info
-### Report Writing <!-- id:bfaa43f5-1bb9-4b66-b82c-73fc879f476e -->
+### Report Writing <!-- id:9d1b16c5-46f6-40ec-8ec8-d98b7fc01476 -->
 - Clarify:
 	- Purpose of report & context
 	- Addressee
