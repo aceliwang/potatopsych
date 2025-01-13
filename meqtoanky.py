@@ -6,7 +6,7 @@ import uuid
 class Card:
     def __init__(self, id, front, back, tags=[]):
         self.front = front
-        self.back = [line.find("-")*"&nbsp;" + line for line in back]
+        self.back = [line.find("-")*4*"&nbsp;" + line.strip() for line in back]
         self.tags = tags
         self.id = id
 
