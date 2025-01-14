@@ -46,16 +46,14 @@
 - IMs: should be discussed with consultant \
   - Olanzapine 2.5mg IM (max 7.5mg)
 ## Psychiatric Conditions <!-- tag:psychiatric-conditions;id:6bdcf87c-5522-446d-916b-89dffe4e3f07 -->
-### Schizophrenia <!-- tag:schizophrenia;status:incomplete -->
-
-### Early Intervention <!-- tag:uhr-psychosis;status:incomplete -->
+### Schizophrenia <!-- tag:schizophrenia;id:7381c1dd-dc5c-4c4b-8603-f241e7100475;status:incomplete -->
+### Early Intervention <!-- tag:uhr-psychosis;id:943b817a-baee-4e7a-aa17-4bae368dd513;status:incomplete -->
 - Psychometrics: CAARMS (Comprehensive Assessment of the At Risk Mental State)
 ### Post-manic Depression <!-- tag:depression;id:72069cf1-f566-4124-bf00-6a289e6bf2d0;status:incomplete -->
-### Gender Dysphoria <!-- tag:gender;status:incomplete -->
+### Gender Dysphoria <!-- tag:gender;id:d8fdea65-7d26-4676-95e8-e3ac3c0f8d23;status:incomplete -->
 ```
 Examples Qs: Auckland 2023 Q5
 ```
-
 ## Cultural Assessment <!-- tag:cultural;id:1aa55aa3-ea27-438a-a6a1-0b9766659f4b -->
 ### Considerations of an Interpreter <!-- tag:interpreter;id:bbab25b7-e4e1-4c97-bb29-b43cb1a9b54c -->
 - Ethics
@@ -186,7 +184,7 @@ Examples Qs: Auckland 2023 Q5
 		- Least invasive route (NG if ↑ risk)
 		- Only food provided
 		- ⨂ excess fluid intake (vs. ↑↓ electrolytes)
-### Maudsley Family Based Treatment
+### Maudsley Family Based Treatment <!-- id:f1f75f7a-0201-4b65-a137-cf3a10f39748 -->
 - Structure: 15-20 treatment sessions across 1 year
 - Evidence-based and gold stndard
 - Phase 1: weight restoration
@@ -198,8 +196,8 @@ Examples Qs: Auckland 2023 Q5
 - Phase 3: establishing healthy adolescent identity
   - Physically stable
   - Psychotherapy to support increased personal autonomy
-## Post-Traumatic Stress Disorder <!-- tag:ptsd -->
-### Risk Factors
+## Post-Traumatic Stress Disorder <!-- tag:ptsd;id:24fd1a10-401f-40b4-8f84-966a7471af02 -->
+### Risk Factors <!-- id:e58f270a-0fd9-4b95-a7a7-31387ac8592f -->
 - Pre-traumatic
   - Temperament: externalising
   - Prior mental illness
@@ -214,7 +212,7 @@ Examples Qs: Auckland 2023 Q5
   - Acute stress disorder
   - Repeated exposures
 - As per DSM-5-TR
-### Management
+### Management <!-- id:0cf0e4dc-0364-4988-9f10-c0917eb15818 -->
 - Therapeutic alliance
 - Psychoeducation
 - First-line: psychotherapy
@@ -263,9 +261,9 @@ Example Qs:
   - Duloxetine: 180mg (normal 120mg)
   - Venlafaxine: 300mg (normal 225mg)
 - Clomipramine: 300mg
-## Personality Disorders
-### Antisocial Personality Disorder
-#### DSM Criteria
+## Personality Disorders <!-- tag:personality-disorders;id:ae26b770-71b8-499b-9d86-7d5c5339b5a4 -->
+### Antisocial Personality Disorder <!-- tag:antisocial-personality-disorder;id:9b45abc4-5e58-450d-94c8-be1605a6cece -->
+#### DSM Criteria <!-- id:69b3f4e8-5a82-4efa-9429-af7fdc1ec29b -->
 - CORRUPT 3+
   - Cannot follow law
   - Obligations ignored
@@ -274,8 +272,8 @@ Example Qs:
   - Underhanded (deceitful)
   - Planning deficit (impulsive)
   - Temper (irritable, aggressive)
-### Borderline Personality Disorder
-#### DSM Criteria
+### Borderline Personality Disorder <!-- tag:borderline-personality-disorder;id:ef46fbe7-d8d5-45a4-a295-07b4d04f110f -->
+#### DSM Criteria <!-- id:c8913bc3-730c-4d1b-a153-76a543479da7 -->
 - IMPULSIVE 5+
   - Impulsive
   - Moody
@@ -286,7 +284,7 @@ Example Qs:
   - Inappropriate anger
   - Vulnerable to abandonment
   - Emptiness
-### Narcisstic 
+### Narcisstic <!-- id:529534ce-582f-40bf-9493-13e8833bd5c3 -->
 ## Acute Situational Crisis <!-- id:b8895b85-1cdd-4d76-944f-41997c81d05a;status:incomplete -->
 ## ECT <!-- tag:ect;id:086d7b53-278d-4f57-9109-97989e760b39 -->
 ### Consenting <!-- id:d715ab9c-a9b6-48b9-9787-d088e6494e38 -->
@@ -791,14 +789,14 @@ Examples Qs:
 	- Statutory, regulatory, registration (self & other prescribers)
 - Prescriber factors: 
 	- ? unsafe Rx → ?isolation, pressure, boundary Mx.
-## Stages of Change <!-- tag:stages-of-change -->
+## Stages of Change <!-- tag:stages-of-change;id:0abe8032-f4a4-4d62-9b5c-0e622a3ef7e3 -->
 - Prochaska
   - Precontemplation: harm reduction
   - Contemplation: weighing up pros and cons
   - Preparation: goal setting to start changing
   - Maintenance: preventing relapse
   - Relapse: relapse
-## Motivational Interviewing <!-- tag:motivational-interviewing -->
+## Motivational Interviewing <!-- tag:motivational-interviewing;id:aa90b616-51e2-4c86-83eb-eae48a925727 -->
 - 5As
   - Ask: assessment
   - Advise: psychoeducate
@@ -815,7 +813,6 @@ Examples Qs:
   - Express empathy
   - Enhance self-efficacy
   - Enhance cognitive dissonance
-
 ---
 # Forensic Psychiatry <!-- tag:forensic-psych;id:d72bdcf2-7e92-4a1c-9c31-4cbf82e7f062 -->
 ## Fitness to Stand Trial <!-- tag:presser;id:7b6e085e-872c-47ee-a6bc-bad594956cab -->
@@ -892,12 +889,12 @@ Examples Qs:
 ## Very-Late Onset Schizophrenia-Like Psychosis <!-- tag:vloslp;id:9bc751d7-06e4-4bc5-b7f0-25dc43746761 -->
 ### Overview <!-- id:913a5761-131e-442b-9bd5-0f1b31664845;status:incomplete -->
 - **Definition**: onset after 60 or 65
-## Hoarding Disorder <!-- tag:hoarding -->
-### Management <!-- status:incomplete -->
+## Hoarding Disorder <!-- tag:hoarding;id:a04d1bcd-d733-4135-9c11-6772733a8dea -->
+### Management <!-- id:b27021c8-c513-476e-8cad-5ffe5e62e1a2;status:incomplete -->
 - Social
   - Forensic cleaning
-## Elder Abuse <!-- tag:elder-abuse -->
-### Approach
+## Elder Abuse <!-- tag:elder-abuse;id:86530ca4-eb71-4879-8eba-55bf9c0125d0 -->
+### Approach <!-- id:425f30f4-e338-4364-a0c0-970dfa2bbc2d -->
 > Examples Qs: NSW Mock 2023 6.3
 - Ax
   - Capacity
