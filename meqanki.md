@@ -186,6 +186,45 @@ Examples Qs: Auckland 2023 Q5
 		- Least invasive route (NG if ↑ risk)
 		- Only food provided
 		- ⨂ excess fluid intake (vs. ↑↓ electrolytes)
+### Maudsley Family Based Treatment
+- Structure: 15-20 treatment sessions across 1 year
+- Evidence-based and gold stndard
+- Phase 1: weight restoration
+  - Physicl stabilisation and assists family in feeding child
+  - Parent-coaching and supporting the adolescent
+  - Aligning the patient with their siblings and peers to form age-appropriate relationships
+- Phase 2: returning control over eating to the patient
+  - Once patient accepts requirement of food intake
+- Phase 3: establishing healthy adolescent identity
+  - Physically stable
+  - Psychotherapy to support increased personal autonomy
+## Post-Traumatic Stress Disorder <!-- tag:ptsd -->
+### Risk Factors
+- Pre-traumatic
+  - Temperament: externalising
+  - Prior mental illness
+  - Premorbid negative affectivity personality traits
+  - Exposure to prior trauma
+  - Childhood adversity
+- Peri-traumatic
+  - Severity of trauma
+  - Fear, panic and other peritraumatic responses
+- Post-traumatic
+  - Maladaptive coping strategies
+  - Acute stress disorder
+  - Repeated exposures
+- As per DSM-5-TR
+### Management
+- Therapeutic alliance
+- Psychoeducation
+- First-line: psychotherapy
+  - Trauma-focused CBT with exposure-response prevention
+  - Eye movement desensitisation and reprocessing therapy
+  - Psychodynamic therapy
+- Second-line: pharmacotherapy
+  - SSRIs (sertraline), SNRIs (venlafaxine), mirtazapine
+  - Prazosin for nightmares
+  - Quetiapine for PRN agitation
 ## Obsessive-Compulsive Disorder <!-- tag:ocd;id:97ff872a-a84b-4f0a-b55b-668859e7a8b1;status:incomplete -->
 ### Assessment <!-- id:94a7f956-e705-4f62-b530-011928aa53d0 -->
 ```Example Qs:
@@ -578,7 +617,7 @@ Examples Qs:
 			- Logistical (e.g. staffing, bed Δ)
 			- Risk (e.g. call security)
 			- Personal (e.g. distress, trauma)
-### Management <!-- id:cef54ac2-da23-4882-9585-cb41367aaa2b -->
+## Management Approach <!-- id:cef54ac2-da23-4882-9585-cb41367aaa2b -->
 - Clarify:
 	- ‘Context & nature of consultation request’
 	- ‘Team’s expectations of the psychiatrist’
@@ -725,7 +764,6 @@ Examples Qs:
 > - Psycho: motivational interviewing, CBT
 > - Social: self-help, residential rehab
 [Quick Reference Guide to the Treatment of Alcohol Problems](https://www.health.gov.au/sites/default/files/quick-reference-guide-to-the-treatment-of-alcohol-problems.pdf)
----
 ## Nicotine Dependence <!-- tag:smoking;id:f79e9083-f9a6-40fd-b4c6-65792e5d0e5d -->
 ### Management <!-- id:65b435e0-e80c-48f7-a614-388ceba3db07 -->
 - Psychological
@@ -753,6 +791,32 @@ Examples Qs:
 	- Statutory, regulatory, registration (self & other prescribers)
 - Prescriber factors: 
 	- ? unsafe Rx → ?isolation, pressure, boundary Mx.
+## Stages of Change <!-- tag:stages-of-change -->
+- Prochaska
+  - Precontemplation: harm reduction
+  - Contemplation: weighing up pros and cons
+  - Preparation: goal setting to start changing
+  - Maintenance: preventing relapse
+  - Relapse: relapse
+## Motivational Interviewing <!-- tag:motivational-interviewing -->
+- 5As
+  - Ask: assessment
+  - Advise: psychoeducate
+  - Assess: stage of change
+  - Assist: management
+  - Arrange: follow-up
+- Skills: OARS
+  - Open-ended questions
+  - Affirmations
+  - Reflections
+  - Summarising
+- Principles
+  - Rolling with the punches
+  - Express empathy
+  - Enhance self-efficacy
+  - Enhance cognitive dissonance
+
+---
 # Forensic Psychiatry <!-- tag:forensic-psych;id:d72bdcf2-7e92-4a1c-9c31-4cbf82e7f062 -->
 ## Fitness to Stand Trial <!-- tag:presser;id:7b6e085e-872c-47ee-a6bc-bad594956cab -->
 - Discuss confidentiality and breach
@@ -785,6 +849,7 @@ Examples Qs:
 ## Liaison with Other Agencies <!-- tag: liaison;id:01d7a7ab-b0ba-42f6-bef2-f6a90e26ac12; status:incomplete -->
 `Example Qs: Auckland 2017 Paper 1 MEQ 2.2`
 ## Issues with Sharing Information <!-- id:4b54f54a-069f-49e3-8d65-5f5b8e1f6a05;status:incomplete -->
+---
 # Psychogeriatrics <!-- tag:psychogeriatrics;id:25203402-bdd1-4125-958b-5e7d39968ec9 -->
 ## Behavioural and Psychological Symptoms of Dementia <!-- tag:bpsd;id:55a0f9b5-d257-40ac-b9ad-5259e65f6b51 -->
 - Include in assessment

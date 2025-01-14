@@ -189,4 +189,180 @@ Following your assessment of Stan an indigenous male, you diagnose him with schi
 ## Mental Health Stigma
 
 After a 4 week admission Stan is better. The family is concerned about his being discharged in the community as it is an indigenous community and his parents are worried about the impact of this on Stan’s mental health. They do not want any community follow up from the CMHT, but want to go to the traditional healer.
+
 > How would you manage this situation?
+
+- Organise a family meeting
+  - Involve staff familiar with Stan and any cultural workers
+- Therapeutic alliance: non-judgemental, reassuring 
+- Psychoeducation regarding risks of relapse with non-compliance with medications
+  - Discuss risk of harm to self and others with relapse
+  - Discuss Stan's view regarding ongoing care
+- Cultural assessment
+  - Determine goals of traditional healer
+  - What this would look like, preference of traditional healer regarding ongoing medications
+- Discuss both aspects of care ideally to promote holistic recovery
+- Safety netting if they refuse regarding non-compliance with medications and relapse
+- **Consider meeting with elders**
+
+## Motivational Interviewing
+
+You have an obese patient with depression and diabetes. The endocrinologist has reported that your patient has to lose weight to prevent the onset of Insulin Dependant Diabetes Mellitus. During the interview when you bring up the topic of losing weight, She says, "I don't need to follow my diet as long as I'm feeling OK."
+
+> Outline your approach to the situation to assist the patient in losing weight.
+
+- Therapeutic alliance: non-judgemental, calm, reassuring
+  - Assess stage of change
+  - 5As: ask, assess, advise, agree, assist
+- Psychoeducation: risks of developing diabetes
+- Motivational interviewing
+  - **Make affirmations**
+  - **Use reflections**
+  - **Express empathy**
+  - **Enhance self-efficacy**
+  - Rolling with the punches
+  - Non-confrontational approaches
+  - Highlighting their strengths and reasons for change
+- Follow up
+- Referral to dietitian and exercise physiologist
+- Liaise with endocrinologist and GP
+
+## Non-Compliance Secondary to Forgetfulness
+
+A 52-year-old female who takes 2 antidepressants, 2 mood stabilisers and 2 antipsychotics along with metformin and anti-hypertensive reports that she finding it difficult to remember to take her medication. 
+
+> List the strategies to assist her.
+
+- Rationalise psychotropics
+  - Clarify need for two antidepressants + mood-stabilsiers + antipsychotics
+- Comprehensive documentation review regarding indication for above
+- Consider weaning to simplify psychotropic management
+- Cognitive testing to exclude underlying cognitive impairment to identify required supports
+- Exclude any other mental illness impacting ability to take medications
+- Otherwise
+  - Organise Webster pack
+  - Alarms and reminders to take medications
+  - Recruit suppots whether informal or formal to remind for medications
+  - Consider depot for antipsychotics to minimise tablets
+  - Involve family in care
+- Consider assertive management in community re ongoing supervised dosing
+- **Motivational interviewing**
+
+## Eating Disorder Risk Factors
+
+A 21 year old female has been recently diagnosed with an eating disorder. 
+
+> List the factors you would focus on in developing your formulation.
+
+- Prediposing
+  - Family history
+  - Gender
+  - Extra-curricular activities eg. gymnastic
+  - Turbulent lifestyle, feeling like lack of control
+  - **Early menarche**
+- Precipitating
+  - Psychosocial stressors
+- Perpetuating
+  - Personality structure
+- Protective
+  - Family insight and supports
+  - Physical wellbeing
+
+## Eating Disorder - Assessment
+
+Jane is a 16-year-old female referred by her GP. She lives with her parents and younger sister. She presented to the GP with nausea and vomiting. Her medical investigations revealed a low potassium. The GP feels that she may have an eating disorder. 
+
+> List the salient features in history, examination and formulation you would focus on to make a diagnosis.
+
+- History of presenting complaint
+  - SCOFF questionnaire
+  - Eating habits: amount, content, frequency
+  - Current weight
+  - Current concerns regarding self-image
+  - Purging or restrictive behaviours including vomiting, excessive exercise, laxative usage
+  - Issues with eating regarding sensations etc.
+  - Medical symptoms: palpitations, syncope
+  - Nausea, vomiting
+- History
+  - Psychiatric Hx: diagnoses, treatment, ICAMHS involvement
+    - Prior admissions
+  - Family Hx: eating disorders, psychiatric issues
+  - Medical Hx
+  - Medications: psychotropic and otherwise
+  - Psychosocial Hx
+    - Performance at school
+    - Friends, bullying
+    - Relationship with sister and mother
+    - Preoccupation with food, liking to cook, etc.
+    - Extracurricular activities eg. gymnastics
+  - Developmental Hx
+    - Developmental milestones
+  - Drug and alcohol use
+  - Forensic Hx
+- Examination
+  - Mental state: rigid cognitions surrounding food, appearance re weight
+  - Physical examination: vitals, BP, HR, BMI, height, weight
+- Formulation
+  - Precipitating factors including bullying, lack of self-control
+- **Collateral**
+
+## Eating Disorder - Management
+
+Following your assessment you make a diagnosis of Anorexia Nervosa. She has a BMI of 14. On the paediatric ward where she has been admitted, she refuses to eat and threatens to kill herself if given food. The nursing staff has become hostile against the patient. They ask you to have her transferred to the psychiatric ward. 
+
+> Outline your immediate management plan.
+
+- Therapeutic alliance: reassuring, non-judgemental, calm
+- Immediate risk assessment
+  - Verbal de-escalation
+  - Attempt to find reassuring and familiar supports eg. family
+  - Oral PRNs for agitation as required
+  - If attempting to self-harm consider IM PRNs 
+- Organise MDT with treating team **and guardians**
+  - Psychoeducation
+    - Patient is currently mentally and physically unwell
+    - Externalise the disease
+    - Requires ongoing nutritional care for physical safety and which may restore cognition
+  - Management on the ward
+    - 1:1 special with observation due to psychiatric risk
+    - Attempt regarding splitting and hostility
+    - CL and Eating Disorders team will continue to review
+    - Involve family as required to de-escalate
+    - Formalise a behavioural management plan in context of escalations
+  - Eating disorder management
+    - Restoring normal weight
+    - Psychotherapy
+  - **Consider usage of MHA**
+
+## Eating Disorder - Family Management
+
+She continues to remain on the paediatric ward. Her behaviour has settled. Her parents come to meet you to discuss management of their daughter’s condition. They feel that they are to blame for her condition.
+
+> Outline the key points you would cover in the discussion?
+
+- Therapeutic alliance
+- Psychoeducation
+- Externalising the disease to provide 
+- Ongoing management
+  - Nutritional care due to effects of starvation of brain
+  - Ongoing Maudsley family therapy
+  - Supervision and alignment against the disease
+  - Gradual restoration of independence
+- Safety netting
+- Follow up and case management
+- **MDT approach with psychology, nurse, dietitian**
+
+## Eating Disorder - Principles of FBT
+
+Maudsley Based Treatment
+- Structure
+  - 12-20 sessions occurring monthly with the support of family including parents and siblings
+- Stage 1
+  - Externalise the disease
+  - Promote healthy eating habits within the family
+- Stage 2
+  - Slowly restore independence to the patient
+- **Correct**
+  - Stage 1: **Weight restoration**
+  - Stage 2: restore control back to adolescent
+  - Stage 3: enhancing individual action
