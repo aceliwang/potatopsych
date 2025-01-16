@@ -728,6 +728,11 @@ Examples Qs:
 - Detoxification
 - Rehabilitation
 - Relapse prevention
+## Opioid Use Disorder <!-- tag:opioids -->
+### Assessment <!-- status:incomplete -->
+Psychometrics
+- Current Opioid Misuse Measure (COMM)
+- Opioid Risk Tool (ORT)
 ## Alcohol Use Disorder <!-- tag:alcohol;id:204cd163-a8c2-4c10-bdb0-367f944e9137 -->
 ### Management of Alcohol Withdrawal <!-- id:05d62309-beea-4596-90bf-56ffc61ce346 -->
 - Acute ie. withdrawal

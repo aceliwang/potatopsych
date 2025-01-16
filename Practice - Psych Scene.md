@@ -496,7 +496,227 @@ You are a psychiatric registrar working in the Drug and alcohol service. Rhonda 
 - Investigations
   - Blood borne infections
 
-## Child Protection - Assessment
+## Child Protection - Assessment (TO STUDY)
 You are contacted by the Department of human services to provide a report on Rhonda’s capacity to look after her children. 
 
-> List the key principles in approaching this request and what are the key components of a parenting assessment? 
+> List the key principles in approaching this request and what are the key components of a parenting assessment?
+
+- Discuss dual role of psychiatrist, protecting Rhonda vs protecting her children
+- Request in line with mandatory reporting guidelines, advocating for those who may not be able to ie. children
+- Discuss confidentiality and lack thereof due to providing information to the department
+- Parenting assessment
+  - Dependent on children's age
+  - Concern of neglect
+    - Ensuring that children are fed, schooled, washed and dressed. Activities of daily living are attended to by parents / with children's involvement
+  - Concern of abuse
+    - Physical, emotional and sexual
+  - Concern of exposure
+    - Ongoing risky behaviour including drug usage
+    - Drug and needles lying around etc.
+- **Discuss that this is not appropriate**
+  - Dual agency role of treating Rhonda and potential conflict
+- **Mental illness is not equal to inability to parent**
+- **Information should be gathered from multiple parties**
+- **Assess child**
+  - Duration of exposure to parent 
+  - Attachment to parent
+  - Disruptions from parent
+  - Child's experience of care
+  - Child's insight into parents illness
+  - Developmental milestones
+- **Assess parent**
+  - Ability to seek help
+  - Impact of disorder on child
+  - Meeting the needs of child
+  - Parent's responsibility and motivation
+  - Supports available
+  - Control of mental illness
+
+## Opioid Substitution - Assessment
+
+- Confirming dependence upon opiates
+- Drug and alcohol history
+  - Age of first use
+  - Amount, route
+  - Medical complications: cellulitis, etc.
+  - Previous periods of abstinence
+  - **Prior withdrawal**
+  - Other drugs, risk of diversion
+- **Capacity assessment**
+  - Choice regarding risks
+- Previous opioid substitution
+  - Whether buprenorphine or methadone
+  - Patient's preference
+  - Per oral vs depot
+  - Reasons for stopping and relapse
+- Comorbid mental illness
+  - Psychotic
+  - Affective
+  - Neurotic
+- Forensic Hx
+- Family Hx
+- Risk to children if not looked after properly
+  - Choice of injection
+- Rehabilitation
+- Risk assessment
+
+## Opioid Substitution - Pregnancy Assessment
+
+6 months later, Rhonda is abstinent from heroin and wants to have another child with her partner. She is on a routine outpatient’s review and wants to know your opinion about having a baby. 
+
+> Outline the points will you cover during this interview?
+
+- **Therapeutic alliance**
+- Pregnancy status
+  - Actively trying to have a baby at the moment
+  - Attitudes towards having a baby
+  - Whether partner shares this view
+- Current parenting
+  - Any DCJ involvement at the moment
+- Current opioid substitution
+  - Weaning plan or whether stable
+- Psychosocial Hx
+  - Accommodation, employment and relationship stability
+  - Ability to perform ADLs
+- D&A Hx: any other drugs being used
+- Child's status
+  - Current schooling
+  - Development
+  - Issues with parenting
+- Concerns
+- **Mental state**
+  - Opioid withdrawal concerns for baby
+- **Opioid substitution better than street usage**
+- **Opioid withdrawal has a risk of inducing spontaneous abortion / premature labour**
+
+## Unconsciousness - Differentials 
+
+A 41-year-old female presented to the emergency department found to be unconscious following an overdose. She has a past history of several presentations with deliberate self-harm. On medical work up it was found that she has atrial fibrillation too and was treated in a medical ward. 
+
+> List the differential diagnoses
+
+- Organic: **stroke, pulmonary embolism, intracranial bleed, warfarin overdose, anti-arrhythmic overdose, drug and alcohol overdose**
+- Situational crisis
+- Self-harm in context of psychosis
+- Major depressive episode
+- Borderline personality disorder
+- Atrial fibrillation secondary to overdose
+- Hyperthyroidism
+
+## Medical Complications in the Psychiatrically Unwell
+
+The medical team decides that she needs to be treated with warfarin and they want your advice.
+
+> What is your advice to the medical team? 
+
+- Clarify expectations of the team regarding the consult
+- Discuss risks and benefits of utilising warfarin
+  - Risks of overdose: internal bleeding, excessive bleeding secondary to injury
+  - Benefits of warfarin: providing anticoagulation to prevent thromboembolism including strokes, DVT/PE
+  - Interactions with current psychotropics
+- Discuss methods to minimise risk
+  - Ongoing management of borderline personality disorder including dialectical behavioural therapy
+  - Webster packs
+  - Locked access to medications by partner
+  - Supervised administration of medications whether by informal or formal supports
+- **Risk assessment**
+  - Current suicidal thoughts and harms
+  - **Alternatives**
+
+## Borderline Personality Risk Management
+
+The lady is discharged back home with follow up in the community via a community care team. 
+
+> Devise a management plan for the next three months, which you will present to your consultant. 
+
+- Referral to community case management
+- Regular follow up case management with monitoring of mental state
+- Medical officer reviews to assess for comorbid major depression
+- Psychosocial factors
+  - Assist with Centrelink/employment
+  - Assist wit supports and link-in with groups
+  - Psychological support as required
+  - Consider CBT or DBT if available
+- Regular risk assessment
+- Drug and alcohol support as required
+- **Pharmacy involvement regarding restriction in supply**
+
+##  Opioid Dependence - Assessment
+
+A 39-year-old school teacher was referred by her GP due to long term addiction to morphine tablets. Her husband has long term back pain. She has three children (15, 12 and 7). She confirms that she does not use them while at work but uses only two tablets at night-time. She has no anxiety or depression.
+
+> Describe your assessment
+
+- Therapeutic alliance: non-judgemental, calm, reassuring
+- History of presenting complaint
+  - Morphine use
+    - Source of morphine: husband, streets
+    - Doctor-shopping
+    - Amount of use and change over time
+    - Development of tolerance and/or dependence
+    - Functional impairment
+    - Reasons for use
+    - Stage of change regarding cessation
+    - Prior rehab and withdrawal symptoms
+    - Patient's pain
+  - Other drug and alcohol usage
+  - Comorbid psychiatric issues
+- History
+  - Psychiatric
+  - Family Hx of dependence
+  - Medical Hx
+  - Other medications
+  - Developmental
+  - Forensic Hx
+- MSE: signs of intoxication vs withdrawal
+- PHysical examination
+- Cognitive and capacity assessment
+- Risk assessment
+  - Children's access to morphine
+  - Risk of self to others
+  - Risk during driving etc.
+- Collateral history: GP, husband
+
+## Opioid Dependence - Management (GOOD TO STUDY MEQ 12.2)
+
+> Outline the key steps in management
+
+- Same as pregnancy question
+- Assessment regarding stage of change
+- Motivational interviewing
+- Psychoeducation regarding risks involved with ongoing dependence
+- Discuss available management: primarily opioid substitution
+- Support groups
+- Contingency management
+- Refer to Drug and Alcohol services
+
+## Behavioural Child - Assessment
+
+In one of her subsequent visits she tells you that her 7-year old daughter is showing anxiety and is clinging on to her. She is also rebellious and is showing argumentative and defiant behaviour. 
+
+> List the possible contributory factors for this behaviour.
+
+- Mental illness
+  - Social anxiety disorder
+  - Separation anxiety due to mother's behaviour
+  - Oppositional defiance disorder
+  - Conduct disorder
+- Biological
+  - Opioid withdrawal with agitation
+- Psychological
+  - Disruptive attachment
+  - Bullying at school
+  - Behaviour from peers
+- Social
+  - Adverse childhood experiences
+- **Anxious temperament, behavioural monitoring**
+- **Learning disability**
+- **Emotional/physical/sexual abuse**
+- **Abnormal illness behaviours**
+
+## Cultural Manifestations - Assessment
+
+A 35-year-old migrant lady from India and mother of a child who is 5 was admitted to the ED following a seizure in a supermarket. Her husband works far away from home and comes home only on weekends. He is unsupportive of her and she has minimal social support. 
+The emergency department assessment revealed that investigations are normal and medical registrar diagnoses this as a pseudoseizure and wants you to assess the lady. 
+
+> Outline the approach to the assessment. 
