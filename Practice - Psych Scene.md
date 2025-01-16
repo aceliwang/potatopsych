@@ -366,3 +366,137 @@ Maudsley Based Treatment
   - Stage 1: **Weight restoration**
   - Stage 2: restore control back to adolescent
   - Stage 3: enhancing individual action
+
+## PTSD - Risk Factors (NOT ATTEMPTED, IN NOTES)
+
+A 71 year old Vietnam Veteran has long standing history of PTSD. He reported a traumatic upbringing with sexual abuse. 
+> List the main factors that would explain the development of PTSD (including others not in the vignette)
+
+## PTSD - Management (NOT ATTEMPTED, IN NOTES)
+
+## Schizophrenia and Epilepsy
+
+Maria, aged 25 years, has a history of epilepsy since early childhood with multiple seizure types, a poor response to anticonvulsants, and longstanding cognitive difficulties (her full-scale IQ is 65). She lives with her parents in a small country town, and intermittently attends a supported work program packing boxes of fruit. She was admitted in status epilepticus to a tertiary intensive care unit and was ventilated for 3 days. Two days ago, she was transferred to the neurology ward. Since waking up she has been telling her parents that “everyone is spying on me with satellite cameras”, and that the nursing staff are saying horrible things about her. She is worried that the food is poisoned.
+You are asked by the neurology team to see Maria. 
+
+> Outline the information you would seek before seeing Maria.
+
+- Clarify expectations of the neurology team regarding consult
+- Documentation review
+  - History of epilepsy
+  - Prior psychiatric Hx re whether this is a known diagnosis of schizophrenia
+  - Prior psychiatric admissions in line with above
+  - Prior psychotropic management in line with above
+  - Previous post-ictal symptoms
+  - Psychiatrist reviews and input previously
+- Current status on the ward
+  - Collateral from treating team, nursing staff, family
+  - Behaviour driven be beliefs: hypervigilant, paranoid, hiding, refusing food, refusing medications
+- Team to perform a psychiatric Hx for the consult
+  - Substance use and withdrawal
+  - Known reasons for cognitive difficulties eg. due to prior status epilepticus
+  - Baseline function
+  - Family Hx
+  - Forensic Hx
+  - Engagement with team regarding medications
+  - Family involvement
+- Risk assessment
+  - Agitation and aggression on the ward
+- Legalities
+  - Current legal status: likely voluntary patient under DOC
+  - Whether under Guardianship considering intellectual disability
+- **Missed**
+  - Environment
+  - Causes of delirium
+  - Status of seizures
+  - Relationship of symptoms to seizures
+  - Control of seizures
+
+## Epilepsy and Psychosis - Differentials
+- Ictal psychoses eg. temporal lobe epilepsy
+- Inter-ictal psychosis
+- Post-ictal psychosis
+- Schizophrenia
+- Medication-induced
+- **Delirium**
+- **Cognitive deficits**
+
+## Epilepsy and Psychosis - Complications
+Maria experiences another seizure and is now under observation in the neurology ward. Maria attempts to abscond from the ward on a number of occasions and the nursing staff call you as her parents have arrived and want to take maria home. They believe that the treatment is ' not doing her any good'. The nursing staff call you for advice. 
+> Outline your immediate management plan
+
+- Therapeutic alliance with parents
+- Contain and validate concerns
+- Ask nursing staff to contact treating team to notify regarding incident
+- Discuss and elaborate concerns from parents
+  - Involve treating team to discuss current medical instability
+  - Discuss potential psychosis leading to attempts to abscond and current investigations to do so
+  - Discuss risks if continues to be inappropriately managed
+- Ensure that Maria is currently safe
+- **Involve clincial director and NUM**
+- **Medications for acute behavioural disturbance as required**
+
+## Epilepsy and Psychosis - Ward Management
+The neurologist is happy for Maria to remain under her care as the risk of further seizures is quite high. However, the nursing ward staff have now become anxious about managing Maria on the neurology ward because they feel she is 'crazy' and may be a danger to the other sick patients. 
+
+> Describe how you would address the nursing staff's concerns.
+
+- Psychoeducation
+  - Maria's psychosis is a symptom of delirium or due to her seizures
+  - Reframe her psychosis to the fact that she is currently medically unwell
+  - If delirium, requires frequent orientation and 1:1 special to prevent
+- Behavioural management plan
+  - Distraction techniques and verbal de-escalation
+  - PRN management in context of distress and risk of harm to self and others
+  - Who to contact in terms of ongoing escalation
+- Ongoing follow up with CL psychiatry to alleviate ward concerns
+  - Ongoing liaison with NUM and treating team
+- **Discuss actual techniques**
+  - **Reorientation**
+  - **Low stimuli**
+  - **Involve family**
+  - **Consistent nursing staff**
+  - **Supportive counselling**
+- **Dangers of using medication**
+
+## Opioid Use - Assessment
+
+You are a psychiatric registrar working in the Drug and alcohol service. Rhonda is a 35 year old female with 3 children. She lives with her partner who is 37. She has a history of Drug and Alcohol misuse since the age of 19. She had been a heavy user of cannabis, alcohol, and heroin. She continues to use heroin which she buys off the streets.
+> Describe your assessment of Rhonda.
+
+- Documentation review
+- Therapeutic alliance
+- History of presenting complaint
+  - Current opioid use, age of use, current amount and frequency and agents
+    - Previous hospitalisation
+    - Previous engagement with opioid substitution program
+    - Medical complications
+    - Reasons for use
+  - As above for cannabis and alcohol
+  - Discuss current harm minimisation strategies
+    - Clean injecting needles
+    - Drug testing
+    - Physical health monitoring
+  - Stage of change: whether precontemplative, contemplative, preparing, maintenance or relapse
+  - Motivational interviewing
+- History
+  - Psychiatric diagnoses, previous hospitalisations, previous treatment
+  - Medical issues
+  - Current psychotropics and other phyical health medications
+  - Psychosocial Hx: funding of substances
+  - Family Hx
+  - Developmental Hx
+  - Forensic Hx
+- Risk assessment
+  - Status of children, schooling, ADLs
+- Collateral Hx: partner, GP
+- Examination
+  - MSE: features of intoxication or withdrawal including agitation or drowsiness
+  - Physical examination for opioid abuse including pupil irregularities, needle marks, cellulitis
+- Investigations
+  - Blood borne infections
+
+## Child Protection - Assessment
+You are contacted by the Department of human services to provide a report on Rhonda’s capacity to look after her children. 
+
+> List the key principles in approaching this request and what are the key components of a parenting assessment? 
