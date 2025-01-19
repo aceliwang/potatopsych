@@ -1142,3 +1142,49 @@ Mr Alan Woods is a 64-year old male who is brought to the CMHT by his daughter d
 > Describe your assessment with respect to establishing the diagnosis?
 
 - Differentials include delirium, early signs of neurocognitive disorder and/or previous underlying psychiatric disorder
+- Calm and clear approach with open body language
+- Documentation review and collateral from daughter and GP
+- History of presenting complaint
+  - Clarify nature of doing the odd things: risky, bizarre, regression
+  - Clarify inappropriate things to grandchildren whether sexual in nature or bizarre content
+  - Duration and onset of symptoms
+  - Associated neurological changes
+  - Stepwise vs subacute progression in changes in systems
+  - Medical history associated with dementia
+  - Changes in personality: coarsening vs otherwise
+  - Screen for psychotic and affective disturbances
+- History
+  - Psychiatric: previous psychosis
+  - Medical: cardiovascular risk factors etc.
+  - Medications: recent changes, psychotropics
+  - Drug and alcohol usage
+  - Family Hx of neurodegenerative illness
+  - Forensic Hx: previous risk
+  - Psychosocial Hx: ADLs, supports
+- Examination
+  - Mental state
+  - Physical exam
+  - Cognitive
+  - Capacity assessment
+- Investigations
+  - Neuroimaging
+  - Bloods
+- Risk assessmnet
+  - Risk of vulnerability, exploitation
+  - Risk of aggression
+  - Risk to children
+- Collateral information
+- **Evidence of delirium**
+
+## Genetic Testing - Principles
+
+You diagnose him with Alzheimer's dementia. His daughter tells you that she has read that dementia can be hereditary and wants to know if her family should be tested. 
+
+> What issues would you discuss? 
+
+- Therapeutic alliance
+- Psychoeducation
+- Risk vs benefit analysis
+- Ethics
+  - Confidentiality
+  - Effects extending to others
