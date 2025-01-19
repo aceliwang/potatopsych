@@ -22,43 +22,36 @@ Tyrer P (2022) Remembered jewels: The role of diagnosis in psychiatry by Robert 
 - Practice: 8:34 with 259 words. Still aim 1200 within 40 minutes.
 - REVISION
   - Aim 1000 words
-  - Intro: 175
+  - Intro: 150
   - Ethical and historical: 250
   - ATSI and cultural: 250
   - Clinical and recovery: 250
-  - Conclusion: 75
+  - Conclusion: 100
 
-805 words so far
+911 words so far, missing definitions for the introduction
 ---
 
 <!-- Introduction: 79/150 words
 Could define diagnosis -->
 
-Psychiatry is unique in medicine in that there remains robust debate about the nature of, and existence of, the diseases it seeks to treat. This discourse extends beyond the academic sphere, and is amplified within consumers and carers which can lead to poor therapeutic alliance and complicates the recovery process. This essay shall explore the impacts of utilising diagnoses as "facts" and the progress psychiatry is undergoing including trauma-informed and recovery-orientated approaches to facilitate recovery (NEEDS TO BE CHANGED)
+Psychiatry is unique in medicine in that there remains robust debate about the nature of, and existence of, the diseases it seeks to treat. This discourse extends beyond the academic sphere, and is amplified within consumers and carers which can lead to poor therapeutic alliance and complicates the recovery process. **Define terms** This essay shall explore the impacts of **utilising diagnoses as "facts"** and the progress psychiatry is undergoing including trauma-informed and recovery-orientated approaches to facilitate recovery, from my personal perspective as a psychiatric trainee and as part of the mental health system.
 
 <!-- 
-Paragraph 1: 220 / 250 words
+Paragraph 1: 257 / 250 words
 Ethical and historical
 Re quote: shit changes and needs to change
  -->
 
 Understandings of illness have been subject to centuries of historical and sociocultural influence and are further shaped by consumers' individual lived experience. The concept of mental disorders have existed since ancient Mesopotomia (Parys, 2014) and diagnostic frameworks have evolved over time as evidenced through the iterative editions of the DSM from psychoanalytic, to neurobiological, to reverse-nosological conceptual understandings of disease (Aftab, 2021). Diagnostic terms and labels for mental disorders are thus neither fixed nor universal and if not constantly scrutinised can lead to irrevocable harms as observed with the historical dehumanisation and stigmatisation of those identifying as homosexual. 99
 
-Thus, from a principle-based ethics perspective, the diagnostic process must be conducted with care in recognition of the vast implications of its outcomes. Although mental illness can be diagnosed, in line with beneficent principles to direct biopsychosocial management and unlock essential supports and resources, the duty of non-maleficence requires psychiatrists to consider the extensive ramifications of diagnosis, particularly when misused within the legal, forensic and insurance settings which reduce consumers to labels and ignore the true extent of their psychological distress and functional impairment (RANZCP Position Statement 77). At its worst, psychiatric diagnoses can be exploited to desecrate human rights as evidenced by the use of "sluggish schizophrenia" to political dissidents in the Soviet Union historically, stripping individuals of their autonomy. 
+Thus, from a principle-based ethics perspective, the diagnostic process must be conducted with care in recognition of the vast implications of its outcomes. Although mental illness can be diagnosed, in line with beneficent principles to direct biopsychosocial management and unlock essential supports and resources, the duty of non-maleficence requires psychiatrists to consider the extensive ramifications of diagnosis, particularly when misused within the legal, forensic and insurance settings which reduce consumers to labels and ignore the true extent of their psychological distress and functional impairment (RANZCP Position Statement 77). At its worst, psychiatric diagnoses have been used to violate individuals' autonomy as evidenced by the use of "sluggish schizophrenia" to suppress political dissidents in the Soviet Union historically. 
 
-Reflection 
-
-??? CODE OF ETHICS
-
-
-These flaws frequently appear when clinical diagnoses are employed in legal, forensic and insurance settings, reducing consumers to labels and ignoring the true extent of their psychological distress and functional impairment (RANZCP position statement 77). Furthermore, diagnoses can be exploited to desecrate human rights as evidenced by the use of the diagnosis "sluggish schizophrenia" to suppress political dissidents previously in the Soviet Union. 
-
-Despite acknowledging the errors and harms imposed by historical practice (RANZCP position statement 84), psychiatry continues to be scrutinised for its diagnostic process and operational criteria, more recently regarding overmedicalisation of normal human behaviour. **and in the context of the relationship between psychiatry and pharmaceutical companies. (not sure how well this flows)**
-
+Reflection upon past errors supported by the psychiatric field reinforces the recommitment to ethics and the need for psychiatrists to advocate upon those deemed mentally ill and to strive towards elimination of discrimination against our consumers (RANZCP Code of Ethics 11). [**Link somehow to next**]
 
 **resource provision regarding NSW mass psychiatrist resigntations**
 
-Ultimately, although the development of systematic diagnostic frameworks have provided the capacity to structure and develop management guidelines for mental illness, it is important to understand that it is not absolute and the cruciality of this for ethical practice.
+
+
 
 ---
 
@@ -83,33 +76,37 @@ Thus, it is important to prioritise the integration of cultural safety, **acknow
 ---
 
 <!-- 
-Paragraph 3: 233/250 words
+Paragraph 3: 231/250 words
 Clinical example + recovery model + open dialogue
 Re quote: recovery does not depend on diagnosis
 -->
 
 Finally, public psychiatry is encompassed by schizophrenia-spectrum illnesses where lack of insight or anosognosia is common, leading to **barriers against shared decision making** and cultivation of the therapeutic alliance. The latter is recognised as a central tenet to the recovery process (RANZCP CPG for Mood Disorders), however may be set aside in the pursuit of biological management as experienced in my early training rotations in inpatient roles. Such involuntary management compounded by restrictive environments and potential paranoia and perceptual disturbances is often highly traumatising and although can lead to short-term "improvement", more often impairs consumers' ability and motivation to participate in long-term preventative care and rehabilitation, perpetuating a vicious cycle of re-traumatisation when they become unwell. 
 
-Adoption of Open Dialogue Model strategies (Sekkila et al, 1990s) by conducting team discussions and reflections in the presence of consumers and carers, provides opportunity to promote patient centred care and limited enhancement of autonomy within the involuntary setting, in line with the recovery model **irrespective of diagnostic concordance between consumer and clinician**. Participation in Balint groups has developed appreciation of the impact and harms of traditional paternalistic practice and reaffirms our roles as a collaborator and advocate (CANMEDS, 2015) to participating in and promoting shared-decision making. Affording consumers the dignity of risk (Ibrahim and Davis, 2014) in care decisions, can lead to development of insight, promoting empowerment and advocacy and enhance the therapeutic alliance. **concluding sentence**
+Adoption of Open Dialogue Model strategies (Sekkila et al, 1990s) by conducting team discussions and reflections in the presence of consumers and carers, provides opportunity to promote patient centred care and limited enhancement of autonomy within the involuntary setting, in line with the recovery model **irrespective of diagnostic concordance between consumer and clinician**. Participation in Balint groups has developed appreciation of the impact and harms of traditional paternalistic practice and reaffirms our roles as a collaborator and advocate (CANMEDS, 2015) to participating in and promoting shared-decision making. Affording consumers the dignity of risk (Ibrahim and Davis, 2014) in care decisions, can lead to development of insight, promoting empowerment and advocacy and enhance the therapeutic alliance. **needs a concluding sentence**
+
+<!-- Conclusion:92/75 words -->
+
+In conclusion, it is important to recognise the complex and multi-faceted nature of psychiatry that extends beyond conventional medical models of assessment, diagnosis and management. **Focusing only on "diagnostic facts" neglects the holistic picture and can damage the therapeutic alliance, disempower consumers and complicate the recovery process.** Psychiatry has evolved in its shift towards patient-centered care as reflected within the implementation of trauma-informed principles, cultural safety and recovery-orientated strategies and demonstrates the requirement for ongoing examination and scrutinisation of its practice to provide benefit to its consumers and society as a whole.
 
 
 
-
-
-<!-- Conclusion:77/ words -->
-
-In conclusion, it is important to recognise the complex and multi-faceted nature of psychiatry that extends beyond conventional medical models of assessment and management. Focusing only on "diagnostic facts" neglects the holistic picture and can damage the therapeutic alliance, disempower consumers and complicate the recovery process. Utilising diagnoses as tools for communication, in collection with other trauma-informed and recovery-orientated strategies, thus facilitates increased personal and individualised care of consumers and carers to the benefit of society as a whole.
 
 
 # Todo
-- Edit
+- ~~Edit~~
 - Add references
-- Try writing it lol: 1000 words
+- ~~Try writing it lol: 1000 words~~
 - Try adapting it to other stimuli
-
-- Paragraph 1
-- Introduction and conclusion
+  - Diagnostic frameworks
+  - Ethical
+  - Stigma
+  - Therapeutic alliance
+- ~~Paragraph 1~~
+- Introduction
+- ~~Conclusion~~
 - Try linking it better between paragraphs
+- Practice essayon 19th and 20th /01/2025 for Rachel and Nin
 
 
 # Trashdump
@@ -117,6 +114,16 @@ In conclusion, it is important to recognise the complex and multi-faceted nature
 ## Historical
 
 From a principalist ethics perspective, such an approach to diagnosis could be observed to align with non-maleficence. When diagnostic labels are treated as "facts", there is a risk of imposing iatrogenic harm by introducing stigmatisation and facilitating dehumanisation as demonstrated above and would be against providing the best attainable care (RANZCP Code of Ethics Principle 3). Thus caution should be applied in the diagnostic and management process.  
+
+Despite acknowledging the errors and harms imposed by historical practice (RANZCP position statement 84), psychiatry continues to be scrutinised for its diagnostic process and operational criteria, more recently regarding overmedicalisation of normal human behaviour. **and in the context of the relationship between psychiatry and pharmaceutical companies. (not sure how well this flows)**
+
+
+
+
+Ultimately, although the development of systematic diagnostic frameworks have provided the capacity to structure and develop management guidelines for mental illness, it is important to understand that it is not absolute and the cruciality of this for ethical practice.
+
+
+These flaws frequently appear when clinical diagnoses are employed in legal, forensic and insurance settings, reducing consumers to labels and ignoring the true extent of their psychological distress and functional impairment (RANZCP position statement 77). Furthermore, diagnoses can be exploited to desecrate human rights as evidenced by the use of the diagnosis "sluggish schizophrenia" to suppress political dissidents previously in the Soviet Union. 
 
 
 ## Cultural
@@ -145,3 +152,7 @@ Rigid commitments to diagnoses as "facts" magnifies the paternalistic nature of 
 Early training rotations as an inpatient registrar were overwhelmingly comprised of biological management for acute diagnoses ie. consumers with psychotic relapses were treated with antipsychotic medications. Such involuntary management, compounded by restrictive environments, are often highly traumatising and can be counter-therapeutic due to removal of consumer's existing supports. My subsequent time in community and rehabilitation roles have highlighted the negative impacts of traditional models of care towards consumers and their recovery process, with prior adverse experiences with mental health services leading to refusal to participate in long-term preventative care and subsequent re-traumatisation with involuntary approaches when they become unwell. 
 
 Such shared-decision practice reaffirms our roles as a collaborator and advocate (CANMEDS, 2015) and focuses on the holistic management to recruit supports and enhance self-advocacy. By promoting this patient-centredness, consumers can also appreciate the concerns raised by clinicians and their community, thus developing insight, promoting empowerment and enhances the therapeutic alliance. Supervision sessions and reflection through Balint groups have provided increased understanding of the traditional paternalistic practice regarding treating mental illness and the harms of such, and to instead focus on the lived experience of consumers and to support their views towards recovery. 
+
+## Conclusion
+
+Utilising diagnoses as tools for communication, in collection with other trauma-informed and recovery-orientated strategies, thus facilitates increased personal and individualised care of consumers and carers to the benefit of society as a whole.

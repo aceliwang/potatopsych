@@ -374,6 +374,36 @@ Example Qs:
 Examples Qs:
 - Auckland 2018 Paper 1 MEQ 3.4
 ```
+## Attachment
+### Attachment Theory
+- Subtypes
+  - Secure
+  - Avoidant
+  - Ambivalent
+- Strange Situation
+### Assessment of Infants
+- History from the parent
+  - Parent:
+    - Mental illness, substance misuse, trauma, domestic violence
+    - Capacity to reflect on child's experience
+  - Child:
+    - Significant disruptions, methods of getting needs met
+    - Interaction with caregiver
+    - Interaction with other adults and/or peers
+    - Responses to separation and reunion
+    - OOH placements
+- Observation of caregiver and infant
+  - Interaction between infant and caregiver
+    - Secure attachment to caregiver
+      - Showing affection
+      - Seeking comfort
+      - Reliance on caregiver
+      - Reunion responses
+    - Poor attachment
+      - Indiscriminate affection
+      - Avoidance of caregiver: physical and vocalisation
+      - Excessive dependence or ignorance of caregiver
+  - Exploratory behaviour
 ## School Observation <!-- tag:school-observation;id:6f343ac1-f983-495e-9546-39b04cb36053;status:child-assessment -->
 ### Aims <!-- id:5c0db253-7630-4b19-8577-f5aced6cdce9 -->
 - Interactions
@@ -879,14 +909,24 @@ Psychometrics
 - Assessment
   - History: infection, withdrawal
   - Physical examination
-  - Investigations: mention difficulties
+  - Investigations: mention difficulties with CTB
   - Monitoring: bowel chart, urinary chart, sleep chart
   - Exclude neglect
-  - Collateral: family, GP, community tea
+  - Collateral: family, GP, community team
 - Management
   - Short-term
+    - Falls prevention: line of sight nursing, access to call bell and bed alarm
     - Non-pharmacological methods
+      - Address pain, discomfort, hunger, thirst
+      - Timed toileting: monitor bowels and bladder
+      - Maintain normal sleep-wake cycle: avoid stimulants, expose to natural sunlight
+      - Re-orientation and reassurance
+      - Correct sensory deficits: glasses, hearing aids
+      - 1:1 special: familiarity and line-of-sight
+      - Involve family for reassurance and re-orientation
+      - Personalised care: TOP5
     - Low-dose antipsychotic
+    - Avoid benzodiazepines and anticholinergics
   - Medium-term
     - Medicolegal framework: likely duty of care + Guardianship vs MHA
     - Consult geriatrician or physician
