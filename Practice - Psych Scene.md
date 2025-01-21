@@ -1176,7 +1176,7 @@ Mr Alan Woods is a 64-year old male who is brought to the CMHT by his daughter d
 - Collateral information
 - **Evidence of delirium**
 
-## Genetic Testing - Principles
+## Genetic Testing - Principles (SKIPPED BECAUSE CEEBS)
 
 You diagnose him with Alzheimer's dementia. His daughter tells you that she has read that dementia can be hereditary and wants to know if her family should be tested. 
 
@@ -1188,3 +1188,47 @@ You diagnose him with Alzheimer's dementia. His daughter tells you that she has 
 - Ethics
   - Confidentiality
   - Effects extending to others
+
+## Capacity - Assessment
+
+A few months later Mr Woods has a fracture of his femur and is admitted to the surgical unit. After the operation, Mr Woods has developed gangrene of his foot. He refuses to have this operated. The surgeons call you to speak to Mr Woods. 
+
+> How would you manage the situation? 
+
+- Clarify expectations of the consult from the treating team
+- Review documentation in regards to recent events and progress on the ward
+- Discuss with treating team
+  - Current likelihood of risks involving his gangrene
+  - Other non-surgical managemnet for his gangrene
+- Assess legal framework: whether patient is currently under Guardianship or any other legal order
+- Review the patient
+  - Exclude mental illness impacting on current capacity
+  - History, MSE, capacity assessment
+  - Manage capacity by giving time, encouraging family and providing written words
+- Suggest neuropsychological assessment and then MDT
+- **Mention ethics**
+
+## Dementia Imaging - Recollection (For fk's sake, SKIPPED)
+
+> Typical neuroimaging findings in the major types of dementia
+
+- Alzheimer's disease
+  - Hippocampal degeneration
+- Frontotemporal dementia
+  - Frontaltemporal degeneration
+- Vascular dementia
+  - Frontal dementia
+- Dementia with Lewy bodies
+
+## Intellectual Disability - Assessment
+
+John is a 22-year-old male with Down’s syndrome who lives in a residential home for people with learning difficulties. You are a psychiatric registrar working in the emergency department. The ED registrar refers John’s case to you after John was verbally and physically aggressive to staff in the residential home. The staff refuse to have him at the home until his behaviour has settled. 
+
+> Outline your approach to the assessment.
+
+- Therapeutic alliance
+- Psychoeducation
+- ABC analysis
+  - Antecedents to behaviour: triggers include 
+  - Behaviour itself
+  - Consequences of behaviour

@@ -325,6 +325,16 @@ Example Qs:
   - Insomnia secondary to stimulants
   - Potential for abuse and diversion
   - Risk of psychosis and manic relapse
+## Psychotherapy <!-- tag:psychotherapy -->
+### Interpersonal Social Rhythm Therapy <!-- tag:ipsrt -->
+- Indication: bipolar affective disorder
+- Principles
+  - Zeitgeber theory: external or environmental cues affect biological or circadian rhythm
+  - Interpersonal therapy + focus on social rhythm and sleep/wake regulation
+  - Regularises irregular daily routine and to maintain regularity in the face of external challenges
+  - Reciprocal relationships between life stress
+  - Onset of mood disorders symptoms in relation to daily rhythm and sleep-wake cycles
+  - Identification of interpersonal triggers
 ## MEQ Geared <!-- tag:meq;id:958eeec3-7c97-40b0-94aa-0541c0c3d975 -->
 ### Borderline Admissions Risk Aspects <!-- tag:bpd;id:991a2e61-9df1-4c13-8f4d-4c9477640002 -->
 - Patient factors
