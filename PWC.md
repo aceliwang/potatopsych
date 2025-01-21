@@ -5,12 +5,13 @@ Easygoing person
 Love watching sports
 Easy to please
 Likes spending time with others
+Whe
 
 # Psychotherapy Written Case
 
 ## Personal Details
 
-Simon* is a 57 year old Lebanese gentleman, living with his second wife, Madame (age), in suburban Australia. He has no children. Simon recently became unemployed prior to commencement of psychotherapy and previously worked in IT whilst his wife was a part-time retail worker.
+Simon* is a 57 year old Lebanese gentleman, living with his second wife, Meredith (age), in suburban Australia. He has no children. Simon recently became unemployed prior to commencement of psychotherapy and previously worked in IT whilst his wife was a part-time retail worker.
 
 ## Mode of Referral
 
@@ -18,7 +19,17 @@ Simon was referred by the local consultation-liaison (CL) psychiatry service wit
 
 ## History of Presenting Complaint
 
+In assessment, Simon felt "low and uncharacteristically angry". This is on the background of recent medical issues including requiring surgery for a perianal abscess amid chronic inflammatory bowel syndrome and a new diagnosis of epilepsy. Simon was able to identify that his anger and irritability was typically triggered in situations where he experienced a loss of control, such as sitting in traffic or when in social situations not of his own making. 
+
+???
+
 ## Psychiatric Symptoms Review
+
+Sensations of nausea 
+
+Simon's mood was "low". She denie
+
+There were no symptoms of hypomania nor psychosis.
 
 ## Past Psychiatric History
 
@@ -28,6 +39,7 @@ Prior Hx:
 
 Prior psychotherapy:
 - CBT for GAD and depression
+- Hypnotherapy
 
 ## Medical History
 
@@ -35,6 +47,8 @@ Medical Hx
 - Epilepsy with absent seizures, recently diagnosed
 - Chronic back pain
 - IBS
+- Perianal abscess
+- Scope for ?haemorrhoids
 
 ## Medication
 
@@ -43,6 +57,7 @@ Previous medication trials
 - Desvenlafaxine
 - Mirtazapine
 - Diazepam
+- Reports decrease in efficacy over time
 
 Current medications
 - Moclobemide
@@ -57,6 +72,8 @@ Current drug use
 
 ## Forensic History
 
+Denies
+
 ## Family History
 
 Simon reports a paternal cousin living in Lebanon with a background of schizophrenia that completed suicide.
@@ -68,6 +85,9 @@ Simon reports a paternal cousin living in Lebanon with a background of schizophr
 ### Developmental
 
 ### Childhood
+
+- Left at the age of 2
+
 ### School
 
 ### Adolescence
