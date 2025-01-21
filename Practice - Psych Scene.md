@@ -1226,9 +1226,35 @@ John is a 22-year-old male with Down’s syndrome who lives in a residential hom
 
 > Outline your approach to the assessment.
 
+- **Setting the environment: calm, low-stimuli**
 - Therapeutic alliance
-- Psychoeducation
-- ABC analysis
-  - Antecedents to behaviour: triggers include 
-  - Behaviour itself
-  - Consequences of behaviour
+- ABC analysis of history of presenting complaint
+  - Antecedents to behaviour: triggers include perceived needs not being met, pain, interpersonal conflict
+  - Behaviour itself: nature of physical aggression and verbal aggression. Content of aggression. Duration.
+  - Consequences of behaviour: termination, whether requiring PRNs or restraint
+- History
+  - Psychiatric: diagnoses including of psychoses, admissions
+  - Neurodevelopmental diagnoses
+  - Medical: cognitive impairment
+  - Medications: regular meds
+  - Drug and alcohol usage including recent
+  - Forensic Hx
+  - Psychosocial Hx: **nature of group home**
+  - Developmental Hx
+- Examination
+  - MSE
+  - Physical examination: for pain or other triggers of agitation
+  - Cognitive exam
+  - Capacity exam
+- Investigations
+  - Septic screen
+- Risk assessment
+  - Severity of aggression towards self and others
+- Collateral Hx: nursing staff, group home staff, GP, documentation review
+- **Needs to focus more on apporach**
+
+## Intellectual Disability - Management
+
+John‘s behaviour settled and he went to the residential home. The staff ask for particular strategies to manage John’s behaviour when he gets aggressive.
+
+> Outline the key points would you cover in your discussion?
