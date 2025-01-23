@@ -1253,8 +1253,223 @@ John is a 22-year-old male with Down’s syndrome who lives in a residential hom
 - Collateral Hx: nursing staff, group home staff, GP, documentation review
 - **Needs to focus more on apporach**
 
-## Intellectual Disability - Management
+## Intellectual Disability - Management (TODO)
 
 John‘s behaviour settled and he went to the residential home. The staff ask for particular strategies to manage John’s behaviour when he gets aggressive.
 
 > Outline the key points would you cover in your discussion?
+
+- Discuss current management in regards to aggressive behaviour
+- Discuss addressing triggers to aggressive behaviour including unmet wants eg. pain, thirst, hunger
+- Discuss behavioural management:
+  - Addressing underlying cause
+  - Verbal de-escalation
+  - Encouraging of self-soothing
+  - Distraction strategies
+  - PRN management with chemical restraint
+    - Psychoeducation regarding side effects of above and reasons to escalate
+- Psychoeducation regarding reason and cause of behaviours in context of intellectual disability
+- Ongoing follow up and psychiatric review
+- **Safety netting**
+- **Contain and validate distress**
+- **Support for care giver**
+
+## Intellectual Disability - Ethics
+
+John has developed a relationship with a 24 year old female in the nursing home? The staff are concerned and so are John’s parents. The staff want to discuss this with you.
+
+> What are the main issues to be addressed in this situation?
+
+- Gather information
+  - Who's the female? Staff member or other
+  - Nature of relationship: consensual, one-sided
+- Ethical considerations
+
+## Stalking - Risk Assessment (TODO)
+
+Jane is a 35 year old nurse working in an in patient unit where you work as the psychiatric registrar. Steven is a 35 year old male who presents to the reception of the in patient unit demanding to see Jane. He claims that he is in love with her and wants to see her immediately. He seems agitated. Jane reports to you that she does not know him and he has been following her lately. She mentions that he has been an inpatient on the unit 3 months ago. 
+
+> Describe your assessment and what are the key features you would like to focus on with a view to diagnosis.
+
+- Clarify role
+- Therapeutic alliance: non-confrontational, non-judgemental, reassuring
+- History of presenting complaint
+  - Nature of stalking, duration and extent
+  - 
+- Risk assessment: thoughts of self harm, thoughts of harm towards others, extent of stalking behaviours
+
+## Stalking - Management
+
+You have diagnosed Steven with psychosis and want to admit him. There are no other beds available and he will need to be admitted on the ward of the local hospital. Jane, the nurse will be working double shifts for the next week. 
+
+> Outline your immediate management plan.
+
+- Legal framework: schedule under the Mental Health Act, due to active psychotic symptoms and risk of harm to others
+- Immediate de-escalation
+  - Verbal de-escalation
+  - Contact security as required if patient is combative and aggressive
+  - Offer chemical PRNs to manage agitation
+  - Utilise parental PRNs to manage agitation
+- Recommence management including antipsychotics
+- Due to conflict of interest, consider moving either Steven or Jane to separate ward due to risks involved with stalking
+- Notify clinical director and executive regarding situation
+- **Support for Jane**
+
+## Stalking - Management of Victim (TO REVISIT)
+
+Jane the inpatient nurse has been 'traumatised' by the overall experience and comes to you for advice. She reports feeling constantly on edge and believes this is affecting her work. She tells you that she has developed a dislike for young male patients on the ward. 
+
+> List the key issues in management
+
+- Jane's mental health: trauma-related disorder whether acute stress disorder or post-traumatic stress disorder
+  - Noting avoidance, hypervigilance, increased arousal state
+- Conflict of interest regarding role in treating patient as well as Jane, suggest seeking other psychiatrist for care
+- Consider referral for psychological therapy
+- **Workplace role**
+
+## Paraphilias - Assessment (TO STUDY)
+
+## Paraphilias - Management (TO STUDY)
+
+## Pathological Gambling - Assessment (UNFINISHED)
+
+- Therapeutic alliance
+- History of presenting complaint
+  - Amount, duration and frequency of gambling
+  - Financial losses of gambling
+  - Current types of games
+  - Review of dependence
+    - Increasing amounts of money being gambled
+    - Functional impairment upon other activities
+- History
+  - Psychiatric: diagnoses, past admissions
+  - Medical history
+  - Medications: eg. aripiprazole or other partial dopamine agonists
+  - Forensic Hx
+  - Developmental Hx
+  - Family Hx
+  - Capacity assessment
+- Risk assessment
+  - Thoughts of self harm
+  - Risk to finances
+
+## Pathological Gambling - Management
+
+- Similar principles to alcohol and addiction
+- Psychological
+  - Motivational interviewing
+  - Cognitive behavioural therapy
+- Social
+  - Peer support: Gamblers Anonymous
+
+## Suicide Attempt and Parasuicidal Behaviour - Assessment
+
+- Approach
+  - Therapeutic alliance
+    - Build rapport with the patient
+    - Non-judgemental, calm and reassuring
+  - Environment: low-stimuli, quiet, private, chaperone as required. Avoid security and police if possible
+- Assessment
+  - History of presenting complaint
+    - Suicide attempt: mechanisms, means, duration of plan and intentionality including suicide letters, obtaining means
+    - Previous attempts and medical care required eg. ICU
+    - Method of being found: alerted emergency services or found
+    - Identify all plans and actions to exclude medical issues
+    - Current thoughts about unsuccessful attempt whether distressed or happy
+    - Triggers for suicide attempt
+    - Presence of intoxication
+  - Physical assessment if not medically assessed by ED doctors
+  - History
+    - Psychiatric: known mental illness, admissions
+    - Medications: psychotropics and physical health
+    - Medical Hx: determines management
+    - Forensic Hx: to assess level of risk
+    - Drug and alcohol: to consider comorbid reasons for distress
+    - Psychosocial: employment, relationship stability, presence of other supports
+  - Screening for mental illness: psychosis, depression and mania in particular
+  - Examination
+    - Mental state exam: features of psychosis or depression
+    - Physical examination: safety from suicide attempt
+    - Capacity assessment: re ongoing care
+    - Cognitive exam
+  - Investigations
+    - Routine and targeted investigations depending on means of suicide
+    - Organic screen for depression
+  - Risk assessment
+    - Current thoughts of self harm, thoughts of absconding, ability to participate in care
+  - Collateral from friends/family and GP as well as community team if known
+
+## Suicide Attempt and Parasuicidal Behaviour - Management
+
+- Therapeutic alliance
+- Contain and validate experience
+- Attend with safe principles eg. security due to potential agitation
+- Risk assessment
+  - Assess current thoughts of self harm
+  - If remains suicidal, and unable to be managed in the community, consider crisis admission
+  - Utilise mental health act if patient is unable to accept voluntary admission
+- Admission
+  - 1:1 nursing 
+  - Medical stability
+- Management of underlying mental illness
+  - Recommence medications
+  - Reduce psychological distress
+- Await for patient to detoxify
+- Psychological follow-up going forward
+
+## Delirium - Causes
+
+- Altered mental status
+  - MOVE STUPID
+  - Metabolic: hypoglycaemia
+  - Oxygen
+  - Vascular: stroke
+  - Endocrine: hyperthyroidism
+  - Seizure
+  - Trauma
+  - Uremia
+  - Psychiatric
+  - Infectious: UTI, pneumonia
+  - Drugs/alcohol
+  
+## ATSI - Assessment
+
+- Preparation
+  - Therapeutic alliance
+  - Interpreter if required
+  - Offer presence of Aboriginal liaison worker / peer worker
+- Assessment
+  - Cultural factors
+    - Understanding of illness
+    - Understanding of precipitants
+    - Impacts and spiritual factors
+  - Attitudes towards medical model
+    - Treatment
+    - Diagnosis
+
+## Childhood ADHD - Assessment
+
+You are a psychiatry registrar working in CAMHS. Jack is a 10 year old boy who lives with his mother Lucy aged 32 and his father 37. He has a younger sister Mary who is 6 years of age. The GP has referred Jack to your service as he has been ' very difficult to handle'. His teachers are complaining that he is disruptive and his academic performance is deteriorating. 
+
+> Outline your approach to the assessment of Jack.
+
+- Multimodal assessment: individual and together
+- Assess Jack
+  - Features of ADHD: including inattention symtpoms as well as hyperactivity symptoms
+  - Presence of symptoms across home and at school as well as other settings
+  - Functional impairment upon school
+  - Reasons for being disruptive, poor sleep, poor appetite, unmet needs
+- Assess parents and child
+  - Attachment issues
+- Assess relationship between parents
+  - Presence of domestic violence
+  - Ongoing conflict
+  - Relationship with younger sister
+    - Any known high needs
+- History
+  - Developmental history: milestones, neurodevelopmental issues at birth
+  - Psychiatric diagnoses
+  - Medical issues 
+  - Current medications
+  - Family Hx
+- 

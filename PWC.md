@@ -5,7 +5,27 @@ Easygoing person
 Love watching sports
 Easy to please
 Likes spending time with others
+
+Explore 
 Whe
+Conflict between wife's lebanon and his lebanon
+high expectations from family, clashing between australian upbringing vs family expectations
+- ?adhd/epilepsy that has been 
+- ?belonging / torn in between
+
+"if you think about your mum, what words would you use to describe her?
+- repeat for dad, ex-wife, new wife
+
+- look at ways of connecting
+- ?adhd
+- consider resistance with assessment process
+- trouble relating to ppl
+- reaffirm the task regarding assessment
+- what does he feel about the issue? religious
+- extended assessments
+- progress depends on the quality and depth of issues
+
+- [TODO] clarify impact of the epilepsy and adhd
 
 # Psychotherapy Written Case
 
