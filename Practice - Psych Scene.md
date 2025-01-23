@@ -1471,5 +1471,142 @@ You are a psychiatry registrar working in CAMHS. Jack is a 10 year old boy who l
   - Psychiatric diagnoses
   - Medical issues 
   - Current medications
+  - Drug usage
   - Family Hx
+- Examination
+  - MSE
+  - Physical examination
+  - Cognitive exam: IQ test
+- Collateral
+  - From parents
+  - From school
+  - From GP
+- Risk assessment
+  - Harm to self and others
+- **Psychometrics**
+  - Conner's Questionnaire
+- **Child observation at home and in school**
+
+## Childhood ADHD - Management
+
+After the assessment you diagnose him with ADHD.
+> Outline the strategies for management.
+
+- Therapeutic alliance: engage the child, build rapport
+- Psychoeducation of child, parents and siblings
+  - Discuss ADHD and implications
+  - Discuss management
+- Non-pharmacological
+  - Making sure to confirm attention before communicating
+  - Simplifying information
+  - Decreasing stimuli
+  - Consistent behavioural management
+  - Psychoeducation of school: teachers
+  - CBT and ADHD coaching
+- Pharmacological
+  - Stimulant therapy with methylphenidate or dexamphetamines first-line
+  - Alpha antagonists to assist with hyperarousal e.g. clonidine
+- Liaise with paediatrician
+- Bring to MDT for occupational therapy assessment and functional assessment
+- Arrange follow-up
+- **Contingency management**
+- **Parental handling**
+
+## Poor School Performance - Assessment
+
+You work in a Child and Adolescent Outpatient Clinic and a paediatrician has sent you a referral. 10-year-old boy attends with his mother. He lives at home with parents and siblings. The paediatrician has diagnosed him with ADHD and Tourette’s and has prescribed him methylphenidate and clonidine with improvement of behaviours at home. His school performance has, however, deteriorated.
+
+> What are some of the possible reasons for his poor school performance?
+
+- Patient factors
+  - Organic: epilepsy, vitamin deficiencies, sensory impairment, autism
+  - Comorbid diagnoses: 
+    - Social anxiety and/or separation anxiety disorder
+    - Intellectual or learning disability
+    - Depression
+- Treatment factors
+  - Underdosing or issues with compliance
+- System factors
+  - Bullying at school
+  - Poor teaching
+
+## Stimulant Side Effects - Psychoeducation
+
+Mother reports she has read in a magazine article that stimulants cause growth retardation and “drug addicts”. The child has a diagnosis of Tourette's and ADHD. 
+
+> How do you respond to mother’s concern about medication?
+
+- **Therapeutic alliance**
+- Contain and validate concerns
+- Praise the mother for her care of her child
+- Psychoeducation about benefits of stimulants
+  - Can treat the symptoms of ADHD
+  - Can decrease hyperactivity and increase attention
+  - This can reduce functional impairments in school via both behaviour and school performance
+- Psychoeducation about adverse effects of stimulants
+  - There are no evidence about stimulant use leading to addiction with chronic usage including dependence
+  - Stimulants are known to suppress appetite and may lead to growth retardation through indirect pathways
+  - Discuss monitoring and encouraging adequate oral intake to prevent growth retardation
+  - Discuss potential worsening of Tourette's
+- Psychoeducation about Tourette's and ADHD
+- **Discuss management of growth retardation**
+  - Non-stimulants
+  - Medication holidays
+
+## Stimulant Side Effects - Management
+
+You continue to prescribe him his medication and his school performance improves. However his mother is concerned about on-going tics. 
+
+> Outline your management of his Tourette’s.
+
+- Therapeutic alliance
+- Psychoeducation of family and **school**
+- PSychological
+  - Cognitive behavioural interventions with habit-reversal training
+  - CBT if required
+  - Metacognitive training with habit-reversal training
+  - **Stress reduction and boredom management**
+- Pharmacological
+  - Decrease stimulant use either dose or medication holidays
+  - Switch to clonidine to manage both ADHD and Tourettes
+  - Use antipsychotics
+
+## Patient Suicide - Management
+
+You are the consultant of an inpatient psychiatric ward. Your patient is a 51-year-old man with psychotic depression. He appears to be improving with medication so his nursing observations are downgraded. When you arrive to work early Monday morning, you are informed that your patient has committed suicide over the weekend. He was found hanging in his bedroom on the ward.
+
+> What is your immediate response to this situation?
+
+- Gather information from staff involved, registrar, consultant-on-call, nursing staff involved
+- Escalate to clinical director if they are not already aware
+- Organise a family meeting with the patient's family members, consider including NUM and/or other staff that has interacted with family
+- Contact medicolegal organisation regarding advice
+- Document actions and recollections regarding management
+- Offer debriefing to staff members and other co-patients if necessary
+- Escalate to coroner's case
+- **Police informed, documentation carried out**
+- **Attend supervision**
+- **Root cause analysis**
+- **Peer review and case conference**
+
+## Informing Children of Bad News - Principles (RESEARCH, DIFFERENT ANSWERS)
+
+Your patient’s ex-wife calls you. She has been informed by the police of the death. She asks for advice on what to tell their 10-year-old son. He last saw his father 2 months ago. She is not sure whether to tell him about the suicide. 
+
+> Outline your response
+
+- Assess
+  - Relationship of child and father
+  - Awareness of father's illness
+- Answer should be guided by risk/benefit analysis of possibly harming the child via disclosure vs honesty and veracity
 - 
+- Not advisable to lie
+- Would advise child to know 
+
+## Patient Suicide - Team Management (TODO)
+
+During the week you notice that the nursing staff are reluctant to downgrade nursing observations or to let inpatients go on leave. They request more nursing staff as they report they are unable to provide adequate nursing care. 
+
+> What are the possible reasons why the nursing staff are behaving like this?
+
+> What are the key strategies in managing this? 
