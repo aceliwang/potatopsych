@@ -1610,3 +1610,227 @@ During the week you notice that the nursing staff are reluctant to downgrade nur
 > What are the possible reasons why the nursing staff are behaving like this?
 
 > What are the key strategies in managing this? 
+
+## Cultural PTSD - Approach
+
+You are the consultant of a community mental health clinic. Your patient is a 49 year old Indigenous woman who has been case managed and treated for symptoms of PTSD for the last 6 months following a sexual assault 2 months. On her way to her appointment today, she saw her assailant, who is a distant relative, on the bus and became very distressed. Her case manager has just approached you with concerns about the level of her distress and risk of self-harm.
+
+> Before assessing your patient, what information do you need from the case manager?
+
+- Summary of patient
+  - Diagnoses, comorbid Hx
+  - Current treatment: including medications and psychology
+  - Previous admissions to mental health
+  - Previous self-harm and risk
+  - Degree of community supports
+  - Substance usage
+  - Risk assessment
+  - **Trauma to avoid retraumtisation** 
+- Cultural issues
+  - Request for elders and aboriginal liaison workers
+  - **Language**
+  - **Understandings of illness**
+
+## Cultural PTSD - Management
+
+You see your patient with her case manager. She reports after speaking to you she feels much better. She denies any self-harm ideation and does not want to be admitted to hospital. She would like to go home and would like something to “make me feel better and help me sleep tonight”.
+
+> What is your immediate management plan?
+
+- Risk assessment
+  - Current thoughts of self harm, intention and access to means
+  - Current thoughts of harm towards other
+  - Current intoxication
+  - Current supports in the commuity
+- Safety netting
+  - Discuss strategies when feeling unwell
+  - Discuss escalation of resources including to Mental Health supports, case manager and/or 000 if required
+  - Discuss people to call and ongoing medications
+- Discuss ongoing management
+  - Psychoeducation
+  - Melatonin 2mg to assist with sleep
+  - Psychological follow-up
+
+## Cultural PTSD
+
+A week later the case manager approaches you and informs you that your patient is feeling much better after speaking about her symptoms. Your patient would like to disclose the sexual assault to her adult daughter. However she is concerned that her adult son, and other members of the community will find out.
+
+> What is your response to the case manager?
+
+- Risk-benefit analysis
+  - Risks: cultural stigma, acceptance, interpersonal conflict with other members of community
+  - Benefits: further increased support from family by sharing of information
+- Enhance patient autonomy, it is ultimately up to them
+- Supports targeted at sexual assault victims eg. groups, etc. as an alternative
+- Follow-up and safety netting
+- **Peer review**
+- **Discuss with aboriginal mental health liaison workers**
+- **Follow up meetings**
+
+## Trauma, Family and Perinatal Aspects (REPEAT FROM RANZCP, DID NOT ATTEMPT)
+
+> Discuss the immediate and longer-term psychiatric interventions you would suggest for Olivia's previous sexual abuse.  Please give reasons for your choices. 
+> Discuss the interventions you would use to support Olivia's family.  Please give reasons for your choices. 
+> Olivia has found out that she is pregnant as a result of having sex with her husband when on weekend leave from the hospital.  She and her husband are concerned about the effects of psychotropic medication on the baby.  Outline the information and options you would discuss with Olivia and her husband.  Please provide adequate detail.
+
+## Migrant / Asylum Seeker (REPEAT FROM PSYCHSCENE VIDEOS)
+
+Emile, a refugee from Serbia came to Australia 20 years ago.  His parents and younger brother were killed eight years ago while seeking asylum before coming to Australia.  He witnessed multiple atrocities and trauma.  He lives with his wife and two teenage children at home.  His general practitioner referred him to you as he has been feeling teary with chronic headaches and sleep disturbances.  His general practitioner has investigated his headaches.
+> Outline your differentials.
+> Outline your assessment process.
+> What collateral information would you require?
+> During your assessment, you found no psychiatric diagnosis.  He states that his wife has been busy with her work and his two teenage sons that are not interested in cultural activity which he finds very frustrating.  Outline your management plan.
+
+## BPSD (REPEAT FROM PSYCHSCENE VIDEOS)
+You have recently assessed Mr Newbury, aged 84 years who lives in a residential care centre for people with dementia.  Mr Newbury suffers from moderately severe Alzheimer's disease.  The staff are concerned that he is verbally aggressive towards staff and other residents and occasionally lashes out and hits staff.  Some of the untrained staff in the centre feel that Mr Newbury is deliberately playing up and are annoyed with him.  When you examine Mr Newbury, he is calm but severely cognitively impaired.  He has no apparent physical problems.  Recent routine lab investigations including midstream urine culture unremarkable.  Mr Newbury is on no medication.
+ 
+> Describe the information you would ask residential care staff to collect regarding Mr Newbury's difficult behaviour?
+> When you return to the centre one week later, you find that staff have not collected any information for you.  Discuss the factors that make it difficult for care staff to collect such information.
+> The management of the centre asked for a teaching session for the regular staff on management of difficult behaviour and dementia patients.  Discuss how you would educate the staff.
+
+## High EE (REPEAT FROM PSYCH SCENE VIDEOS)
+
+Omar is a 23-year-old gentleman living at home with both his parents who are medical practitioners. He has been diagnosed with bipolar affective disorder and has a history of cannabis and methamphetamine dependence. He has been treated under CTOs twice previously where he lives in another city and is on risperidone and lithium. He is now moved back with his parents under the condition that he takes his medication. Parents are prescribing and checking his levels.
+
+> What information do you need before assessing Omar?
+> If his father calls the clinic and states that he does not wish Omar to be seen by the registrar even though Omar finds the registrar useful.  He wants the son to be reviewed by the consultant.  How would you outline your approach to the request?
+> Father wants Omar to have more intervention and feels that not enough is being done for him.  He has read about IPSRT and wants to find out how this would be helpful for Omar.  Describe what it is and how it might benefit the patient?
+> Father has now prescribed and administered a depo, how would you handle the situation?
+
+## Organic Depression (REPEAT FROM PSYCHSCENE VIDEOS)
+
+You are a consultation-liaison psychiatrist.  You are referred Bill by the Endocrinology Team.  Bill is a 45-year-old married electrician who has a history of pituitary carcinoma.  His tumour was successfully removed by the Endocrinology Team; however, since that time, Bill has developed mood lability, social withdrawal and low self-esteem.  He initially returns to work as an electrician; however, left his work after six months as he lost confidence.  He also suffers from chronic headaches and insomnia.  Bill has sleep apnoea and uses CPAP machine.  He is managed with thyroxine and corticosteroids.  
+
+> Outline the reasons for Bill's mood lability?
+> You meet with Bill and his wife.  Bill's wife has taken over cleaning, shopping and management of bills since Bill's surgery.  Bill feels angry and frustrated about this.  According to the occupational therapist, Bill is capable of doing these things himself. Outline the management of the situation.
+> The Endocrinology Team tell you that Bill's tumour has returned although it is treatable.  Bill has become increasingly irritable and labile in his mood. Outline the possible causes for Bill's mental state deterioration.
+
+## AHPRA Reporting (REPEAT FROM PSYCHSCENE VIDEOS)
+
+A 35-year-old, Janine who works as a Career medical officer at the Emergency Department was referred to you by general practitioner for admission with five weeks' complaints of low mood, sleep problems and issues with concentration.  The general practitioner stated two past episodes of depression which were treated with antidepressants (eight to nine months each time).  He also noted that she recently had a complaint from the patient in the Emergency Department and had to take a week off.  
+The director of ED called you to discuss her admission.  He tells you of the complaint made by a patient against the chief medical officer (CMO) of acting inappropriately.
+
+> List and explain ethical and work issues.
+
+## Delirium (REPEAT FROM PSYCHSCENE VIDEOS)
+
+You are called to carry out a home visit at Mrs Smith's house, who is 72 years of age.  She presents mildly confused, irritable and unsteady on her feet.  Her previous mini-mental state examination scored 21/30.  She showed impaired attention, concentration and short-term memory.  She is currently on atenolol, lithium, fluoxetine and L-DOPA.
+
+> Outline the possible causes for her presentation.
+> Mrs Smith is admitted to the Older Patients Mental Health Service Inpatient Unit.  What would be your advice to the registrar in prescribing of medications?
+> Her son is visiting from overseas and he wants her to make a Will.  
+> Outline your process of assessing testamentary capacity.
+> Assessment of enduring Power of Attorney.
+
+## Encopresis (REPEAT FROM PSYCHSCENE VIDEOS)
+
+You have been referred to see a 6-year-old boy, Sam, by the paediatrician for encopresis who lives with his mother who is a single mother.  The paediatrician has rule out any organic issues and started him on laxatives and a star chart which has not worked. 
+
+> Outline your assessment of encopresis.
+
+Sam has not seen his father for some time, mother has depression and is on antidepressants.  His mother said that she is tired of bribing him to behave.  When he sees Sam, you notice that he has a bruise on his arm.  Outline your management plan.
+
+## Abnormal Illness Behaviour (REPEAT FROM PSYCHSCENE VIDEOS)
+
+A 4-year-old girl who lives with her father and her mother and has two older siblings, aged 8 and 10, was admitted to the medical ward for investigation of her abdominal mass which turned out to be malignant on histology.  Her father became irritable after being told the news, stopped sleeping and started responding to hallucinations and behaving bizarrely as per nursing staff.  Currently, he is by daughter's bedside, agitated, verbally aggressive to the staff, not letting blood samples be collected.  Nursing staff call you from the ward.
+
+## Chronic Fatigue Syndrome (REPEAT FROM PSYCHSCENE VIDEOS)
+
+You are a junior psychiatrist and Virginia is a 14-year-old girl who has been referred to your community mental health service by her family doctor who has diagnosed her as having chronic fatigue syndrome.  Virginia has a two-year history of excessive tiredness and nonspecific physical symptoms.  Virginia has had homeschooling for the past year, avoids social settings and has a little contact with peers.  She says she could do all these things "if they were open at night when I am awake".  She stays up watching television and talking to online internal chat rooms until 3 am and then sleeps until midday.  Virginia's mother, Mrs Bennett, has stopped work so she can care for her daughter.  The family doctor says he has excluded all significant organic causes of Virginia's fatigue but wonders if there are psychiatric problems.  He requests that you assess and treat her.  You take her history and carry out her mental state examination.
+Outline the areas of history that you would focus on in assessing her presentation. 
+
+## Treatment-Resistant Depression (REPEAT FROM PSYCHSCENE VIDEOS)
+
+A 67-year-old lady with recurrent treatment-resistant depressive disorder, presents with severe depressive episode of two months' duration.  She has developed nihilistic delusions and is very agitated over the last two weeks.  She has been on escitalopram 20 mg per day for the last two years.  Husband and daughter are aware.  She is fearful of and has previously been adamant in her refusal of ECT.  Her brother died of suicide, aged 20, after having ECT for depression.  Her husband and daughter feel ECT is not appropriate and objects strongly to this treatment.  On the inpatient unit, she is initially commenced on venlafaxine, which was titrated to 225 mg mane over a period of three weeks with no effect.  Subsequently, she was crossed titrated with nortriptyline with a dose of 100 mg being maintained over two-week period as a mood stabiliser.
+
+## CTO and Schizophrenia (REPEAT FROM PSYCHSCENE VIDEOS)
+
+You are a junior consultant psychiatrist working in the community adult mental health clinic, you are approached by a case manager, about Jarvis, a 28-year-old male, who’s case managed on a community treatment order following a first episode psychosis when he was 22. He works in the local radio station as a jockey and lives with his parents. He is prescribed paliperidone monthly depot over the past four years. His case manager tells you he is due for a review as his CTO expires in four weeks and needs to be extended. 
+
+## Supervision and Interpreters (REPEAT FROM PSYCHSCENE VIDEOS)
+
+You are a consultant psychiatrist working in the mental health service. Sarah, who is a stage 2 trainee, has been assigned to work with you. She contacts you with regards to arranging supervision and you set-up a time to meet with her. 
+
+## OCD (REPEAT FROM PSYCHSCENE VIDEOS)
+
+You are a junior consultant psychiatrist in the community mental health clinic. You are referred by a GP for assessment, James, a 39-year-old unemployed electrician living with his parents. James has had a diagnosis of obsessive-compulsive disorder over the last 20 years. He hardly ever leaves the house these days and relies on his parents for shopping, cooking, etc. He has been treated with medications in the past but he has self-ceased all medications for fear of side-effects. He has been linked in with a clinic in the past but disengaged after a few months. 
+
+## Adverse Event (REPEAT FROM PSYCHSCENE VIDEOS, GOVERNANCE)
+
+You are a junior consultant psychiatrist working in a regional area. There has been an electroconvulsive therapy (ECT) adverse event (critical incident) involving ECT for a patient. 
+A First-year student asks you to explain what a root cause analysis is.
+
+## Audit (REPEAT FROM PSYCHSCENE VIDEOS)
+
+Adult ADHD prescribing is higher than your peers in the region. How would you respond and manage? Your clinical director hands you an evaluation showing that your practice was prescribing psychostimulants vastly different to those of your peers. How would you go about addressing this? 
+
+## Clozapine Management (REPEAT FROM PSYCHSCENE VIDEOS)
+
+A 45-year-old gentleman with schizophrenia working as a gardener recently relocated from another service. You have access to his previous information. 
+He is able to make decisions for himself. He is stable on paroxetine 400mg daily for the last 15 years. The new case manager tells you the hand over from previous community mental health team has been adequate and all relevant documents have been sent across. 
+Joe wants to change his anti-psychotic because he is struggling with side effects of tiredness, sleeping 12 hours a day, his head feels foggy and he can only work two days a week (as a gardener) due to these symptoms. He is compliant with medications but on the odd occasion that he forgets his clozapine, he feels brighter. What information would you like to find out before you consider Joe’s request for medication change? 
+
+## Acute Aggression (TODO, IN PSYCHSCENE 2021)
+
+You are an on-call psychiatrist in a large hospital. Your registrar calls to get advice on a case. A male has been brought into ED after his wife called the police reporting she and her child are unsafe from him. He is not known to mental health services. He is well known to police who have had contact with him on multiple occasions and he has a history of amphetamine possession. [Aggressive man brought in by police on Amphetamine after his wife and kids felt threatened and contacted police]. He received 10mg IV Droperidol twice and IM Midazolam for sedation and needed physical restraint. He is unresponsive after that. 
+
+> The nurse says he is awake and physically stable and requests a psychiatric assessment. What will you ask the registrar to check?
+
+> Registrar asks you what the principles of management of safe practices in Acute severe behavioural Disturbances? (12 marks) 
+
+## Psychotherapy (TODO, IN PSYCHSCENE 2021)
+
+Young IT clinician, not socialising, spends most of the time on the computer late at night, well-functioning but thinks that “I am a loner, I am a loser”. His father died 3 years back, he enjoyed wood cutting with him and misses him. Isolating in past 3 years has gained weight.
+You have diagnosed him with mild to moderate depression and he wants to do psychotherapy.
+List and debate the MOST important psychotherapy options for him.
+
+> List and explain factors preventing him from doing homework.
+
+
+## Perinatal Psychiatry and IVF (TODO, IN PSYCHSCENE 2021)
+
+39 years old, single lady, on DSP, diagnosed with chronic Schizoaffective disorder, maintained on Clozapine 600mg and lithium, no substance use disorder, good compliance and engaging well with the last admission 3 years back. Her BMI is 35.
+Does she want to have a baby via IVF? 
+
+## Religious Beliefs (TODO, in PSYCHSCENE 2021)
+
+Marian is diagnosed with Squamous cell carcinoma and the surgeon wants to operate but he is refusing treatment. 
+He believes that god will cure him.
+
+## Cultural Stigma (REPEAT FROM PSYCHSCENE VIDEOS)
+
+42-year-old married Indonesian woman lives with her husband and their 3-year-old child. She presented following an overdose of 10 tablets of 10mg amitriptyline. She felt hopeless that her physical health will not return to normal functioning.
+When you saw her, she was adamant that she was no longer suicidal. She feels depressed, tired, lethargic, predominantly somatically focussed and not able to work as a tutor at university. 
+Her husband is not happy that she is not doing any work or looking after her son and this has caused conflict in their relationship.
+You see her in the post-overdose clinic.
+Husband tells you that he is not happy for her to be followed up by a psychiatrist.
+
+## Sexual Recidivism Factors (TODO)
+- Line 3142
+
+## Adult ADHD (LIKELY REPEAT, CAN"T FIND EXACT)
+
+## Perinatal Depression (REPEAT FROM RANZCP)
+
+You are a psychiatric registrar working in a Community Mental Health Centre. You are asked to review Justine, a 32 year old female, recently married with no children, working full time as a medical secretary. Justine has recently told the practice nurse (at her local medical centre) that she would like to become pregnant. 
+She has been hospitalised twice in the past, including an episode after a suicide attempt five years ago. She has been well for two years. She is prescribed paroxetine, 40 mg daily, and has no significant side effects. 
+Justine has been referred by her General Practitioner, having previously been treated at the CMHT for recurrent major depression. 
+Outline your approach to the interview with Justine .
+
+## Opioid Addiction (REPEAT FROM RANZCP)
+
+You are working as the junior consultant in a large hospital. Tony aged 23 years was involved in a motorcycle accident in which he sustained multiple internal injuries and an unstable neck fracture. Tony has surgery to stabilise his cervical spine and is currently immobilised in a halo traction , has a chest drain and cannot be moved.
+Two days after surgery, the spinal injury team contacts you expressing concern at Tony's excessive demands for opiates. When you speak to Tony he tells you that he is in agony and can't sleep because of back pain. He looks anxious and low in mood but denies anxiety and depressive symptoms.
+Tony is demanding to smoke cannabis and cigarettes and says he cannot cope with hospital without them. He has threatened to sign himself out of hospital. He is verbally aggressive towards staff especially when they try to discuss the hospital smoke free policy with him. the staff would like your help in managing Tony.
+You registrar says the diagnosis is Antisocial Personality Disorder
+
+## Indigenous Psychiatry (TODO, NEW)
+
+Mr. Davies is a 60 year old Aboriginal man with chronic paranoid schizophrenia. He lives with his son, daughter-in-law and 2 grandchildren (3 and 5 years old). He is on a flupenthixol depot 20 mg IM 2 weekly and has been managed in the community. In the past when unwell, he has responded to an increased dose in his medications. He has a past history of verbal aggression and paranoia toward the neighbours. Recently, a member of the family passed away and Mr. Davies' psychotic symptoms worsened - he started expressing more paranoid persecutory ideation regarding his neighbours trying to poison him. He thinks that the only way to solve this is to smoke them by burning their houses. He also thinks that his 4 year-old grandson, Tyler, is trying to poison him. Mr Davies has lost weight as a result of this.
+List the risks inherent in the scenario.
+
+## CTO and Ethics (REPEAT FROM PSYCHSCENE VIDEOS)
+26 year male with Hx of Schizoaffective disorder and Meth dependence. 
+Patient is released from prison 2 weeks ago on depot clopixol and olanzapine. Currently on enforced treatment MHA (not forensic licence).
+He tells you that he is drug free as he is required to do random UDS for the next 6 months part of his bail condition.
+He came to see you with his sister who is adamant that he should not be on a treatment order, and that he has rights to choose his own treatment.

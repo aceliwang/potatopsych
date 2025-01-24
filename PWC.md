@@ -1,3 +1,5 @@
+# Criteria
+- Aim 10000 words
 # Unclassified
 
 Druze faith
