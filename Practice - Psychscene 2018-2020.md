@@ -212,10 +212,46 @@ You are a junior psychiatrist in a community mental health clinic. Bill, a 71yo 
 Emma a 32 year old school teacher has two children and lives with her husband. She has been unable to return to work since her 3 year old son was born due to ongoing depression. Emma has had post-natal depression following both births. Emma has been experiencing irritability, mood swings in recent months. On venlafaxine 225mg. Husband ambivalent about baby and reports they are struggling on a single income. 
 
 ### MEQ 21.1 She wants to stop her antidepressant and get pregnant. What issues will you discuss? (10 marks)
+
+- Therapeutic alliance
+- Family meeting with multidisciplinary involvement
+- Risks of relapse with cessation of medication
+  - Postnatal depression
+  - Suicide and infanticide
+  - Poor attachment and difficulty bonding
+- Recommendation of continuing medication
+  - Current mental state suggests that her depression may not be in remission
+- Risks of continuing medication
+  - Antidepressants are considered relatively safe in pregnancy
+  - Risks can include neonatal withdrawal syndrome, pulmonary arterial hypertension
+  - **Venlafaxine is associated with increasing risk of miscarriage**
+- Psychoeducation
+  - Prenatal and antenatal care: lifestyle factors, cutting down smoking
+  - Link in with obstetrician and/or GP and/or antenatal care
+  - Breastfeeding factors: plan
+- Communication with husband regarding ongoing plan
+  - Consider lack of support
+- Arrange follow-up
+
 ### MEQ 21.2 Husband doesn't want baby and comes to meeting. He is concerned about risk to Emma and her children. How would you facilitate discussion? (6 marks)
+
+
 ### MEQ 21.3 She's 8 weeks pregnant and she stopped meds (GP confirmed pregnancy). She is irritable, low mood, early morning wakefulness. How would you manage her? (10 marks)
 
+
+
 ### MEQ 21.4 Emma's 7 year old son has been refusing to go to school. Discuss the potential causes for his school refusal. (5 marks)
+
+- School refusal causes
+  - Issues at home
+    - Conflict between parents re new parents
+    - Mother exhibiting signs of early warning signs of depression
+    - Uncomfortable about parents having another kid
+  - Issues with kid
+    - Separation anxiety disorder
+  - Issues at school
+    - Bullying
+    - Academic difficulties
 
 ## MEQ 22
 
@@ -223,9 +259,21 @@ You are working as a junior consultant in a post overdose clinic. Sahbi a 42 yea
 
 ### MEQ 22.1 [Outline your] differentials with justification. (10 marks)
 
+- Major depressive disorder: suicidality
+- Borderline personality disorder: maladaptive coping mechanisms, impulsivity, labile relationships, suicidal ideas
+- Somatic symptom disorder: fatigue, muscular pains
+- Organic symptoms: anaemia, regular muscle pains
+
 
 ## MEQ 23
 
 Toby is 25 year old male who has come to ED late at night requesting a repeat diazepam scripts (with 7 repeats). Toby claims he needs 4 diazepam a day to help with his nerves. He has no previous history with services.
 
-### MEQ 23.2 He becomes aggressive and threatens to self harm saying he's being treated by a junkie. How would you manage this situation? (7 marks)
+### MEQ 23.2 He becomes aggressive and threatens to self harm saying he's being treated by a junkie. How would you manage this situation? (7 marks) HAVE NOT FINISHED
+
+- Preparation
+  - Ensure appropriate staffing: security, nursing
+  - Low stimulus environment: quite, private
+  - Therapeutic alliance: non-judgemental, calm, reassuring
+- Psychoeducation
+  - ED is not the appropriate setting for 
