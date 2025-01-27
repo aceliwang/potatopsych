@@ -32,6 +32,16 @@ X is a 19M who has been referred to you by his GP for feelings of "paranoia" whe
 
 ### MEQ 10.1 List and justify diagnoses which you would consider for X.
 
+- Autism spectrum disorder
+  - Intense preoccupations with certain items eg. toy soldiers/action figures
+  - Paranoia, few friends suggesting issues connecting with people socially
+- Alcohol misuse disorder
+  - Recurrent binges leading to ten drinks and black outs
+- Panic disorder: panic attacks when outside
+- Social anxiety disoder: panic attacks when leaving the house in public
+- Complex post-traumatic stress disorder: ongoing  bullying at school, prior domestic violence
+- Major depressive disorder: possible anhedonia
+
 ## MEQ 11
 
 You are on-call psychiatrist in large hospital. Your registrar calls to get advice on a case. Male been brought into ED after his wife called the police reporting she and her child are unsafe from him. He is not known to mental health services. Well known to police, contact with him on multiple occasions and history of amphetamine possession. Aggressive man brought in by police on amphetamine after his wife and kids felt threatened and contacted police. He received 10mg IV droperidol twice and IM midazolam for sedation and needed physical restrain. He is unresponsive after that.

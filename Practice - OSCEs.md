@@ -178,15 +178,44 @@ Explain your findings to the patient.
     - Can lead to worsening parkinsonian symptoms leading to risk
 -  Outline the advice you would offer the nurse-in-charge about managing the dissatisfaction of the nurses with the doctor on duty.
 
-# 2020 Nov Station 5 - Creatine Kinase
+# 2020 Nov Station 5 - Creatine Kinase (NOT VERY WELL DONE)
 
 - History
   - Reason for referral: disruptive behaviour, lack of insight, increased energy/activity
-    - 
   - Nausea, headache, blurred vision
+  - Cognitive assessment: attention, orientation to time and place
+  - Manic: sleep, energy, irritability, grandiosity, flight of ideas
 - Investigations
-  - Hypertensive
-  - 
+  - Hypertensive: hyperthyroidism, tachycardic
+  - Anaemic, agranulocytosis, hyperthyroidism
+  - Creatinine is slightly elevated, kidney function is low
+  - Urea, electrolytes including sodium and potassium
+  - ECG regarding electrolyte abnormlaities
+  - CRP for underlying infection
+  - ?dehydration
+  - Reasons for hyperthyroidism: autoimmune antibodies (TSH antibodies, TRAb, TPO thyroid peroxidase), recent infection leading to thyroiditis
 - Focussed examination
+  - Neck abnormalities
+  - Tremors
+  - Heat intolerance
+  - Lateral eye brows missing
+  - Diarrhoea
 - Differential diagnosis
+  - Mania in context of hyperthyroidism
+  - Delirium secondary to dehydration
+  - Slightly febrile: infection leading to delirium or secondary to agitation
+  - Substance use
 - Short-term management plan
+  - Not lithium
+- Muscle dysmoprhia
+
+# 2019 Sep Station 1 - Attachment
+
+Describe the interaction between the child and his mother in this ‘Strange Situation’ scenario.
+
+
+Determine the likely attachment style of the dyad.
+
+Explain different attachment styles and their significance.
+
+Prioritise specific interventions to support Rhianna and Charlie

@@ -104,9 +104,36 @@
 
 You are the on-call psychiatrist to a public hospital and you are contacted by a psychiatry registrar. Mark is a 45-year-old single successful car salesman who has presented to the Emergency Department expressing suicidal ideation with a plan and intent. He had been recently charged with sexual assault after a work function. He has no previous psychiatric history.
 
-### MEQ 14.1 Outline (list and justify) what specific information you would expect the registrar to have obtained from Mark. (12 marks) 
+### MEQ 14.1 Outline (list and justify) what specific information you would expect the registrar to have obtained from Mark. (12 marks)
+
+- Formulation following assessment
+  - History of presenting complaint: suicidal ideation
+    - Contents of plan, progress made of plan, means of access to plan
+    - Preparations made, tools gathered, suicide note written
+    - Reason for presentation, protective factors diverting Mark from suicide
+    - Precipitating factors: charged with sexual assault, intoxication
+  - History
+    - Psychiatric: previous suicide attempts
+    - Premorbid personality
+    - Drug and alcohol use
+    - Psychosocial supports: family, parents, relationship issues
+    - Forensic Hx: whether recurrent patern of sexual assaults
+    - Family Hx: suicide
+    - Medical issues and medical Hx
+    - Medications
+    - Deevelopmnetal
+  - Risk assessment: current thoughts of harm to self, insight and willingness to work towards reducing current depressed mood
+  - MSE: features of depression, intoxication, whether in crisis
+  - Physical examination: features of intoxication
+  - Ongoing police involvement
+  - Collateral from friend
 
 ### MEQ 14.2 The registrar informs you that, on examination, Mark is distressed and tearful. Mark is fearful of legal costs. He reports he cannot recall the incident on the night and states that he was very intoxicated that night. Mark says he will kill himself if he is jailed. He has stated that he is too ashamed to discuss this matter with his parents. A bed is available but the registrar expresses uncertainty about whether or not to admit Mark to an inpatient unit. Outline (list and justify) what in Mark's history and presentation would indicate that he needs admission. (6 marks) 
+
+- High dynamic risk factors
+  - Difficulty engaging with protective supports eg. parents due to being ashamed
+  - Ongoing legal issues: perpetuating factors that continue and are unable to be quickly mitigated
+  - Drug and alcohol use: possibly contributing to Mark's impulsivity and suicidal plan
 
 ### MEQ 14.3 A few weeks later, the registrar contacts you, advising that they have received a request from Mark's solicitor (with signed consent) asking for a report regarding the assessment on the night of his presentation. Your service has a policy of responding to such requests. Your registrar asks your advice on how to prepare such a report. Describe (list and explain) your advice to the registrar. (6 marks)
 
