@@ -1770,32 +1770,177 @@ A 45-year-old gentleman with schizophrenia working as a gardener recently reloca
 He is able to make decisions for himself. He is stable on paroxetine 400mg daily for the last 15 years. The new case manager tells you the hand over from previous community mental health team has been adequate and all relevant documents have been sent across. 
 Joe wants to change his anti-psychotic because he is struggling with side effects of tiredness, sleeping 12 hours a day, his head feels foggy and he can only work two days a week (as a gardener) due to these symptoms. He is compliant with medications but on the odd occasion that he forgets his clozapine, he feels brighter. What information would you like to find out before you consider Joe’s request for medication change? 
 
-## Acute Aggression (TODO, IN PSYCHSCENE 2021)
+
+## Acute Behavioural Disturbance (IN PSYCHSCENE 2021)
 
 You are an on-call psychiatrist in a large hospital. Your registrar calls to get advice on a case. A male has been brought into ED after his wife called the police reporting she and her child are unsafe from him. He is not known to mental health services. He is well known to police who have had contact with him on multiple occasions and he has a history of amphetamine possession. [Aggressive man brought in by police on Amphetamine after his wife and kids felt threatened and contacted police]. He received 10mg IV Droperidol twice and IM Midazolam for sedation and needed physical restraint. He is unresponsive after that. 
 
+> List immediate management (4 marks)
+
+- Primary survey
+  - Ensure surroundings are safe
+  - Escalate to MET call
+  - Check airway, breathing and circulation
+  - Commence CPR if unresponsive
+  - Moving to resus bay 
+- Collateral Hx: poossible toxin usage including methamphetamines or other
+- **Ongoing monitoring going forward with special**
+
+
+## Acute Behavioural Disturbance
+
 > The nurse says he is awake and physically stable and requests a psychiatric assessment. What will you ask the registrar to check?
+
+- Physical safety of patient
+  - Vitals: patient is haemodynmically stable
+  - Organic investigations: urine drug screen, routine bloods and/or derangement
+- Psychiatric mental state
+  - History of presenting complaint: onset and duration of aggression, reasons for aggresion, actions including using weapons, threatening violence
+  - Drug and alcohol Hx: amount and frequency of methamphetamine use, other substances including alcohol and cannabis
+  - Forensic Hx: nature of charges, likely DV, consider other assault / manslaughter
+  - Mental state
+    - Paranoia, delusions of infidelity
+    - Drug intoxication
+    - Thoughts of self harm vs thoughts of harm towards other
+  - Capacity / cognitive assessment
+  - Psychiatric issues
+  - Baseline personality
+- Collateral Hx
+- **Risk assessment**
+- **Presence of AVO**
+- Safety of wife and kids going forward, whether can stay with supports
+
+## Acute Behavioural Disturbance - Principles
 
 > Registrar asks you what the principles of management of safe practices in Acute severe behavioural Disturbances? (12 marks) 
 
-## Psychotherapy (TODO, IN PSYCHSCENE 2021)
+- Balance of risks and benefits in regards to PRN management
+- Consider least restrictive care in line with non-maleficence
+  - Attempt verbal de-escalation if patient is agitated 
+  - Consider oral PRNs if patient is accepting
+  - Escalate to IM PRNs if patient unable to be de-escalated or not accepting orals
+  - Also note attempting to avoid repeated administration if possible 
+- Consider utilitarianism views
+  - Safety of staff is of utmost priority
+  - Calm and non-judgemental approach, attempt to build rapport and therapeutic alliance
+  - Ensure that security staff are present, escalate to code black
+- Consider legal framework
+  - If unwell in context of intoxication with lack of capacity, either via Mental Health Act or duty of care
+- Safety following sedation
+  - Ongoing physical monitoring as per protocol
+  - Note potential hypotensive and respiratory depression in context of PRNs
+  - Patient should be monitored closely in case of compromise
+- Consider further escalation with anaesthetic and ICU involvement depending on risks
+- **Offer debriefing following sedation and/or restraint**
+
+## Psychotherapy (IN PSYCHSCENE 2021)
 
 Young IT clinician, not socialising, spends most of the time on the computer late at night, well-functioning but thinks that “I am a loner, I am a loser”. His father died 3 years back, he enjoyed wood cutting with him and misses him. Isolating in past 3 years has gained weight.
 You have diagnosed him with mild to moderate depression and he wants to do psychotherapy.
-List and debate the MOST important psychotherapy options for him.
 
-> List and explain factors preventing him from doing homework.
+> List and debate the MOST important psychotherapy options for him.
+
+- Cognitive behavioural therapy
+  - Strong negative cognitionos of "I'm a loner, I'm a loser"
+  - Lack of behavioura lactivation with withdrawal, spending most of the time on the computer
+  - **Evidence-based treatment**
+- Interpersonal therapy
+  - To help with grief
+- Psychodynamic psychotherapy
 
 
-## Perinatal Psychiatry and IVF (TODO, IN PSYCHSCENE 2021)
+## Psychotherapy - Psychoeducation
+He prefers face to face CBT
 
-39 years old, single lady, on DSP, diagnosed with chronic Schizoaffective disorder, maintained on Clozapine 600mg and lithium, no substance use disorder, good compliance and engaging well with the last admission 3 years back. Her BMI is 35.
-Does she want to have a baby via IVF? 
+> List and explain what will you cover in homework with him.
 
-## Religious Beliefs (TODO, in PSYCHSCENE 2021)
+- Discuss thought journals and diaries
+  - Monitoring when **automatic thoughts** and cognitions are triggered including frequency and Subjective Units of Distress
+- Discussed behavioural therapy
+  - Behavioural activation: wood-cutting, leaving the house, active monitoring
+  - Distraction strategies
+  - In-vivo exposure and response prevention
+- **Preparing for next week's session**
+
+
+## Psychotherapy - Complicating Factors
+
+He reported to the registrar that you are supervising that he does not want to do homework.
+
+> List and explain factors preventing him from doing homework. (7 marks)
+
+- Illness factors
+  - Fatigue and withdrawal secondary to depression
+  - Lack of subjective improvement
+- Patient factors
+  - Lack of motivation regarding getting better 
+  - Other psychosocial stressors impairing ability to do homework eg. finances
+  - Perpeutating factors eg. personality style and maladaptive coping
+  - Ongoing drug and alcohol use
+  - Intellectual disability
+- Treatment factors
+  - Lack of understanding of purpose of homework
+  - Poor therapeutic alliance with therapist
+
+
+## Perinatal Psychiatry and IVF (IN PSYCHSCENE 2021)
+
+39 years old, single lady, on DSP, diagnosed with chronic Schizoaffective disorder, maintained on Clozapine 600mg and lithium, no substance use disorder, good compliance and engaging well with the last admission 3 years back. Her BMI is 35. Does she want to have a baby via IVF? 
+
+> What advice you will give her. (9 marks)
+
+- Note: IVF = no teratogenic exposure, most considerations involve post-natal ie. breastfeeding. This question is weird if regarding IVF due to former.
+- Therapeutic alliance
+- Psychoeducation re risks and benefits involved with IVF
+  - Risk of clozapine during pregnancy and changes in levels
+
+## Postpartum Psychosis - Management
+
+She delivers a baby and 3 weeks postnatal, the midwife contacts you concerned about her that she believes that God was telling her that it’s a devil’s child and she is refusing to seek mental health assessment.
+
+> How will you respond to her concerns. (7 marks)
+
+- Contain and validate concerns from midwife
+- Discuss referral to ED for concerns of mental state deterioration
+- Can call the ambulance or the O&G team depending on setting for involuntary detainment due to risk assessment
+- Main concern will be of psychotic relapse in context of pregnancy
+  - Unclear if regular psychotropics have been pharmacokinetically changed due to pregnancy
+  - Exclude other causes including non-compliance and substance use
+  - Hormonal changes may also increase risk of relapse
+- Supports available, noting single, and whether baby can be looked after by others
+- Collateral
+
+## Religious Beliefs - Cultural Phenomology (TODO)
 
 Marian is diagnosed with Squamous cell carcinoma and the surgeon wants to operate but he is refusing treatment. 
 He believes that god will cure him.
+
+> How will you differentiate psychotic beliefs and religious beliefs / Describe the phenomenology of psychotic vs non-psychotic religious beliefs? (7 marks)
+
+- Therapeutic alliance: open understanding of beliefs
+- Assess reasons for belief whether cultural vs religious
+- Assess whether delusional
+  - Fixed and unwavering, despite evidence otherwise
+  - Explore the extent and systematisation of delusions: whether god grants him beliefs etc.
+
+## Religious Beliefs - Professional
+
+One of the ward nurses knows him from the church group. Registrar asks her to go and talk to his Church member/ family to come and talk to us. The nurse refuses and declines it.
+
+> What are the professional issues in the request made by the registrar to the nurse? (10 marks)
+
+- Conflict of interest
+  - This nurse should not be involved in the patient's care
+  - Correct in refusing to be involved in the therapeutic relationship
+  - Boundary violation from above initiated by registrar
+- Beneficence
+  - Registrar likely well-intentioned
+  - Means of involving patient's supports and peers can be facilitated via different approaches including contacting carers and family
+  - Can identify Church from talking to patient
+- Issues of confidentiality and sharing of information if patient's Church members become involved
+  - Ideally consent the patient regarding further involvement
+- **Discuss ethics**
+- **Supervision**
 
 ## Cultural Stigma (REPEAT FROM PSYCHSCENE VIDEOS)
 
@@ -1824,10 +1969,60 @@ Two days after surgery, the spinal injury team contacts you expressing concern a
 Tony is demanding to smoke cannabis and cigarettes and says he cannot cope with hospital without them. He has threatened to sign himself out of hospital. He is verbally aggressive towards staff especially when they try to discuss the hospital smoke free policy with him. the staff would like your help in managing Tony.
 You registrar says the diagnosis is Antisocial Personality Disorder
 
-## Indigenous Psychiatry (TODO, NEW)
+## Indigenous Psychiatry - Risks
 
 Mr. Davies is a 60 year old Aboriginal man with chronic paranoid schizophrenia. He lives with his son, daughter-in-law and 2 grandchildren (3 and 5 years old). He is on a flupenthixol depot 20 mg IM 2 weekly and has been managed in the community. In the past when unwell, he has responded to an increased dose in his medications. He has a past history of verbal aggression and paranoia toward the neighbours. Recently, a member of the family passed away and Mr. Davies' psychotic symptoms worsened - he started expressing more paranoid persecutory ideation regarding his neighbours trying to poison him. He thinks that the only way to solve this is to smoke them by burning their houses. He also thinks that his 4 year-old grandson, Tyler, is trying to poison him. Mr Davies has lost weight as a result of this.
-List the risks inherent in the scenario.
+
+> List the risks inherent in the scenario.
+
+- Risk to grandchildren
+  - Exposure to severe mental illness
+  - Retaliation against grandson for poisoning him
+- Risk to neighbours
+  - Verbal aggression
+  - Physical attempts to protect oneself may lead to violence
+  - Retaliation against perceived poisoning
+  - Burning down their houses
+- Risk to reputation
+- Risk to self
+  - Self-neglect secondary to distress from psychosis
+- Risk to public due to burning down of houses
+- **Risk of refeeding**
+- **Risk of disengagement**
+- **Risk of misdiagnosis due to cultural elements**
+
+## Indigenous Psychiatry - Approach
+
+Mr. Davies' son thinks that you need to increase the dose of Mr. Davies depot as this worked in the past. (The son wants the father to be managed at home. He believes he can convince his father to take some oral medications (Olanzapine). You agree to the plan. However, the Aboriginal liaison worker thinks that this is a normal cultural response to a death in the family and not a relapse of schizophrenia. He feels patient should not be managed with medication, that he should be managed with traditional healing instead and wants to involve a traditional healer.
+
+> Outline your approach to the situation.
+
+- Preparation
+  - Therapeutic alliance: non-judgemental, reassuring, calm, approach
+- Multidisciplinary meeting with Aboriginal Liaison Worker, Mr Davies, Mr. Davies' son and case manager
+  - Gather information from all sides
+  - Beliefs of whether this is a relapse, whether this is cultural
+  - Explore views from all parties
+  - Discuss what traditional healing involves in regards to rituals, traditional substances
+  - Discuss usage of medications as well due to risk involved in regards to paranoia
+- Psychoeducation of impression from psychiatric review
+- **Involvement of community elders**
+
+## Indigenous Psychiatry - Difficult Situation
+
+Mr. Davies' son approaches you as his wife wants to leave the family home as she feels threatened by Mr. Davies. He has been looking suspiciously at the grandchildren. Mr Davies' son feels torn between his loyalties to his wife and father. He asks for your advice. 
+
+> Outline your approach.
+
+- Therapeutic alliance
+- Psychoeducation: risks involved with relapse and current behaviour of grandfather
+- Discuss risk management
+  - Treatment of relapse of schizophrenia: will decrease paranoia
+  - Cultural factors involving liaising with traditional healers and elders
+- Discuss psychology for wife due to concerns which are reality based
+- Consider organising meeting
+- Arrange follow-up
+- **Involve Indigineous liaison worker**
 
 ## CTO and Ethics (REPEAT FROM PSYCHSCENE VIDEOS)
 26 year male with Hx of Schizoaffective disorder and Meth dependence. 

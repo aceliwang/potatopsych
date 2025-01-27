@@ -30,3 +30,163 @@ Explain your findings to the patient.
   - Hypervigilance
   - Flashbacks and nightmares
   - Hyperarousal
+
+
+# 2021 Jul Station 1 - Hoarding
+
+- Assessment
+  - History of presenting complaint
+    - Insight into current predicament
+    - Discuss concerns raised by police
+      - Hoarding, duration, onset, attachment to items
+      - Reasons for hoarding, difficulty throwing things away
+      - Screen for psychosis, obsessive-compulsive disorder, OCPD
+      - Screen for affective disturbances
+      - Functional impairment from hoarding, difficulty performing ADLs and general tasks
+      - Recent stressors
+      - Exacerbating factors
+    - Discuss concerns raised by neighbours: rats and mice
+      - Extent of squalour
+      - Assess other self-care including ADLs and medics
+  - History
+    - Psychiatric: diagnoses, psychology, regular medications
+    - Family Hx: behaviour of parents regarding hoarding
+    - Drug and alcohol use
+    - Developmental Hx
+    - Psychosocial Hx: supports, stability of accommodation and job
+    - Premorbid personality
+  - Risk assessment
+    - TOSH or TOHTO
+    - Vulnerability and threat of eviction
+  - Collateral if able
+- Formulation
+- Diagnosis
+  - Hoarding disorder
+- Differential diagnoses
+  - Obsessive-compulsive disorder
+  - Obsessive-compulsive personality disorder
+  - Major depressive disorder
+  - Psychotc disorder
+- Risk assessment
+  - Risk of harm to self from environment
+    - Fire hazard
+    - Squalor, mice and rats, hygiene and disease
+    - Risk of eviction due to above
+    - Risk to reputation
+    - Risk to children via exposure
+  - Psychiatric risk: risk of suicide
+- Risk management
+  - Consider insight and engagement in treatment
+  - Would benefit from forensic screening
+  - Consider involuntary detention due to risks if required
+  - Otherwise referral to hoarding and squalor services primarily NGOs
+  - Obtain collateral
+  - Offer psychological services particularly CBT with ERP
+
+# 2021 Apr Station 3 - Alcohol Use Disorder
+
+- History
+  - Presenting complaint
+  - CAGE screening
+    - Have you thought about cutting down?
+    - Has anyone been annoyed about your alcohol usage?
+    - Do you feel guilty about your alcohol use?
+    - When do you start drinking?
+  - Age of first onset, age of problematic use
+    - Physical symptoms including complications: known liver problems, ?neuropathy
+    - Prior withdrawal
+    - Prior rehabilitation and detoxification/attempts at sobriety
+    - Prior management
+    - Stage of change, evidence of harm, tolerance and dependence
+    - Other substance use
+    - Reason for use: self-medicating vs just substance use
+  - History
+    - Psychiatric comorbidity
+    - Family Hx
+    - Medical Hx
+    - Current medications
+    - Psychosocial supports: finances, accommodation
+    - Forensic Hx: drink driving, etc.
+  - Risk assessment
+    - Thoughts of harm to self 
+    - Thoughts of harm towards others
+  - Collateral
+- Diagnosis
+  - Alcohol sue disorder
+  - Complex PTSD with self-medication
+  - Borderline personality disorder with self-medication
+- Differential diagnosis
+- Pharmacological management
+  - Disulfiram/antabuse: punishes patients to quit drinking, best used if supported
+  - Acamprosate: anticraving
+  - Naltrexone: anticraving
+- Formulation
+- **Consider gambling**
+
+# 2021 Apr Station 5 - Delusional Disorder
+- Can't really just get from HPC
+
+- History
+  - Overdose on 10 temazepam tablets
+  - Reason for use, including sleep vs suicidal intention
+  - Recent stressors with difficulty adjusting
+  - Prior mental health Hx, prior suicide attempts, prior parasuicidal behaviour. Prior admissions
+  - Documented diagnoses: ?cluster B personality disorder
+  - Screen for sleep, appetite issues, guilt, psychotic
+  - Discuss coping strategies
+- MSE
+  - Labile mood?
+- Differential diagnoses
+  - Adjustment disorder
+  - Grief
+  - Major depressive disorder
+  - Borderline personality disorder
+- Investigations
+  - Routine bloods: FBC, EUC, LFT
+  - CT-B
+  - ECG: determien if medications required
+  - Thyroid function
+  - HbA1c
+- Management plan
+  - Determien current thoughts of harm to self
+  - Availability of community supports
+  - Insight and engagement with treatment
+  - Consider detention under MD / crisis admission if ongoing plans to hurt self
+  - Long-term
+    - Psychological therapy: CBT vs DBT
+    - Antidepressants to be considered
+
+# 2020 Nov Station 3 - Parkinson Disease Psychosis (LEADERSHIP TODO)
+
+- How to educate on Parkinson's disease
+  - Asking understanding
+  - Relating to nurse's, whether they know anyone with Parkinson disease
+  - Education about symptoms +/- dementia
+    - Motor symptoms
+    - Cognitive symptoms
+    - Psychosis can be either secondary to management of Parkinson disease or due to underlying process
+- Outline options to address major barriers
+  - Availability: consider an in-service and protected time for nurses
+  - Utilise written information as available for accessibility
+- Justify which key aspects of Parkinson's diesase
+  - Motor symptoms, risk of falls
+  - Interaction with psychotropics leading to worsening of symptoms secodnary to blockade
+- Relevant management that you would like to educate the nurse about
+  - Discuss setting of management, in mental health unit likely secondary to severity of psychotic symptoms, otherwise would be managed on the medical wards
+  - Empower nurse's regarding their management of essentially a psychiatric patient
+  - Avoidance of typicaly antipsychotics including zucleopnthixol acetate
+    - Can lead to worsening parkinsonian symptoms leading to risk
+-  Outline the advice you would offer the nurse-in-charge about managing the dissatisfaction of the nurses with the doctor on duty.
+
+# 2020 Nov Station 5 - Creatine Kinase
+
+- History
+  - Reason for referral: disruptive behaviour, lack of insight, increased energy/activity
+    - 
+  - Nausea, headache, blurred vision
+- Investigations
+  - Hypertensive
+  - 
+- Focussed examination
+- Differential diagnosis
+- Short-term management plan
