@@ -762,6 +762,8 @@ Examples Qs:
   - Stressors/supports
   - Roles/expectations
   - Attitudes/motivations
+- Management
+  - Consider SSRIs as per 2019 OSCE
 ---
 # Addiction Psychiatry <!-- tag:addiction-psych;id:ea013ffc-6b60-43e9-81cd-e99b1332e709 -->
 ## General Structure <!-- id:37179e66-b7e3-4d85-ae79-05a1ebc65fdb -->

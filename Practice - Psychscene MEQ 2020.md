@@ -37,3 +37,12 @@ further assessment and treatment. He had a myocardial infarction 6 months ago. H
 ### MEQ 1.c List the approach to a patient who is in debt and has financial stress. 
 
 ## MEQ 
+
+
+# NEW
+
+
+
+## MEQ 5
+
+## MEQ 8.3 J

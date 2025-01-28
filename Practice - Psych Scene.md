@@ -2026,6 +2026,5 @@ Mr. Davies' son approaches you as his wife wants to leave the family home as she
 
 ## CTO and Ethics (REPEAT FROM PSYCHSCENE VIDEOS)
 26 year male with Hx of Schizoaffective disorder and Meth dependence. 
-Patient is released from prison 2 weeks ago on depot clopixol and olanzapine. Currently on enforced treatment MHA (not forensic licence).
-He tells you that he is drug free as he is required to do random UDS for the next 6 months part of his bail condition.
-He came to see you with his sister who is adamant that he should not be on a treatment order, and that he has rights to choose his own treatment.
+Patient is released from prison 2 weeks ago on depot clopixol and olanzapine. Currently on enforced treatment MHA (not forensic licence). He tells you that he is drug free as he is required to do random UDS for the next 6 months part of his bail condition. He came to see you with his sister who is adamant that he should not be on a treatment order, and that he has rights to choose his own treatment.
+

@@ -84,6 +84,7 @@ Previous medication trials
 Current medications
 - Moclobemide
 - Medicinal cannabis
+- Lamictal
 
 
 ## Drug, Alcohol and Gambling History
@@ -102,13 +103,19 @@ Simon reports a paternal cousin living in Lebanon with a background of schizophr
 
 ## Family Genogram
 
+- Father
+- Mother
+- One sister
+- Two brothers
+
 ## Personal and Developmental History
 
 ### Developmental
 
 ### Childhood
 
-- Left at the age of 2
+- Left Lebanon at the age of 2 and arrived in Australia
+- Nil conflict at the time in Lebanon
 
 ### School
 
@@ -126,13 +133,27 @@ Simon reports a paternal cousin living in Lebanon with a background of schizophr
 
 ### Father
 
-### Siblings
+### Sister
+
+Simon describes his sister as mature and similar to 
+
+### Brother #1
+
+
+
+### Brother #2
+- Frustrating
+- Ongoing issues at school
+- Protected by mother particularly
+- Forensic issues requiring incarceration
+- Had a kid
 
 ### Wife
 - Marriage of 16 years, brought 
 
 ### Ex-wife
 - Prior marriage of 12 years
+- Ex-in-laws 
 
 ## Mental State Examination
 

@@ -219,3 +219,81 @@ Determine the likely attachment style of the dyad.
 Explain different attachment styles and their significance.
 
 Prioritise specific interventions to support Rhianna and Charlie
+
+
+# 2019 Sep Station 6 - Functional Neurological Disorder
+
+- History
+  - Therapeutic alliance
+  - HPC
+    - Recent stressors
+    - Recent injuries
+    - Previous seizures
+    - Issues with engagement in staff
+    - Understanding of health
+    - Premorbid personality
+    - Coping style
+    - Drug and alcohol usage
+    - Screening for depression
+- Communication: not accepted by  OSCE
+  - Hardware and software analogy re functional neurological disorder
+  - Nil structural issues leading to symptoms
+  - Likely stressors contributing to current symptoms
+- Treatment
+  - Psychological therapy
+  - Treat for depression if present
+  - Involvement of family
+  - Psychoeducation
+
+# 2019 Sep Station 9 - CBT
+
+- Confirm that the patient understands the stages of CBT for their phobia.
+  - Modules with combination of cognitive and behavioural exercises
+  - Homework in between
+  - Exposure and response prevention whether in vivo or imaginal exposure
+- Choose specific skills to demonstrate how to control the patient’s anxiety.
+  - Relaxed breathing exercises
+  - Progressive muscle relaxation
+  - Distraction strategies
+- Explain techniques that you will be using as part of CBT to manage the patient’s phobia.
+  - Graded exposure and response, likely imaginal in nature
+
+
+# 2019 Sep Station 10 - MSE
+
+- Findings
+  - Flat affect: observe reactivity in response to interview
+  - Thought disordered: attempt to question and observe tangentiality
+  - Delusions of persecution: who is after her, why are they after her, evidence
+  - Delusions of refereence: TV/radio/social media
+  - Auditory hallucinations: how many voices
+  - Visual hallucinations: what is she seeing, what messages, distress
+
+# 2019 Sep Station 11 - Motivational Interviewing (HAVE NOT COMPLETED)
+
+- Highlighting the strengths and focusing on these
+- Empathetic understanding
+- Rolling with resistance
+
+# 2019 Apr Station 1
+
+- Explain how you would have managed that situation if you were the doctor conducting the interview, after it was temporarily halted at 7.12 minutes, when the patient experienced difficulties.
+  - Verbal de-escalation
+  - Grounding techniques
+  - Therapeutic alliance
+  - Supportive statements
+- Present your mental state examination of the patient. 
+  - Speech: increasing escalation
+  - Behaviour: agitation
+  - Mood: anxious
+  - Thought content: catastorophising
+- Present your formulation of the patient’s situation.
+  - Precipitated by god knows what
+- Discuss the risks and benefits of the patient’s current choice of treatment.
+  - Benzos: dependence, risk of falls
+  - R
+- Outline your management plan for this patient.
+
+# 2019 Apr Station 2
+
+- 
