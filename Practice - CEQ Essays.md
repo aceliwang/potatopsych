@@ -69,56 +69,52 @@ Ultimately, it s important to recognise the complex and multi-faceted nature of 
 
 ## Stigma - Edited
 
-> “Being excluded blights the lives of the mentally ill. Exclusion is both cause and consequence of mental ill-health and extends beyond material deprivation to exclusion from the activities which give meaning to life.”
+> “Being excluded blights the lives of the mentally ill. Exclusion is both cause and consequence of mental ill-health and extends beyond material deprivation to exclusion from the activities which give meaning to life.” 
 
-> Questions: is there much to explore regarding the "other side" of the quote?
+
+
+> Questions: is there much to explore regarding the "other side" of the quote?: Exclusion is thus not the only cause and consequence of mental illness.
 
 Structure
 - Generic intro topic sentence
 - Delve deeper a bit more
 - "This essay will explore [ ] and the steps that psychiatry is undertaking to address this to further the recovery process and improve outcomes.
 
-INTRO
-The stigma of mental illness and its multifaceted pathway to recovery has persisted despite the perpetual changes in the psychiatric field. The stimulus suggests that   is 
+INTRO: 73/100
+[The stigma of mental illness and its multifaceted pathway to recovery has persisted despite advancements in the psychiatric field.]
+The stimulus suggests that [such stigma with subsequent exclusion from mainstream society can also cause and perpetuate mental illness further]. This essay will explore the [impact of such exclusion, psychiatry's role in its perpetuation] and the steps that psychiatry is undertaking to address this to further the recovery process and improve outcomes. 
 
-This essay will explore the impact of such exclusion, psychiatry's role in its perpetuation and the steps that psychiatry is undertaking to address this to further the recovery process and improve outcomes. 
+HISTORY/ETHICS: 208/200
+HISTORY TOPIC: Stigma and the subsequent exclusion of mental health consumers has developed in the context of centuries of historical and sociocultural influence. 
+EXAMPLE: For example, homosexuality was previously considered a psychiatric illness in earlier editions of the DSM and its unacceptability led to the development of dehumanising practices such as conversion therapy.  
+EXPLAIN: This "mental illness" manifested from its perceived incompatibility with traditional Christian values and exclusion from Christian populations and also led to ongoing discriminatory practices that have contributed to the evolution of gender dysphoria disorder. This residual stigma continues to manifest as distress related to homosexual identification in conservative communities with subsequent disproportionate suicide rates as well as ongoing barriers against seeking help and care. 
 
-HISTORY
-Stigma and the subsequent exclusion of mental health consumers has developed in the context of centuries of historical and sociocultural influence. The existence of mental disorders date back to ancient Mesopotamia (Parys, 2014) and was believed to be the consequence of supernatural deities with subsequent moral implications upon those afflicted. 
+ETHICS TOPIC: Furthermore, from a principle-based ethics perspective, the use of psychiatric diagnoses is essential to provide beneficence to guide biopsychosocial management. However, it must also be approached with caution due to its potential for misuse, thus violating non-maleficent ideals.
+EXAMPLE: Historically, a diagnosis of "sluggish schizophrenia" was used to suppress and institutionalise political dissidents in the Soviet Union, thus excluding them from daily "activities" and leading to their subsequent dehumanisation.
+LINK: Reflection upon these flaws and past errors supported by the psychiatric field not only reinforces the requirement of recommitment to ethics but also the need for psychiatrists to advocate upon those deemed mentally ill.
 
-ETHICS
+CULTURAL: 193/200
+TOPIC: Concomitantly, the impacts of stigma can also be observed within the practice of psychiatry within alternative cultures in Australia.
+EXAMPLE: For example, the exclusion of the First Nations population as people due to the racism and exclusion from early colonisers led to development of discriminatory policies including that of the Stolen Generation of which psychiatry was complicit (RANZCP Position Statement 42).
+EXPLAIN: The subsequent intergenerational trauma is reflected not only within discordant rates of mental illness including higher prevalence of suicides and psychoses but also manifests within consequent systemic discrimination including higher rates of involuntary assessment and incarceration. 
+**LINK: Reconciliation of the intergenerational trauma and lived experience of First Nations people thus highlights the need for psychiatrists to advocate for its consumers.** 
+IMPROVEMENT: Fortunately, there has been increased incorporation of Aboriginal Liaison Officers and peer workers into the multidisciplinary team to incorporate both a holistic model of care and to align the healthcare system with the recovery model.
+LINK: Thus, the integration of cultural sensitivity and inclusion of aspects from alternative models of health is vital in supporting the wellbeing of different cultural groups including that of the First Nations communities.
 
-CULTURAL
-TOPIC SENTENCE
-EXAMPLE: For example, the exclusion of the First Nations population as people due to the racism within early Australian colonisers led to development of discriminatory policies including that of the Stolen Generation of which psychiatry was complicit within (RANZCP Position Statement 42).
-EXPLAIN: The subsequent intergenerational trauma is reflected not only within discordant rates of mental illness including higher prevalence of suicides and psychoses but also manifests within systemic discrimination including higher rates of involuntary assessment and incarceration. 
+CLINICAL: 203/200
+- TOPIC: Finally, my participation in Balint supervision groups have highlighted the excluding nature of conventional public psychiatric practice, which can potentiate ongoing mental illness within its consumers.
+- EXAMPLE: Involuntary detainment, compounded by paranoia and hallucinations, with forced injections of biological therapies and their removal from existing community supports and mainstream society, can be highly traumatising.
+- EXPLAIN: Although in line with beneficent principles to reduce clinical distress and the risk of consumers towards both themselves and others via biological approaches, the paternalistic and traumatising nature of their experiences within psychiatrist practice may preclude their participation in rehabilitation and long-term preventative care, leading to a perpetual and vicious cycle when they unfortunately become unwell again. 
+- LINK: 
+- IMPROVEMENT: This has led to my adoption of Open Dialogue Model strategies, which involves conducting team discussions and reflections in the presence of consumers and their carers. 
+- EXPLAIN: This provides an opportunity to enhance patient-centred care and restores a limited degree of autonomy back to the consumer to further the therapeutic alliance and promote their recovery process.
+- LINK: Such shared-decision practice reaffirms our roles as collaborators and advocates for our consumers (CANMEDS, 2015) to [address their exclusion and address such perpetuating factors]
 
+CONCLUSION: 88/50
+Ultimately, it is important to recognise the complex and multi-faceted nature of psychiatry that extends beyond traditional medical models of assessment and management. [Recognition of the interplay between stigma and mental illness necessitates the need for psychiatrists to advocate for its consumers to both prevent the incidence of mental illness and reduce barriers impairing the recovery process.] Fortunately, psychiatry is shifting towards patient-centred care, in line with the recovery model, by incorporating trauma-informed practice and recovery-oriented principles, to the benefit of its consumers and society as a whole.
 
-HISTORY
-- TOPIC
-- EXAMPLE 1
-- EXPLAIN EXAMPLE
-- CONCLUSION
-
-ETHICS
-- TOPIC
-- EXAMPLE
-- EXPLAIN
-- CONCLUDE
-
-CULTURAL
-- TOPIC
-- EXAMPLE
-- EXPLAIN
-- CONCLUDE / LINK
-
-CLINICAL
-- TOPIC
-- EXAMPLE
-- EXPLAIN
-- CONCLUDE / LINK
-
-CONCLUSION
+100 + 200 + 200 + 200 + 50
+-50 for heading wrods
 
 *Stigma does not emerge from a vacuum, and develops on the back of centuries of historical and sociocultural influence.* The existence of mental disorders dates back to ancient Mesoptomia (Parys, 2014) where it was initially believed that mental illness manifested as a result of divine Gods, with subsequent moral implications being imposed upon the unwell. Despite advancements in our understandings of mental disorders including embracing of the biological model to break down stigma, the historical practice of psychiatry led to enduring stigma and exclusion of those considered mentally ill. For example, homosexuality's previous diagnosis as a mental disorder led to irrevocable harms of dehumanisation and exclusion, leading to ongoing issues with identity ??? ?INCLUDE DSM or not
 
