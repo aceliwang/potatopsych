@@ -51,13 +51,89 @@ Concomitantly, alternative experiences of illness can arise from different cultu
 Finally, the pursuit of biological management encompassed my experience in the inpatient setting from my early experience as a a registrar. Such involuntary management compounded by restrictive environments, paranoia and sensory disturbances can be highly traumatising and although focus on the biological underpinnings, via use of antipsychotics led to short-term improvements measured by reduction in symptoms, this needs to be balanced with the consideration of the nonbiological factors including those of Freuds, as it prejudices consumers against participating in long-term preventative care and rehabilitation, perpetuating a viscious cycle of retraumatisation when unwell. Supervision in Balint groups has highlighted the impact and harms of traditional paternalistic practice to ??? along the biological approach and attests to our duties as a collaborator and advocate (CANMEDS 2015). This has led to my adoption of strategies from the Open Dialogue Model (Sekkilah, 2001) by conducting team discussions and reflections in the presence of consumers and carers to promote patient centred-care and to enhance autonomy, in line with the recovery model. 
 In conclusion, it is important to recognise the complex and multifaciated nature of psychiatry that although has benefited from biological advancements, also requires consideration beyond the medical model. Neglecting the holistic picture can damage the therapeutic alliance, disengage consumers and complicate the recovery process. Psychiatry has evolved in its shift towards patient-centred care as reflected within incorporation of trauma-inofrmed principles, cultural safety and recovery-oriented strategies to the benefit of our consumers and society as a whole.
 
-## Stigma
+## Stigma - Timed
 
 > “Being excluded blights the lives of the mentally ill. Exclusion is both cause and consequence of mental ill-health and extends beyond material deprivation to exclusion from the activities which give meaning to life.”
 
-Psychiatry is unique in that there remains robust debate about the nature, and very existence, of the diseases it claims to treat. This discourse exists both within the psychiatric field itself but also extends to how mental illness is viewed by the general population, leading to stigmatisation and subsequent discrimation and "exclusion" of our consumers. This essay will explore the factors that have contributed to the development of stigma, its impact and its perpetuating nature as well as the steps that psychiatry are undertaking, with incorporation of trauma-inforced and recovery-oriented approaches to further the recovery process and improve functional outcomes in the face of stigma.
+Psychiatry is unique in that there remains robust debate about the nature, and very existence, of the diseases it claims to treat. This discourse exists both within the psychiatric field itself but also extends to how mental illness is viewed by the general population, leading to stigmatisation and subsequent discrimination and "exclusion" of our consumers. This essay will explore the factors that have contributed to the development of stigma, its impact and its perpetuating nature as well as the steps that psychiatry are undertaking, with incorporation of trauma-informed and recovery-oriented approaches to further the recovery process and improve functional outcomes in the face of stigma.
 
-*Stigma does not emerge from a vacuum, and develops on the back of centuries of historical and sociocultural influence.* Ignorance of this fact can lead to irrevocable harms 
+*Stigma does not emerge from a vacuum, and develops on the back of centuries of historical and sociocultural influence.* The existence of mental disorders dates back to ancient Mesoptomia (Parys, 2014) where it was initially believed that mental illness manifested as a result of divine Gods, with subsequent moral implications being imposed upon the unwell. Despite advancements in our understandings of mental disorders including embracing of the biological model to break down stigma, the historical practice of psychiatry led to enduring stigma and exclusion of those considered mentally ill. For example, homosexuality's previous diagnosis as a mental disorder led to irrevocable harms of dehumanisation and exclusion, leading to ongoing issues with identity ??? ?INCLUDE DSM or not
+
+From a beneficence ethical perspective, it is important for psychiatrists to advocate for those assessed as mentally ill due to the systemic discriminations against the mentally ill, particularly following the intentional misuse of psychiatric diagnoses as a political tool eg. the use of "sluggish schizophrenia" (Merskey, 1986) which was used to actively harm political dissidents in the Soviet Union by rationalising their detention and dehumanisation, thus leading to "exclusion" from not only activities which give meaning to life, but daily routine life in general. Thus, although psychiatric diagnosis within the medical model is essential to guide biopsychosocial management, it must be conducted with care and along non-maleficent principles due t othe harm and stigma that accompanies, particularly when these terms are used in legal, forensic and insurance settings, where the true extent of psychological distress and functional impairments are lost. Reflection upon these past flaws and errors reinforces the commitment to ethics.
+
+Concomitantly, "exclusion" and stigmatisation also arises due to different understandings of health amid different cultural contexts. For example, First Nations people appreciate a holistic model of health with greater concern of familial and spiritual factors and this model does not always align with the general medical model that is utilised in contemporary hospital practice. Subsequently, lack of treatment response due to these discordant models of health can lead to development of stigma against certain marginalised populations, with internalised discrimination. Such prractice not only ignores critical aspects of their concept of health but also reinforces the power imbalances present from historical oppression, eg. the Stolen Generation ie. as a consequence of exclusion from Western society. This manifests as discrimination with increased rates of involuntary assessments and incaraceration as well as increased mental illness including higher rates of suicide and psychoses. Fortunately, psychiatry is incorporating peer support workers and Aboriginal Liaison Officers into multidsciplinary care for greater cultural sensitivty and accepance of their holistic model in line with the recovery model. Thus, it is improtant to prioritise the integration of cultural safety to support the wellbeing of different cultural groups including INdigineous communitieis and their Elders and beyond.
+
+Finally, my experience within supervision in Balint groups have highlighted the traumtaising impact of conventional psychiatric practice. Involuntary detainment for the purpose of primarily biological management leads to further senses of exclusion as consumers are essentially removed from the general population. Although this is performed in beneficent principles to reduce the risk of immediate harms, such practices have long-term effects in facilitating participation in long-term preventative care and rehabilitation once symptoms are under control, leading to further stigmatisation and barriers to improve. This has led to my adoption of the Open Dialogue Model ideals (Sekkilar, 1990s), invloving providng a sense of auotonomy to patients in line with the recovery model and approaches to enhance the therapeutic alliance.
+
+Ultimately, it s important to recognise the complex and multi-faceted nature of psychiatry that extends byoned traditional medical models of assessment and managing noting the impact of stigma that both contributes and eventuates from our practice. Psychiatry has fortunately shifted towards patient-centred care and recognises the influence of stigma, with incorporation of trauma-informed principles and recovery-oriented strategies, thus demonstrating the ongoing need for examination and scrutinisation of its practice to provide benefits to its consumers and society as a whole.
+
+## Stigma - Edited
+
+> “Being excluded blights the lives of the mentally ill. Exclusion is both cause and consequence of mental ill-health and extends beyond material deprivation to exclusion from the activities which give meaning to life.”
+
+> Questions: is there much to explore regarding the "other side" of the quote?
+
+Structure
+- Generic intro topic sentence
+- Delve deeper a bit more
+- "This essay will explore [ ] and the steps that psychiatry is undertaking to address this to further the recovery process and improve outcomes.
+
+INTRO
+The stigma of mental illness and its multifaceted pathway to recovery has persisted despite the perpetual changes in the psychiatric field. The stimulus suggests that   is 
+
+This essay will explore the impact of such exclusion, psychiatry's role in its perpetuation and the steps that psychiatry is undertaking to address this to further the recovery process and improve outcomes. 
+
+HISTORY
+Stigma and the subsequent exclusion of mental health consumers has developed in the context of centuries of historical and sociocultural influence. The existence of mental disorders date back to ancient Mesopotamia (Parys, 2014) and was believed to be the consequence of supernatural deities with subsequent moral implications upon those afflicted. 
+
+ETHICS
+
+CULTURAL
+TOPIC SENTENCE
+EXAMPLE: For example, the exclusion of the First Nations population as people due to the racism within early Australian colonisers led to development of discriminatory policies including that of the Stolen Generation of which psychiatry was complicit within (RANZCP Position Statement 42).
+EXPLAIN: The subsequent intergenerational trauma is reflected not only within discordant rates of mental illness including higher prevalence of suicides and psychoses but also manifests within systemic discrimination including higher rates of involuntary assessment and incarceration. 
+
+
+HISTORY
+- TOPIC
+- EXAMPLE 1
+- EXPLAIN EXAMPLE
+- CONCLUSION
+
+ETHICS
+- TOPIC
+- EXAMPLE
+- EXPLAIN
+- CONCLUDE
+
+CULTURAL
+- TOPIC
+- EXAMPLE
+- EXPLAIN
+- CONCLUDE / LINK
+
+CLINICAL
+- TOPIC
+- EXAMPLE
+- EXPLAIN
+- CONCLUDE / LINK
+
+CONCLUSION
+
+*Stigma does not emerge from a vacuum, and develops on the back of centuries of historical and sociocultural influence.* The existence of mental disorders dates back to ancient Mesoptomia (Parys, 2014) where it was initially believed that mental illness manifested as a result of divine Gods, with subsequent moral implications being imposed upon the unwell. Despite advancements in our understandings of mental disorders including embracing of the biological model to break down stigma, the historical practice of psychiatry led to enduring stigma and exclusion of those considered mentally ill. For example, homosexuality's previous diagnosis as a mental disorder led to irrevocable harms of dehumanisation and exclusion, leading to ongoing issues with identity ??? ?INCLUDE DSM or not
+
+From a beneficence ethical perspective, it is important for psychiatrists to advocate for those assessed as mentally ill due to the systemic discriminations against the mentally ill, particularly following the intentional misuse of psychiatric diagnoses as a political tool eg. the use of "sluggish schizophrenia" (Merskey, 1986) which was used to actively harm political dissidents in the Soviet Union by rationalising their detention and dehumanisation, thus leading to "exclusion" from not only activities which give meaning to life, but daily routine life in general. Thus, although psychiatric diagnosis within the medical model is essential to guide biopsychosocial management, it must be conducted with care and along non-maleficent principles due t othe harm and stigma that accompanies, particularly when these terms are used in legal, forensic and insurance settings, where the true extent of psychological distress and functional impairments are lost. Reflection upon these past flaws and errors reinforces the commitment to ethics.
+
+Concomitantly, "exclusion" and stigmatisation also arises due to different understandings of health amid different cultural contexts. For example, First Nations people appreciate a holistic model of health with greater concern of familial and spiritual factors and this model does not always align with the general medical model that is utilised in contemporary hospital practice. Subsequently, lack of treatment response due to these discordant models of health can lead to development of stigma against certain marginalised populations, with internalised discrimination. Such prractice not only ignores critical aspects of their concept of health but also reinforces the power imbalances present from historical oppression, eg. the Stolen Generation ie. as a consequence of exclusion from Western society. This manifests as discrimination with increased rates of involuntary assessments and incaraceration as well as increased mental illness including higher rates of suicide and psychoses. Fortunately, psychiatry is incorporating peer support workers and Aboriginal Liaison Officers into multidsciplinary care for greater cultural sensitivty and accepance of their holistic model in line with the recovery model. Thus, it is improtant to prioritise the integration of cultural safety to support the wellbeing of different cultural groups including INdigineous communitieis and their Elders and beyond.
+
+Finally, my experience within supervision in Balint groups have highlighted the traumtaising impact of conventional psychiatric practice. Involuntary detainment for the purpose of primarily biological management leads to further senses of exclusion as consumers are essentially removed from the general population. Although this is performed in beneficent principles to reduce the risk of immediate harms, such practices have long-term effects in facilitating participation in long-term preventative care and rehabilitation once symptoms are under control, leading to further stigmatisation and barriers to improve. This has led to my adoption of the Open Dialogue Model ideals (Sekkilar, 1990s), invloving providng a sense of auotonomy to patients in line with the recovery model and approaches to enhance the therapeutic alliance.
+
+Ultimately, it s important to recognise the complex and multi-faceted nature of psychiatry that extends byoned traditional medical models of assessment and managing noting the impact of stigma that both contributes and eventuates from our practice. Psychiatry has fortunately shifted towards patient-centred care and recognises the influence of stigma, with incorporation of trauma-informed principles and recovery-oriented strategies, thus demonstrating the ongoing need for examination and scrutinisation of its practice to provide benefits to its consumers and society as a whole.
+
+
+Ignorance of this fact can lead to irrevocable harms such as
+
+Psychiatric diagnoses have been used to medicalise 
 
 
 
