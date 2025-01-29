@@ -121,6 +121,36 @@ It is therefore important to recognise the complex and multi-faceted nature of p
 - Introduction and conclusion
 - Try linking it better between paragraphs
 
+# Adaptations
+
+## Diagnostic Framework
+
+- **Intro**: Psychiatry is unique in medicine in that there remains robust debate ... particularly between psychiatrists and their patients.
+- **Historical**: Understandings of illness have been subject to centuries of historical and sociocultural influence and are further shaped by consumers' individual lived experience.
+- **ATSI**: Concomitantly, alternative experiences of illness can arise from different cultural contexts, deviating away from the traditional medical model. 
+- **Clinical**: 
+
+## Stigma
+
+- **Intro**: Psychiatry is unique in medicine in that there remains robust debate ... within both the academic sphere and the doctor-patient dyad. Despite advancements in the field, stigma remains a daily issue of which both doctors and patients must confront.
+- **Historical**:
+- **ATSI**:
+- **Clinical**:
+
+## Therapeutic Alliance
+
+- **Intro**: Psychiatry is unique in medicine in that there remains robust debate ... This discourse can lead to barriers in development of the therapeutic alliance and subsequently the pathway to recovery.
+- **Historical**: The trust and relationship between a doctor and consumer overlies a fragile power dynamic, subject to centuries of historical and sociocultural influence. (ESSENTIALLY A COPY)
+- **ATSI**:
+- **Clinical**:
+
+## Ethics
+
+- **Intro**: Psychiatry is unique in medicine in that there remains robust debate ... NOT COMPLETED
+- **Historical**: 
+- **ATSI**:
+- **Clinical**:
+
 
 # Trashdump
 
